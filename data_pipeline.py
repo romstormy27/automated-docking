@@ -22,7 +22,7 @@ def get_sdf_from_pubchem(cid_list:list, raw_sdf_path:str):
     and loop through them to get the sdf files
     
     '''
-    print("Dwonloading...")
+    print("Downloading...")
     for ligand in tqdm(set(cid_list)):
 
         try:

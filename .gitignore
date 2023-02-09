@@ -9,6 +9,9 @@ __pycache__/
 # experimental notebooks
 *.ipynb
 
+# github token
+github.txt
+
 # Distribution / packaging
 .Python
 build/
