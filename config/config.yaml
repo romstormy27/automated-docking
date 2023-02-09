@@ -1,0 +1,45 @@
+# ligand cid list
+ligand_cid_list:
+  - 689043
+  - 5317587
+  - 370
+  - 5280445
+  - 5280459
+  - 5281702
+  - 64945
+  - 73145
+  - 222284
+  - 519857
+  - 240
+  - 6448
+  - 3314
+  - 289151
+  - 985
+  - 442402
+  - 12306047
+  - 7460
+  - 111037
+  - 12313020
+  - 5280794
+  - 10131321
+  - 3084331
+  - 222284
+  - 6989
+
+# downloaded sdf path
+raw_sdf_path: "dataset/raw/sdf/"
+# mol2 path
+mol2_path: "dataset/processed/mol2/"
+# ligand pdbqt path
+ligand_pdbqt_path: "dataset/processed/pdbqt/ligand/"
+
+# receptor pdb path
+receptor_pdb_path: "dataset/raw/pdb/"
+# receptor pdbtq path
+receptor_pdbqt_path: "dataset/processed/pdbqt/receptor/"
+
+# interaction data path (csv file)
+interaction_data_path: "dataset/interaction_map_life.csv"
+
+# result path (pdbqt)
+docking_output_path: "dataset/results/pdbqt"
