@@ -108,9 +108,9 @@ if __name__=="__main__":
     # run convert sdf to mol2 function
     convert_sdf_to_mol2(sdf_path=raw_sdf_path, mol2_path=mol2_path)
 
-    # run convert mol2 to sdf function
+    # run convert mol2 to pdbqt function
     convert_mol2_to_pdbqt(mol2_path=mol2_path)
 
     # run convert recepter pdb to pdbqt
-    convert_pdb_to_pdbqt(pdb_path=receptor_pdb_path, pdbqt_path=receptor_pdbqt_path)
+    # convert_pdb_to_pdbqt(pdb_path=receptor_pdb_path, pdbqt_path=receptor_pdbqt_path)
 
