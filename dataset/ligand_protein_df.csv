@@ -1,0 +1,2247 @@
+pdb_id,cid,target,species,affinity,affinity_type,tanimoto
+5TPT,689043,Amyloid-beta precursor protein,Homo sapiens (Human),216000,EC50,1.00000
+1BQO,689043,Matrix metalloproteinase-9,Homo sapiens (Human),10.0,IC50,1.00000
+3FW3,689043,Carbonic anhydrase 6,Homo sapiens (Human),7330,Ki,1.00000
+4QFC,689043,D-aspartate oxidase,Homo sapiens (Human),>10000000,IC50,0.89535
+5TPT,689043,Amyloid-beta precursor protein,Homo sapiens (Human),15600,IC50,1.00000
+5EJK,689043,Integrase,Human immunodeficiency virus 1,2800,IC50,1.00000
+2A3K,689043,Tyrosine-protein phosphatase non-receptor type 7,Homo sapiens (Human),>100000,IC50,1.00000
+7LAF,689043,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),8500,IC50,1.00000
+6FE2,689043,Carbonic anhydrase 9,Homo sapiens (Human),7870,Ki,1.00000
+5X2L,689043,Serine racemase,Homo sapiens (Human),8386000,IC50,0.89535
+5TPT,689043,Amyloid-beta precursor protein,Homo sapiens (Human),>100000,IC50,0.89535
+5EJK,689043,Integrase,Human immunodeficiency virus 1,>100000,IC50,0.90526
+5TPT,689043,Amyloid-beta precursor protein,Homo sapiens (Human),67700,EC50,0.90526
+1N8S,689043,Pancreatic triacylglycerol lipase,Sus scrofa (Pig),>1000000,IC50,1.00000
+5MSB,689043,Carbonic anhydrase 12,Homo sapiens (Human),9060,Ki,1.00000
+8D43,689043,Alpha-glucosidase MAL62,Saccharomyces cerevisiae,1270574105209,IC50,0.89535
+2CAB,689043,Carbonic anhydrase 2,Mycobacterium tuberculosis,5.9e+2,Ki,1.00000
+6HOY,689043,Histone deacetylase 1/2/3/4/5/6/7/8/9/11/Polyamine deacetylase HDAC10,Homo sapiens (Human),2540000,IC50,1.00000
+7OXQ,689043,Gag-Pol polyprotein,Human immunodeficiency virus type 1 group M subtype B (isolate HXB2),>50000,IC50,1.00000
+1TZN,689043,Anthrax toxin receptor 2,Homo sapiens,>300000,IC50,1.00000
+2CAB,689043,Carbonic anhydrase 2,Homo sapiens (Human),1610,Ki,1.00000
+3D3L,689043,Lipoxygenase,Solanum tuberosum (potato),3000,IC50,1.00000
+2J8T,689043,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),32000,IC50,1.00000
+6I7I,689043,BiP isoform A,Glycine max,600000,IC50,1.00000
+7B7U,689043,DNA-directed RNA polymerase subunit beta,Escherichia coli,23775.9,IC50,1.00000
+3BT0,689043,Transthyretin,Homo sapiens (Human),67000,EC50,0.90526
+1QIB,689043,72 kDa type IV collagenase,Homo sapiens (Human),24,IC50,1.00000
+7LAF,689043,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),3000,IC50,1.00000
+4PXX,689043,"Carbonic anhydrase 5B, mitochondrial",Homo sapiens (Human),9080,Ki,1.00000
+5AKV,689043,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),>350000,IC50,1.00000
+2YQ8,689043,Prolyl 4-hydroxylase subunit alpha-1,Gallus gallus (Chicken),18000,Ki,1.00000
+2IWY,689043,3-oxoacyl-ACP synthase,Pseudomonas aeruginosa,51000,IC50,0.90526
+3LPO,689043,"Sucrase-isomaltase, intestinal",Rattus norvegicus (Rat),87450,IC50,1.00000
+3DA2,689043,Carbonic anhydrase 13,Mus musculus (mouse),10900,Ki,1.00000
+7LAF,689043,Polyunsaturated fatty acid 5-lipoxygenase,Rattus norvegicus,43000,IC50,1.00000
+5NN5,689043,Lysosomal alpha-glucosidase,Rattus norvegicus,34690,IC50,1.00000
+3DWW,689043,Prostaglandin G/H synthase 2,Homo sapiens (Human),129700,IC50,1.00000
+3BT0,689043,Transthyretin,Homo sapiens (Human),97000,EC50,1.00000
+2CAB,689043,Beta-carbonic anhydrase 1,Mycobacterium tuberculosis,5.92e+3,Ki,1.00000
+6HOY,689043,Histone deacetylase 1/2/3/4/5/6/7/8/9/11/Polyamine deacetylase HDAC10,Homo sapiens (Human),10840,Ki,1.00000
+1IOX,689043,Epidermal growth factor receptor,Homo sapiens (Human),400000,Ki,1.00000
+2CAB,689043,Carbonic anhydrase 1,Homo sapiens (Human),2380,Ki,1.00000
+6Q9T,689043,Carbonic anhydrase 14,Homo sapiens (Human),8710,Ki,1.00000
+6Q20,689043,Neuraminidase,Influenza A virus (strain A/Wilson-Smith/1933 H1N1) (Influenza A virus(strain A/WS/1933 H1N1)),>100000,IC50,1.00000
+4XUE,689043,Catechol O-methyltransferase,Rattus norvegicus (Rat),93,IC50,1.00000
+2CS5,689043,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),3060,IC50,1.00000
+1PQ3,689043,Arginase-1,Bos taurus,131000,IC50,1.00000
+3LXE,689043,Carbonic anhydrase 4,Homo sapiens (Human),10100,Ki,1.00000
+7LAF,689043,Linoleate 9S-lipoxygenase-4,Glycine max (Soybean) (Glycine hispida),600000,IC50,1.00000
+8C6I,689043,Hyaluronidase-1,Homo sapiens (Human),>2000000,IC50,1.00000
+2FW4,689043,Carbonic anhydrase 7,Homo sapiens (Human),6420,Ki,1.00000
+4JGD,689043,Dihydroorotate dehydrogenase (fumarate),Leishmania major,1584893,IC50,1.00000
+1UYM,689043,Heat shock protein HSP 90-alpha,Homo sapiens (Human),50000,IC50,1.00000
+3DWW,689043,Prostaglandin G/H synthase 1,Homo sapiens (Human),>400000,IC50,1.00000
+3G3E,689043,D-amino-acid oxidase,Homo sapiens (Human),6269000,IC50,0.89535
+2CLT,689043,Interstitial collagenase,Homo sapiens (Human),239,IC50,1.00000
+4CDE,689043,Dipeptidyl peptidase 4,Homo sapiens (Human),3370,IC50,1.00000
+4PXX,689043,"Carbonic anhydrase 5A, mitochondrial",Homo sapiens (Human),6490,Ki,1.00000
+8D43,689043,Alpha-glucosidase MAL62,Saccharomyces cerevisiae,>300000,IC50,1.00000
+1L6M,689043,Siderophore-binding protein,Mycobacterium tuberculosis,5.7e+2,Ki,1.00000
+4I5X,689043,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),90000,IC50,1.00000
+3LII,689043,Acetylcholinesterase,Homo sapiens (Human),>100000,IC50,1.00000
+4Q0L,689043,Carbonic anhydrase 3,Homo sapiens (Human),10000,Ki,1.00000
+4E2I,689043,Large T antigen,Simian virus 40,7300,IC50,1.00000
+2WGP,689043,Dual specificity protein phosphatase 3,Homo sapiens (Human),>100000,IC50,1.00000
+1IOX,689043,Epidermal growth factor receptor,Homo sapiens (Human),1,IC50,1.00000
+1HNY,16145850,Pancreatic alpha-amylase,Sus scrofa (Pig),23000,IC50,na
+2LEO,16145850,Protease,Human immunodeficiency virus 1 (HIV-1),118000,IC50,na
+6UAI,16145850,Subtilisin-like protease 1,Plasmodium falciparum,300,IC50,0.95455
+1FZV,16145850,Placenta growth factor,Homo sapiens (Human),23,Kd,1.00000
+5LIH,16145850,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),>100000,IC50,na
+2LEO,16145850,Protease,Human immunodeficiency virus 1 (HIV-1),>173000,IC50,na
+2XV7,16145850,Vascular endothelial growth factor A,Homo sapiens (Human),48,Kd,1.00000
+1HNY,16145850,Pancreatic alpha-amylase,Sus scrofa (Pig),11700,Ki,na
+1HNY,16145850,Pancreatic alpha-amylase,Sus scrofa (Pig),27000,IC50,na
+2XV7,16145850,Vascular endothelial growth factor receptor 1,Homo sapiens (Human),65000,IC50,1.00000
+1FZV,16145850,Placenta growth factor,Homo sapiens (Human),394,Kd,1.00000
+5LIH,16145850,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),30000,IC50,na
+1SMD,16145850,Alpha-amylase,Bacillus subtilis (strain 168),42000,IC50,na
+2XV7,16145850,Vascular endothelial growth factor A,Homo sapiens (Human),476,Kd,1.00000
+3LPO,16145850,"Sucrase-isomaltase, intestinal",Rattus norvegicus (Rat),400000,IC50,1.00000
+5LIH,16145850,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),15000,IC50,na
+2CS5,3084331,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),15600,IC50,0.87805
+7LAF,3084331,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),>40000,IC50,0.87805
+6B19,3084331,Reverse transcriptase,Human immunodeficiency virus 1,>435000,IC50,na
+3PE6,3084331,Monoglyceride lipase,Rattus norvegicus (Rat),315,IC50,0.07792
+1W6K,3084331,Lanosterol synthase,Rattus norvegicus,600,IC50,0.86747
+2J8T,3084331,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),84000,IC50,0.87805
+2WGP,3084331,Dual specificity protein phosphatase 3,Homo sapiens (Human),120000,IC50,0.87805
+1JY1,3084331,Tyrosyl-DNA phosphodiesterase 1,Homo sapiens (Human),>100000,IC50,0.87805
+2CS5,3084331,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),9600,IC50,0.87805
+4I5X,3084331,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),30000,IC50,0.87805
+2CS5,3084331,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),>360000,IC50,0.87805
+3OP3,3084331,M-phase inducer phosphatase 1,Homo sapiens (Human),>360000,IC50,0.87805
+7LAF,3084331,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),31800,IC50,na
+7CFM,3084331,G-protein coupled bile acid receptor 1,Homo sapiens (Human),>10000,EC50,0.87805
+7LEU,3084331,Transcription factor p65,Homo sapiens (Human),>10000,IC50,0.87805
+5IF4,3084331,Bcl-2-like protein 11,Homo sapiens (Human),>350000,EC50,0.88095
+2CS5,3084331,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),8930,IC50,na
+7LEU,3084331,Transcription factor p65,Homo sapiens (Human),>10000,IC50,0.87805
+7LAF,3084331,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),42000,IC50,0.87805
+3DWW,3084331,Prostaglandin G/H synthase 2,Homo sapiens (Human),>40000,IC50,na
+7LAF,3084331,Polyunsaturated fatty acid lipoxygenase ALOX15B,Homo sapiens (Human),>40000,IC50,0.87805
+4RWA,97214,Delta-type opioid receptor,Homo sapiens (Human),>26000,Ki,0.94737
+3PM0,97214,Cytochrome P450 1B1,Homo sapiens (Human),35,Ki,1.00000
+5JVS,97214,POsterior Segregation,Caenorhabditis elegans,93141,EC50,0.95175
+6C5Z,97214,Glucose-6-phosphate 1-dehydrogenase,Homo sapiens (Human),>80000,IC50,0.91129
+5N2R,97214,Adenosine receptor A2a,Rattus norvegicus (rat),6480,Ki,0.89474
+3U79,97214,Alpha-xylosidase,Blautia obeum,60000,IC50,0.96053
+6Q20,97214,Neuraminidase,Influenza A virus,26000,IC50,0.89474
+2HW6,97214,MAP kinase-interacting serine/threonine-protein kinase 2,Homo sapiens (Human),252,IC50,0.89474
+3PM0,97214,Cytochrome P450 1B1,Homo sapiens (Human),>800,Ki,0.99123
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,109647.82,IC50,0.87109
+2HW6,97214,MAP kinase-interacting serine/threonine-protein kinase 1,Homo sapiens (Human),1205,IC50,0.89474
+2WAJ,97214,Mitogen-activated protein kinase 10,Homo sapiens (Human),1.59e+4,IC50,0.95175
+7LAF,97214,Polyunsaturated fatty acid 5-lipoxygenase,Rattus norvegicus,240,IC50,0.97414
+7LEU,97214,Transcription factor p65,Homo sapiens (Human),2290,EC50,0.90351
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,45708.82,IC50,0.87938
+2WAJ,97214,Mitogen-activated protein kinase 14,Homo sapiens (Human),2.32e+4,IC50,0.89474
+6C0V,97214,ATP-dependent translocase ABCB1,Homo sapiens (Human),900,IC50,0.96203
+8EF5,97214,Mu-type opioid receptor,MOUSE,>50000,Ki,0.87938
+1A8J,97214,Taste receptor type 2 member 31,Homo sapiens (Human),11300,IC50,0.92735
+4I8V,97214,Cytochrome P450 1A1,Homo sapiens (Human),89,Ki,0.89474
+5EJK,97214,Integrase,Human immunodeficiency virus 1,39100,IC50,0.95175
+5X02,97214,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),230,IC50,0.89474
+3LII,97214,Acetylcholinesterase,Rattus norvegicus (rat),>100000,IC50,0.96053
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,229.09,IC50,0.88843
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,204.17,IC50,0.89912
+4I8V,97214,Cytochrome P450 1A1,Homo sapiens (Human),630,Ki,0.98276
+3LII,97214,Acetylcholinesterase,Electrophorus electricus (Electric eel),>100000,IC50,0.94397
+2ARQ,97214,Plasminogen,Homo sapiens (Human),2300,IC50,0.91228
+7QK9,97214,Adenosine receptor A3,Homo sapiens (Human),4467,Ki,0.93103
+4JGD,97214,Dihydroorotate dehydrogenase (fumarate),Leishmania major,199526,IC50,0.91026
+1BHS,97214,17-beta-hydroxysteroid dehydrogenase type 2,Homo sapiens (Human),9300,IC50,0.92735
+2QMZ,97214,Sodium-dependent dopamine transporter,Rattus norvegicus (rat),3417,EC50,0.89655
+2WAJ,97214,Mitogen-activated protein kinase 10,Homo sapiens (Human),1.91e+4,IC50,0.92735
+7LAF,97214,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),480,IC50,0.87938
+5WWW,97214,Zinc finger protein mex-5,Caenorhabditis elegans,7076,EC50,0.91129
+8EF5,97214,Mu-type opioid receptor,MOUSE,18500,Ki,0.90040
+5W2I,97214,Inositol polyphosphate multikinase,Homo sapiens,7200,IC50,0.89474
+7LAF,97214,Polyunsaturated fatty acid 5-lipoxygenase,Rattus norvegicus,180,IC50,0.87600
+3PM0,97214,Cytochrome P450 1B1,Homo sapiens (Human),2.5,IC50,0.89474
+3LII,97214,Acetylcholinesterase,Electrophorus electricus (Electric eel),>100000,IC50,0.92241
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,1412.54,IC50,0.93860
+1SCF,97214,Mast/stem cell growth factor receptor Kit,Homo sapiens (Human),600,IC50,0.90351
+5UKE,97214,Serine/threonine-protein kinase 33,Homo sapiens (Human),9681,EC50,0.91129
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,120.23,IC50,0.86400
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,141.25,IC50,0.94397
+3T9C,97214,Inositol hexakisphosphate kinase 2,Homo sapiens,900,IC50,0.89474
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,64.57,IC50,0.89200
+5UEN,97214,Adenosine receptor A1,Rattus norvegicus (rat),1200,Ki,0.93860
+1XV8,97214,Alpha-amylase 1A,Homo sapiens (Human),48000,IC50,0.95175
+1YOW,97214,Steroidogenic factor 1,Homo sapiens (Human),>67536,IC50,0.89474
+2HI4,97214,Cytochrome P450 1A2,Homo sapiens (Human),2437,IC50,0.89474
+8BHT,97214,Broad substrate specificity ATP-binding cassette transporter ABCG2,Homo sapiens (Human),8300,IC50,0.96203
+4BYI,97214,Aurora kinase B,Homo sapiens (Human),4.270e+4,IC50,0.88716
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,169.82,IC50,0.99123
+7LAF,97214,Polyunsaturated fatty acid 5-lipoxygenase,Rattus norvegicus,15,IC50,0.89683
+6Q20,97214,Neuraminidase,Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)),46600,IC50,0.89474
+6C0V,97214,ATP-dependent translocase ABCB1,Homo sapiens (Human),3200,IC50,0.96203
+2ZNP,97214,Peroxisome proliferator-activated receptor gamma,Mus musculus,7300,EC50,0.89474
+5X02,97214,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),1480,IC50,0.86404
+5X02,97214,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),580,IC50,0.90351
+3TJM,97214,3-oxoacyl-acyl-carrier protein reductase,Plasmodium falciparum,70000,IC50,0.93860
+5UKE,97214,Serine/threonine-protein kinase 33,Homo sapiens (Human),11000,EC50,0.95175
+4F7N,97214,Cyclin-dependent kinase 5,Rattus norvegicus,>250000,EC50,0.86207
+4BYI,97214,Aurora kinase B,Homo sapiens (Human),3.86e+3,IC50,0.89474
+2WAJ,97214,Mitogen-activated protein kinase 14,Homo sapiens (Human),5.25e+4,IC50,0.89744
+5TPT,97214,Amyloid-beta precursor protein,Homo sapiens (Human),>50000,IC50,na
+2WAJ,97214,Mitogen-activated protein kinase 14,Homo sapiens (Human),1.86e+4,IC50,0.89474
+3LII,97214,Acetylcholinesterase,Rattus norvegicus (rat),>100000,IC50,0.94397
+5WWW,97214,Zinc finger protein mex-5,Caenorhabditis elegans,36029,EC50,0.95175
+1H7U,97214,DNA gyrase subunit A/B,Escherichia coli (strain K12),>500,IC50,na
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,302,IC50,0.96053
+2WAJ,97214,Mitogen-activated protein kinase 10,Homo sapiens (Human),3.48e+4,IC50,0.89474
+8EF5,97214,Mu-type opioid receptor,MOUSE,28000,Ki,0.94017
+3PM0,97214,Cytochrome P450 1B1,Homo sapiens (Human),29,IC50,0.89474
+6HBU,97214,ATP-binding cassette sub-family C member 2,Homo sapiens (Human),>50000,IC50,0.89474
+2R9P,97214,Serine protease 1/Trypsin-2/Trypsin-3,Homo sapiens (Human),61000,IC50,0.86404
+3B7T,97214,M1 family aminopeptidase,Plasmodium falciparum (isolate FcB1 / Columbia),15570,IC50,0.95175
+2IIM,97214,Tyrosine-protein kinase Lck,Homo sapiens (Human),>8,IC50,0.89362
+5X02,97214,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),290,IC50,0.94737
+5JCO,97214,Tubulin alpha-1A chain,Sus scrofa (Pig),>50000,IC50,0.98276
+2WAJ,97214,Mitogen-activated protein kinase 14,Homo sapiens (Human),2.22e+4,IC50,0.95175
+3LII,97214,Acetylcholinesterase,Rattus norvegicus (rat),>100000,IC50,0.93860
+4RWA,97214,Delta-type opioid receptor,MOUSE,37500,Ki,0.87938
+3PM0,97214,Cytochrome P450 1B1,Homo sapiens (Human),670,Ki,0.98276
+3PM0,97214,Cytochrome P450 1B1,Homo sapiens (Human),9.8,IC50,0.90283
+4I8V,97214,Cytochrome P450 1A1,Homo sapiens (Human),210,Ki,1.00000
+2WAJ,97214,Mitogen-activated protein kinase 10,Homo sapiens (Human),2.86e+4,IC50,0.89474
+2WID,97214,Cholinesterase,Equus caballus (Horse),>100000,IC50,0.92241
+5UEN,97214,Adenosine receptor A1,Rattus norvegicus (rat),1610,Ki,0.89474
+7QK9,97214,Adenosine receptor A3,Homo sapiens (Human),1720,Ki,0.93860
+7YXC,97214,Nuclear receptor subfamily 0 group B member 1,Homo sapiens (Human),>833.72,IC50,0.89474
+4F7N,97214,Cyclin-dependent kinase 5,Rattus norvegicus,40000,EC50,0.95175
+4BYI,97214,Aurora kinase B,Homo sapiens (Human),5.31e+3,IC50,0.96203
+5YZ5,97214,Glycogen synthase kinase-3 beta,Homo sapiens (Human),24860,EC50,0.91129
+4I8V,97214,Cytochrome P450 1A1,Homo sapiens (Human),>800,Ki,0.99123
+5VAR,97214,Lysine-specific histone demethylase 1A,Homo sapiens (Human),27900,IC50,0.89474
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,91.2,IC50,0.97414
+4I8V,97214,Cytochrome P450 1A1,Homo sapiens (Human),12,IC50,0.89474
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,6760.83,IC50,0.96581
+1XQZ,97214,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),2710,IC50,0.89474
+2HI4,97214,Cytochrome P450 1A2,Homo sapiens (Human),19,IC50,0.89474
+2HW6,97214,MAP kinase-interacting serine/threonine-protein kinase 2,Homo sapiens (Human),1703,IC50,na
+3TEG,97214,"RNA-editing ligase 1, mitochondrial",Trypanosoma brucei brucei,>96559,IC50,0.95175
+3LII,97214,Acetylcholinesterase,Rattus norvegicus (rat),>100000,IC50,0.92241
+4CDE,97214,Dipeptidyl peptidase 4,Sus scrofa (pig),490,IC50,0.89474
+6B19,97214,Reverse transcriptase,Human immunodeficiency virus 1,>636000,IC50,0.89744
+5C7L,97214,"Glyceraldehyde-3-phosphate dehydrogenase, glycosomal",Trypanosoma cruzi,81000,IC50,0.95745
+4RWA,97214,Delta-type opioid receptor,MOUSE,12500,Ki,0.90040
+5JCO,97214,Tubulin alpha-1A chain,Sus scrofa (Pig),25000,IC50,0.90726
+2WAJ,97214,Mitogen-activated protein kinase 14,Homo sapiens (Human),1.89e+4,IC50,0.92735
+2WAJ,97214,Mitogen-activated protein kinase 14,Homo sapiens (Human),3.24e+4,IC50,0.90351
+1Z9E,97214,PC4 and SFRS1-interacting protein,Homo sapiens (Human),4964,IC50,0.91129
+5N2R,97214,Adenosine receptor A2a,Rattus norvegicus (rat),3000,Ki,0.93860
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,38.9,IC50,0.90040
+4RWA,97214,Delta-type opioid receptor,Homo sapiens (Human),8400,Ki,0.90351
+4RWA,97214,Delta-type opioid receptor,Homo sapiens (Human),3100,Ki,0.97436
+3LII,97214,Acetylcholinesterase,Homo sapiens (Human),>250000,IC50,0.90351
+2IIM,97214,Tyrosine-protein kinase Lck,Homo sapiens (Human),>8,IC50,0.87660
+7LAF,97214,Polyunsaturated fatty acid 5-lipoxygenase,Rattus norvegicus,95,IC50,0.99123
+5JCO,97214,Tubulin alpha-1A/beta chain,Sus scrofa (Pig),40000,IC50,0.90726
+5JVS,97214,POsterior Segregation,Caenorhabditis elegans,48026,EC50,0.91129
+2QMZ,97214,Sodium-dependent dopamine transporter,Rattus norvegicus (rat),4345,EC50,0.89177
+5X02,97214,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),1100,IC50,1.00000
+1Z9E,97214,PC4 and SFRS1-interacting protein,Homo sapiens (Human),1835,IC50,0.95175
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,34.99,IC50,0.87451
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,32.36,IC50,0.88627
+2WID,97214,Cholinesterase,Equus caballus (Horse),>100000,IC50,0.94397
+6C0V,97214,ATP-dependent translocase ABCB1,Homo sapiens (Human),400,IC50,0.89873
+2DMO,97214,Neutrophil cytosol factor 1 [S99G],Homo sapiens (Human),50000,IC50,0.93860
+4F7N,97214,Cyclin-dependent kinase 5,Rattus norvegicus,19100,EC50,0.89474
+7LO7,97214,Multidrug resistance-associated protein 1,Homo sapiens (Human),3000,IC50,0.89474
+2J8T,97214,Aldo-keto reductase family 1 member B1,Rattus norvegicus,77.62,IC50,0.87600
+3PM0,97214,Cytochrome P450 1B1,Homo sapiens (Human),16,Ki,0.89474
+5UEN,97214,Adenosine receptor A1,Rattus norvegicus (rat),1288,Ki,0.93103
+2ACS,97214,Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase,Plasmodium falciparum 3D7,8950,IC50,0.91129
+2WAJ,97214,Mitogen-activated protein kinase 14,Homo sapiens (Human),3.32e+4,IC50,0.91026
+5FDO,97214,Induced myeloid leukemia cell differentiation protein Mcl-1,Homo sapiens (Human),>50000,Ki,0.83468
+2WAJ,97214,Mitogen-activated protein kinase 10,Homo sapiens (Human),7.8e+3,IC50,0.89744
+4CDE,97214,Dipeptidyl peptidase 4,Sus scrofa (pig),430,IC50,0.93860
+2HI4,97214,Cytochrome P450 1A2,Homo sapiens (Human),24,IC50,0.90283
+4I8V,97214,Cytochrome P450 1A1,Homo sapiens (Human),140,IC50,0.89474
+3QCB,97214,Receptor-type tyrosine-protein phosphatase S,Homo sapiens (Human),6600,IC50,na
+4RWA,97214,Delta-type opioid receptor,MOUSE,12000,Ki,0.94017
+4I8V,97214,Cytochrome P450 1A1,Homo sapiens (Human),23,IC50,0.90283
+5TPT,97214,Amyloid-beta precursor protein,Homo sapiens (Human),>50000,IC50,na
+1HNY,45359583,Pancreatic alpha-amylase,Sus scrofa (Pig),23000,IC50,na
+2LEO,45359583,Protease,Human immunodeficiency virus 1 (HIV-1),118000,IC50,na
+6UAI,45359583,Subtilisin-like protease 1,Plasmodium falciparum,300,IC50,0.94481
+1FZV,45359583,Placenta growth factor,Homo sapiens (Human),23,Kd,0.98980
+5LIH,45359583,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),>100000,IC50,na
+2LEO,45359583,Protease,Human immunodeficiency virus 1 (HIV-1),>173000,IC50,na
+2XV7,45359583,Vascular endothelial growth factor A,Homo sapiens (Human),48,Kd,0.98980
+1HNY,45359583,Pancreatic alpha-amylase,Sus scrofa (Pig),11700,Ki,na
+1HNY,45359583,Pancreatic alpha-amylase,Sus scrofa (Pig),27000,IC50,na
+2XV7,45359583,Vascular endothelial growth factor receptor 1,Homo sapiens (Human),65000,IC50,0.98980
+1FZV,45359583,Placenta growth factor,Homo sapiens (Human),394,Kd,0.98980
+5LIH,45359583,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),30000,IC50,na
+1SMD,45359583,Alpha-amylase,Bacillus subtilis (strain 168),42000,IC50,na
+2XV7,45359583,Vascular endothelial growth factor A,Homo sapiens (Human),476,Kd,0.98980
+3LPO,45359583,"Sucrase-isomaltase, intestinal",Rattus norvegicus (Rat),400000,IC50,0.98980
+5LIH,45359583,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),15000,IC50,na
+1HNY,10010849,Pancreatic alpha-amylase,Sus scrofa (Pig),23000,IC50,na
+2LEO,10010849,Protease,Human immunodeficiency virus 1 (HIV-1),118000,IC50,na
+6UAI,10010849,Subtilisin-like protease 1,Plasmodium falciparum,300,IC50,0.95455
+1FZV,10010849,Placenta growth factor,Homo sapiens (Human),23,Kd,1.00000
+5LIH,10010849,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),>100000,IC50,na
+2LEO,10010849,Protease,Human immunodeficiency virus 1 (HIV-1),>173000,IC50,na
+2XV7,10010849,Vascular endothelial growth factor A,Homo sapiens (Human),48,Kd,1.00000
+1HNY,10010849,Pancreatic alpha-amylase,Sus scrofa (Pig),11700,Ki,na
+1HNY,10010849,Pancreatic alpha-amylase,Sus scrofa (Pig),27000,IC50,na
+2XV7,10010849,Vascular endothelial growth factor receptor 1,Homo sapiens (Human),65000,IC50,1.00000
+1FZV,10010849,Placenta growth factor,Homo sapiens (Human),394,Kd,1.00000
+5LIH,10010849,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),30000,IC50,na
+1SMD,10010849,Alpha-amylase,Bacillus subtilis (strain 168),42000,IC50,na
+2XV7,10010849,Vascular endothelial growth factor A,Homo sapiens (Human),476,Kd,1.00000
+3LPO,10010849,"Sucrase-isomaltase, intestinal",Rattus norvegicus (Rat),400000,IC50,1.00000
+5LIH,10010849,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),15000,IC50,na
+1CSK,5281764,Proto-oncogene tyrosine-protein kinase Src,Homo sapiens (Human),74000,IC50,0.96319
+2NYY,5281764,Botulinum neurotoxin type A,Clostridium botulinum,700,Ki,1.00000
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,80,IC50,1.00000
+2IIM,5281764,Tyrosine-protein kinase Lck,Homo sapiens (Human),118000,IC50,0.96319
+6XE8,5281764,Tyrosine-protein phosphatase YopH,Yersinia enterocolitica,379000,IC50,1.00000
+1Z3K,5281764,Tyrosine-protein phosphatase non-receptor type 1 [1-301],Homo sapiens (Human),1.400e+6,Ki,1.00000
+1Z3K,5281764,Tyrosine-protein phosphatase non-receptor type 1 [1-301],Homo sapiens (Human),1.600e+6,Kd,1.00000
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,3000,Kd,1.00000
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,34,IC50,1.00000
+4JGD,5281764,Dihydroorotate dehydrogenase (fumarate),Leishmania major,398107,IC50,na
+6XE8,5281764,Tyrosine-protein phosphatase YopH,Yersinia enterocolitica,12500,Ki,1.00000
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,70,IC50,1.00000
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,520,IC50,0.93865
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,15700,IC50,na
+7LAF,596375,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),3.33e+4,IC50,0.92771
+2F25,596375,Sialidase A,Streptococcus pneumoniae,2000,IC50,na
+7LAF,596375,Seed linoleate 9S-lipoxygenase-3,Glycine max (Soybean),34100,IC50,0.90244
+2ZNP,596375,Peroxisome proliferator-activated receptor delta,Homo sapiens (Human),50600,EC50,0.92771
+7LAF,596375,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),26000,IC50,0.90244
+1ZS0,596375,Secreted chorismate mutase,Mycobacterium tuberculosis H37Rv,2.858e+4,IC50,0.90244
+2ZNP,596375,Peroxisome proliferator-activated receptor gamma,Homo sapiens (Human),40000,EC50,0.92771
+2ZNP,596375,Peroxisome proliferator-activated receptor alpha,Homo sapiens (Human),46500,EC50,0.92771
+1BHG,596375,Beta-glucuronidase,Homo sapiens (Human),3750000,IC50,0.90244
+2F25,596375,Sialidase A,Streptococcus pneumoniae,4900,Ki,na
+3DWW,596375,Prostaglandin G/H synthase 2,Homo sapiens (Human),129000,IC50,0.90244
+3DWW,596375,Prostaglandin G/H synthase 1,Homo sapiens (Human),11000,IC50,0.90244
+7LAF,596375,Seed linoleate 9S-lipoxygenase-3,Glycine max (Soybean),96100,IC50,0.92771
+5BXJ,596375,Androgen receptor,Homo sapiens (Human),19000,IC50,0.90244
+6BO8,596375,Transient receptor potential cation channel subfamily A member 1,Homo sapiens (Human),116000,EC50,0.90244
+5AKV,596375,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),923000,IC50,0.90244
+6Q6Q,102333899,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),>100000,IC50,na
+3DWW,102333899,Prostaglandin G/H synthase 2,Ovis aries (Sheep),24700,IC50,na
+3DWW,102333899,Prostaglandin G/H synthase 2,Ovis aries (Sheep),29200,IC50,na
+1JY1,102333899,Tyrosyl-DNA phosphodiesterase 1,Homo sapiens (Human),1000,IC50,0.87132
+3SP7,11629959,Programmed cell death protein 4,Homo sapiens (Human),3000,EC50,0.86792
+3SP7,11629959,Programmed cell death protein 4,Homo sapiens (Human),4900,EC50,0.86792
+7VRK,2519,Adenosine receptor A2a/A2b,Rattus norvegicus,>10000,IC50,0.92771
+7VRK,2519,Adenosine receptor A2a/A2b,Rattus norvegicus,32000,Ki,0.92169
+1OJ9,2519,Amine oxidase [flavin-containing] A,Homo sapiens (Human),>50000,IC50,1.00000
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),>10000,Ki,1.00000
+1XMU,2519,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A/4B/4C/4D",Homo sapiens (Human),50000,IC50,0.92771
+7VRK,2519,Adenosine receptor A2a/A2b,Rattus norvegicus,63000,IC50,1.00000
+5N2R,2519,Adenosine receptor A2a,Homo sapiens (Human),0.6,Ki,0.92771
+8HDO,2519,Adenosine receptor A2b,Mus musculus,23000,Ki,1.00000
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),110000,IC50,1.00000
+5N2R,2519,Adenosine receptor A2a,Homo sapiens (Human),>10000,Ki,0.96988
+5N2R,2519,Adenosine receptor A2a,GUINEA PIG,13000,Ki,0.92771
+1ZKL,2519,"High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A",Homo sapiens (Human),>200000,IC50,0.92771
+2OUU,2519,"cGMP-dependent 3',5'-cyclic phosphodiesterase",Homo sapiens (Human),210000,IC50,0.92771
+7R8B,2519,ATP-binding cassette sub-family C member 4,Homo sapiens (Human),131000,IC50,0.92771
+1TAZ,2519,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",BOVINE,500000,IC50,0.92771
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),>10000,Ki,0.92169
+5UEN,2519,Adenosine receptor A1,Homo sapiens (Human),12000,Kd,0.92771
+5UEN,2519,Adenosine receptor A1,Homo sapiens (Human),0.6,Ki,0.92771
+7DV5,2519,Bile salt export pump,Homo sapiens (Human),133000,IC50,0.92771
+1TAZ,2519,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B",Bos taurus,92000,IC50,0.92771
+7VRK,2519,Adenosine receptor A2a/A2b,Rattus norvegicus,59000,Ki,0.87952
+2UZ9,2519,Guanine deaminase,Homo sapiens (Human),10200,Ki,1.00000
+7R8B,2519,ATP-binding cassette sub-family C member 4,Homo sapiens (Human),133000,IC50,0.92771
+7VRK,2519,Adenosine receptor A2a/A2b,Rattus norvegicus,250000,Ki,0.96988
+2WID,2519,Cholinesterase,Homo sapiens (Human),>50000,IC50,1.00000
+8HDO,2519,Adenosine receptor A2b,Homo sapiens (Human),10.0,Ki,1.00000
+1ROR,2519,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",Homo sapiens (Human),>200000,IC50,0.92771
+8HDO,2519,Adenosine receptor A2b,Homo sapiens (Human),9000,Ki,0.92771
+7DV5,2519,Bile salt export pump,Homo sapiens (Human),133000,IC50,0.92771
+1Z8D,2519,"Glycogen phosphorylase, muscle form",Rattus norvegicus,182000,IC50,1.00000
+5MZP,2519,Adenosine receptor A1/A2a/A2b/A3,Rattus norvegicus (rat),15000,Ki,1.00000
+5UEN,2519,Adenosine receptor A1,BOVINE,3800,Ki,0.92771
+7CR2,2519,Potassium channel subfamily K member 2,Homo sapiens (Human),486000,EC50,0.92771
+5UEN,2519,Adenosine receptor A1,GUINEA PIG,100000,Ki,1.00000
+3TVX,2519,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A",Homo sapiens (Human),747000,IC50,1.00000
+1TAZ,2519,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A/1B/1C",Homo sapiens (Human),320000,IC50,0.92771
+6HBU,2519,ATP-binding cassette sub-family C member 3,Homo sapiens (Human),133000,IC50,1.00000
+5V6A,2519,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),100000,IC50,1.00000
+8HDO,2519,Adenosine receptor A2b,Rattus norvegicus,15100,Ki,0.92771
+5N2R,2519,Adenosine receptor A2a,Homo sapiens (Human),28200,EC50,0.92771
+5N2R,2519,Adenosine receptor A2a,Homo sapiens (Human),>10000,Ki,0.92169
+1GUV,2519,Chitotriosidase-1,Homo sapiens (Human),>500000,IC50,0.92771
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),>10000,Ki,0.96988
+1TAZ,2519,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A/1B/1C",Homo sapiens (Human),356000,IC50,0.92771
+1TAZ,2519,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B/Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1C/Phosphodiesterase",Rattus norvegicus,70000,IC50,1.00000
+1HKI,2519,Endochitinase B1,Aspergillus fumigatus,1500000,IC50,0.92771
+5UEN,2519,Adenosine receptor A1,BOVINE,>10000,Ki,1.00000
+1OJ9,2519,Amine oxidase [flavin-containing] B,Homo sapiens (Human),>50000,IC50,1.00000
+7VRK,2519,Adenosine receptor A2a/A2b,Homo sapiens (Human),30000,Ki,1.00000
+6HBU,2519,ATP-binding cassette sub-family C member 2,Homo sapiens (Human),133000,IC50,0.92771
+5UEN,2519,Adenosine receptor A1,GUINEA PIG,5980,Ki,0.92771
+5N2R,2519,Adenosine receptor A2a,Rattus norvegicus (rat),6700,Ki,0.92771
+3T8M,2519,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",Homo sapiens (Human),3630000,IC50,1.00000
+7QK9,2519,Adenosine receptor A3,Sheep,9050,Ki,0.92771
+2CAB,2519,Carbonic anhydrase 1,Homo sapiens (Human),5.5000e+7,IC50,1.00000
+5UEN,2519,Adenosine receptor A1,Oryctolagus cuniculus (Rabbit),4710,Ki,0.92771
+5UEN,2519,Adenosine receptor A1,BOVINE,>10000,Ki,0.92169
+2GLQ,2519,"Alkaline phosphatase, tissue-nonspecific isozyme",Homo sapiens (Human),82000,Ki,0.92771
+7CR2,2519,Potassium voltage-gated channel subfamily H member 2,Homo sapiens (Human),4897.79,IC50,1.00000
+7QK9,2519,Adenosine receptor A3,Homo sapiens (Human),14,Ki,0.92771
+5V6A,2519,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),100000,IC50,0.92771
+8HDO,2519,Adenosine receptor A2b,Rattus norvegicus,30000,Ki,1.00000
+5N2R,2519,Adenosine receptor A2a,Homo sapiens (Human),>100000,EC50,0.87952
+1Z8D,2519,"Glycogen phosphorylase, muscle form",Homo sapiens (Human),114000,IC50,1.00000
+7QK9,2519,Adenosine receptor A3,Rattus norvegicus,85000,Ki,0.92771
+6HBU,2519,ATP-binding cassette sub-family C member 2,Homo sapiens (Human),133000,IC50,0.92771
+6J8E,2519,Sodium channel protein type 1/2/3 subunit alpha,Homo sapiens (Human),660000,IC50,1.00000
+3LII,2519,Acetylcholinesterase,Homo sapiens (Human),7250,IC50,1.00000
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),1000000,Ki,0.93491
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),700,Ki,0.92771
+7PED,2519,Serine/threonine-protein kinase mTOR,Homo sapiens (Human),400000,IC50,1.00000
+2QYM,2519,"cAMP-specific 3',5'-cyclic phosphodiesterase 4C",Rattus norvegicus,523000,Ki,0.92771
+7VRK,2519,Adenosine receptor A2a/A2b,Rattus norvegicus,1310,Ki,0.92771
+5N2R,2519,Adenosine receptor A2a,Homo sapiens (Human),1710,Ki,0.92771
+5N2R,2519,Adenosine receptor A2a,Homo sapiens (Human),5011.87,Ki,1.00000
+2GLQ,2519,"Alkaline phosphatase, tissue-nonspecific isozyme",Homo sapiens (Human),>5000,IC50,0.92771
+2GLQ,2519,"Alkaline phosphatase, tissue-nonspecific isozyme",Homo sapiens (Human),>100000,IC50,0.92771
+4G7Y,2519,Transmembrane and immunoglobulin domain-containing 3,RAT,>10000,Ki,0.91716
+5N2R,2519,Adenosine receptor A2a,Rattus norvegicus (rat),22000,Ki,0.92771
+1XMU,2519,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A/4B/4C/4D",Homo sapiens (Human),56800,Ki,0.92771
+5UEN,2519,Adenosine receptor A1,Homo sapiens (Human),6770,Ki,0.92771
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),350,Ki,0.92771
+5UEN,2519,Adenosine receptor A1,Homo sapiens (Human),45000,Kd,1.00000
+5UEN,2519,Adenosine receptor A1,Homo sapiens (Human),>10000,Ki,1.00000
+7R8B,2519,ATP-binding cassette sub-family C member 4,Homo sapiens (Human),133000,IC50,1.00000
+7QK9,2519,Adenosine receptor A3,Rattus norvegicus,>100000,Ki,1.00000
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),>10000,IC50,0.92771
+8HDO,2519,Adenosine receptor A2b,Homo sapiens (Human),2700,Ki,0.92771
+7DV5,2519,Bile salt export pump,Homo sapiens (Human),133000,IC50,1.00000
+5UDY,2519,Intestinal-type alkaline phosphatase,Homo sapiens (Human),>5000,IC50,0.92771
+5UEN,2519,Adenosine receptor A1,BOVINE,2430,IC50,0.92771
+4NPV,2519,Phosphodiesterase,Bos taurus,77000,Ki,0.92771
+7VRK,2519,Adenosine receptor A2a/A2b,Homo sapiens (Human),133000,Ki,0.87952
+7VRK,2519,Adenosine receptor A2a/A2b,Rattus norvegicus,27000,Ki,1.00000
+4NTJ,2519,P2Y purinoceptor 2,HAMSTER,4550,Ki,0.92771
+5MZP,2519,Adenosine receptor A1/A2a/A2b/A3,Rattus norvegicus (rat),150,Ki,0.92771
+3TVX,2519,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A",Homo sapiens (Human),386000,IC50,0.92771
+6HBU,2519,ATP-binding cassette sub-family C member 3,Homo sapiens (Human),133000,IC50,0.92771
+7CR2,2519,Potassium channel subfamily K member 2,Homo sapiens (Human),377000,EC50,1.00000
+5VEU,2519,Cytochrome P450 3A4,Homo sapiens (Human),>10000,IC50,0.92771
+3KGV,2519,DNA-dependent protein kinase catalytic subunit,Homo sapiens (Human),10000000,IC50,1.00000
+2CAB,2519,Carbonic anhydrase 2,Homo sapiens (Human),2.000e+6,IC50,1.00000
+6HBU,2519,ATP-binding cassette sub-family C member 3,Homo sapiens (Human),133000,IC50,0.92771
+5N2R,2519,Adenosine receptor A2a,Rattus norvegicus (rat),>10000,Ki,0.89349
+1FC0,2519,"Glycogen phosphorylase, liver form",Rattus norvegicus,648000,IC50,1.00000
+1XMU,2519,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A/4B/4C/4D",Homo sapiens (Human),156000,Ki,0.87952
+7SIC,2519,Serine-protein kinase ATM,Homo sapiens (Human),200000,IC50,1.00000
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),>10000,Ki,0.89349
+5N2R,2519,Adenosine receptor A2a,Rattus norvegicus (rat),>10000,Ki,0.91716
+1SOJ,2519,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A/3B",Homo sapiens (Human),360000,IC50,0.92771
+4NPV,2519,Phosphodiesterase,Bos taurus,1720000,IC50,0.92771
+1OJ9,2519,Amine oxidase [flavin-containing] B,Homo sapiens (Human),3600000,Ki,1.00000
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),35000,Ki,0.87952
+7VRK,2519,Adenosine receptor A2a/A2b,Homo sapiens (Human),13800,Ki,0.92771
+1GUV,2519,Chitotriosidase-1,Homo sapiens (Human),257000,IC50,1.00000
+6HBU,2519,ATP-binding cassette sub-family C member 2,Homo sapiens (Human),133000,IC50,1.00000
+5YZ0,2519,Serine/threonine-protein kinase ATR,Homo sapiens (Human),1100000,IC50,1.00000
+3T8M,2519,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",Homo sapiens (Human),2904000,IC50,0.92771
+5UEN,2519,Adenosine receptor A1,Rattus norvegicus (rat),>10000,Ki,0.91716
+7QK9,2519,Adenosine receptor A3,Homo sapiens (Human),13300,Ki,1.00000
+7QK9,2519,Adenosine receptor A3,Homo sapiens (Human),22300,Ki,0.92771
+1XMU,2519,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A/4B/4C/4D",Homo sapiens (Human),1780000,IC50,0.92771
+7QK9,2519,Adenosine receptor A3,Rattus norvegicus,>100000,Ki,0.92771
+1HKI,2519,Endochitinase B1,Aspergillus fumigatus,469000,IC50,1.00000
+1Z8D,2519,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),74900,IC50,1.00000
+1SOJ,2519,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A/3B",Homo sapiens (Human),240000,IC50,0.92771
+5N2R,2519,Adenosine receptor A2a,GUINEA PIG,50000,Ki,1.00000
+5UEN,2519,Adenosine receptor A1,BOVINE,>10000,Ki,0.96988
+4G7Y,2519,Transmembrane and immunoglobulin domain-containing 3,RAT,>10000,Ki,0.89349
+3D59,2519,Phospholipase A-2-activating protein,Homo sapiens (Human),>5000,IC50,0.92771
+5N2R,2519,Adenosine receptor A2a,Rattus norvegicus (rat),9400,Ki,1.00000
+3SP7,71351181,Programmed cell death protein 4,Homo sapiens (Human),3000,EC50,0.86792
+3SP7,71351181,Programmed cell death protein 4,Homo sapiens (Human),4900,EC50,0.86792
+7MPA,10364,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,Homo sapiens,2000,IC50,0.90909
+3DWW,10364,Prostaglandin G/H synthase 1,Homo sapiens (Human),4000,IC50,1.00000
+5AKV,10364,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),>500000,IC50,1.00000
+6BO8,10364,Transient receptor potential cation channel subfamily A member 1,Homo sapiens (Human),7000,EC50,1.00000
+1ZS0,10364,Secreted chorismate mutase,Mycobacterium tuberculosis H37Rv,2.14e+4,IC50,0.86667
+5TOA,10364,Estrogen receptor beta,Homo sapiens (Human),>250000,IC50,0.90909
+7MPA,10364,Sarcoplasmic/endoplasmic reticulum calcium ATPase 3,Homo sapiens,2000,IC50,0.90909
+7MPA,10364,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,Oryctolagus cuniculus,2000,IC50,0.90909
+3LII,10364,Acetylcholinesterase,Electrophorus electricus (Electric eel),288260,IC50,1.00000
+4J24,10364,Estrogen receptor,Homo sapiens (Human),>250000,IC50,0.90909
+1ZS0,10364,Secreted chorismate mutase,Mycobacterium tuberculosis H37Rv,1.06e+3,IC50,1.00000
+3LII,10364,Acetylcholinesterase,Homo sapiens (Human),283600,IC50,1.00000
+2WID,10364,Cholinesterase,Equus caballus (Horse),410790,IC50,1.00000
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),147.91,Ki,0.93607
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),5.6,Ki,0.91781
+3LII,34458,Acetylcholinesterase,Homo sapiens (Human),>100000,IC50,0.29697
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),13500,EC50,1.00000
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),80,Ki,1.00000
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),1350,EC50,0.92694
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),21270,IC50,0.92694
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),450,IC50,0.92694
+7E2Z,34458,Alpha-1A adrenergic receptor,Homo sapiens (Human),616,Ki,0.92237
+5HK2,34458,Sigma non-opioid intracellular receptor 1,Homo sapiens (Human),269,Ki,0.91781
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),64.12,Ki,0.91441
+7LBG,34458,Tissue factor,Homo sapiens (Human),36,IC50,0.97717
+1OJ9,34458,Amine oxidase [flavin-containing] B,Homo sapiens (Human),>20000,IC50,0.92237
+7LBG,34458,Tissue factor,Homo sapiens (Human),105,IC50,0.91781
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),565,Ki,1.00000
+1OJ9,34458,Amine oxidase [flavin-containing] A,Homo sapiens (Human),>20000,IC50,0.92237
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),4.86,IC50,0.90541
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),105,Ki,0.92237
+7LBG,34458,Tissue factor,Homo sapiens (Human),23,IC50,0.92694
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),500,IC50,na
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),141.58,IC50,0.98649
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),390,IC50,na
+5WIV,34458,D(4) dopamine receptor,Homo sapiens (Human),>1000,Ki,0.92694
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),1000,IC50,1.00000
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),4.2,Ki,0.93151
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),530,Ki,0.89498
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),376.83,Ki,0.98649
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),40,IC50,0.91781
+4IAQ,34458,D(1B) dopamine receptor,Homo sapiens (Human),305,Ki,0.92694
+7LBG,34458,Tissue factor,Homo sapiens (Human),15,IC50,0.92694
+5WIV,34458,D(4) dopamine receptor,Homo sapiens (Human),77,Ki,0.92237
+4IAQ,34458,D(1B) dopamine receptor,Homo sapiens (Human),313,Ki,0.92237
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),15,Ki,0.92237
+6B19,34458,Reverse transcriptase,Human immunodeficiency virus 1,>564000,IC50,1.00000
+7VOE,34458,5-hydroxytryptamine receptor 2A,Homo sapiens (Human),>5000,Ki,0.92237
+7LBG,34458,Tissue factor,Homo sapiens (Human),8.4,IC50,1.00000
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),>10000,IC50,na
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),190,EC50,0.92694
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),149,Ki,0.92694
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),60,Ki,0.97717
+5HK2,34458,Sigma non-opioid intracellular receptor 1,Homo sapiens (Human),106,Ki,0.92237
+2A3R,34458,D(3) dopamine receptor,Homo sapiens (Human),1713,Ki,0.92694
+1OJ9,34458,Amine oxidase [flavin-containing] A,Homo sapiens (Human),>20000,IC50,0.92694
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),199,Ki,0.92237
+1OJ9,34458,Amine oxidase [flavin-containing] B,Homo sapiens (Human),>20000,IC50,0.92694
+7E2Z,34458,Alpha-1A adrenergic receptor,Rattus norvegicus (Rat),1122,Ki,1.00000
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),153,Ki,0.92694
+6EEY,34458,Alpha-1D adrenergic receptor,Homo sapiens (Human),25,Ki,0.92237
+5WIV,34458,D(2) dopamine receptor,Rattus norvegicus (rat),28,Ki,na
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),410,IC50,0.90411
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),2.5,Ki,0.90541
+4IAQ,34458,D(1B) dopamine receptor,Homo sapiens (Human),4.4,Ki,0.91781
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),22,Ki,0.89954
+7E2Z,34458,D(1A) dopamine receptor,RAT,3631,Ki,na
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),305,Ki,0.92694
+7E2Z,34458,Alpha-1A adrenergic receptor,Homo sapiens (Human),462,IC50,na
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),135,Ki,0.91781
+7LBG,34458,Tissue factor,Homo sapiens (Human),969,IC50,0.91781
+6B19,34458,Reverse transcriptase,Human immunodeficiency virus 1,>589000,IC50,1.00000
+5WIV,34458,D(4) dopamine receptor,Homo sapiens (Human),1978,Ki,1.00000
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),64.12,Ki,0.98649
+2A3R,34458,D(3) dopamine receptor,Homo sapiens (Human),37,Ki,0.92237
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),3.4,Ki,0.91781
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),214,Ki,0.89954
+4IAQ,34458,D(1B) dopamine receptor,Homo sapiens (Human),62,Ki,1.00000
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),200,Ki,0.92237
+7E2Z,34458,D(1A) dopamine receptor,RAT,41100,EC50,0.91781
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),239.9,Ki,0.93607
+7E2Z,34458,D(1A) dopamine receptor,RAT,32359,Ki,na
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),188.96,IC50,0.91441
+2A3R,34458,D(3) dopamine receptor,Homo sapiens (Human),82,Ki,1.00000
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),42,Ki,0.92237
+7B6W,34458,Alpha-1B adrenergic receptor,Homo sapiens (Human),360,Ki,0.92237
+2A3R,34458,D(3) dopamine receptor,Homo sapiens (Human),101,Ki,0.91781
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),49,Ki,1.00000
+5WIV,34458,D(2) dopamine receptor,Rattus norvegicus (rat),6918,Ki,na
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),908,Ki,1.00000
+1G3N,34458,Cyclin-dependent kinase 2,Homo sapiens (Human),>50000,IC50,1.00000
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),12.29,IC50,0.91781
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),49,Ki,1.00000
+2ACS,34458,Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase,Plasmodium falciparum 3D7,15500,IC50,1.00000
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),18730,IC50,0.92694
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),23.65,Ki,0.91250
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),23,EC50,0.91781
+7WKZ,34458,5-hydroxytryptamine receptor 7,Homo sapiens (Human),5000,Ki,1.00000
+6B19,34458,Reverse transcriptase,Human immunodeficiency virus 1,>562000,IC50,0.92694
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),>5000,Ki,0.97717
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),116,Ki,0.91781
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),1630,IC50,0.92694
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),730.02,Ki,0.91441
+5WIV,34458,D(2) dopamine receptor,Rattus norvegicus (rat),363,Ki,na
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),529,Ki,0.89954
+2A3R,34458,D(3) dopamine receptor,Rattus norvegicus (Rat),30,Ki,0.91781
+2D0T,34458,"Indoleamine 2,3-dioxygenase 1",Homo sapiens (Human),35600,IC50,1.00000
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),320.11,Ki,0.91441
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),497.43,Ki,0.91250
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),1189,Ki,0.92237
+4PZS,34458,Histone acetyltransferase p300,Homo sapiens (Human),1800,IC50,na
+7LBG,34458,Tissue factor,Homo sapiens (Human),152,IC50,0.92694
+6C5Z,34458,Glucose-6-phosphate 1-dehydrogenase,Homo sapiens (Human),>80000,IC50,1.00000
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),76,IC50,na
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),6.6,Ki,0.92237
+7E2Z,34458,Alpha-1A adrenergic receptor,Homo sapiens (Human),5400,IC50,1.00000
+5WIV,34458,D(4) dopamine receptor,Homo sapiens (Human),>1000,Ki,0.92237
+4IAQ,34458,D(1B) dopamine receptor,Homo sapiens (Human),242,Ki,0.92694
+2A3R,34458,D(3) dopamine receptor,Homo sapiens (Human),37,Ki,0.92237
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),1420,IC50,na
+5WIV,34458,D(4) dopamine receptor,Homo sapiens (Human),>1000,Ki,0.92694
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),15970,EC50,1.00000
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),4940,IC50,na
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),32,Ki,0.93151
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),3110,IC50,0.90411
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),17370,IC50,1.00000
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),522.03,Ki,0.90991
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),102,Ki,0.92237
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),>5000,Ki,0.97717
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),630,IC50,0.91781
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),>5000,Ki,0.89498
+4IAQ,34458,D(1B) dopamine receptor,Homo sapiens (Human),9.5,Ki,0.92237
+5WIV,34458,D(4) dopamine receptor,Homo sapiens (Human),3748,Ki,0.91781
+2A3R,34458,D(3) dopamine receptor,Homo sapiens (Human),1371,Ki,0.92694
+2A3R,34458,D(3) dopamine receptor,Homo sapiens (Human),262,Ki,0.92237
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),>5000,Ki,0.92694
+6B19,34458,Reverse transcriptase,Human immunodeficiency virus 1,>585000,IC50,0.90411
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),50,Ki,0.92694
+5DSG,34458,Muscarinic acetylcholine receptor M4,Homo sapiens (Human),2000,Ki,1.00000
+7LBG,34458,Tissue factor,Homo sapiens (Human),6.8,IC50,0.97717
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),443,Ki,0.90411
+7E2Z,34458,D(1A) dopamine receptor,RAT,339,Ki,na
+4IAQ,34458,D(1B) dopamine receptor,Homo sapiens (Human),15,Ki,1.00000
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),1125,Ki,0.92694
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),>5000,Ki,0.92237
+2A3R,34458,D(3) dopamine receptor,Homo sapiens (Human),30,Ki,0.91781
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),4.5,Ki,0.92237
+5WIV,34458,D(4) dopamine receptor,Homo sapiens (Human),486,Ki,1.00000
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),>5000,Ki,0.97717
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),>5000,Ki,0.91781
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),42,Ki,0.92237
+7LBG,34458,Tissue factor,Homo sapiens (Human),187,IC50,0.90411
+5HK2,34458,Sigma non-opioid intracellular receptor 1,Homo sapiens (Human),2.5,Ki,0.92694
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),485.43,Ki,0.91250
+1JY1,34458,Tyrosyl-DNA phosphodiesterase 2,Homo sapiens (Human),128332,IC50,0.89954
+5WIV,34458,D(2) dopamine receptor,Rattus norvegicus (rat),1148,Ki,na
+2AR9,34458,Caspase-9,Homo sapiens (Human),4300,IC50,0.89954
+2A3R,34458,D(3) dopamine receptor,Homo sapiens (Human),433,Ki,1.00000
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),105.41,IC50,0.91781
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),6.3,Ki,1.00000
+7E2Z,34458,D(1A) dopamine receptor,RAT,1698,Ki,na
+7E2Z,34458,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),>5000,Ki,1.00000
+1Z6T,34458,Apoptotic protease-activating factor 1,Homo sapiens (Human),16300,IC50,0.89954
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),11,Ki,0.91781
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),113,Ki,0.92237
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),1003.72,Ki,0.90991
+7E2Z,34458,Alpha-1A adrenergic receptor,Rattus norvegicus (Rat),2239,Ki,0.91781
+5WIV,34458,D(2) dopamine receptor,Homo sapiens (Human),9740,EC50,0.91250
+7E2Z,34458,D(1A) dopamine receptor,Homo sapiens (Human),>5000,Ki,1.00000
+6BO8,6552009,Transient receptor potential cation channel subfamily A member 1,Homo sapiens (Human),300000,IC50,1.00000
+3OP3,6552009,M-phase inducer phosphatase 2,Homo sapiens (Human),5800,IC50,0.94444
+3OP3,6552009,M-phase inducer phosphatase 1,Homo sapiens (Human),3900,IC50,0.94444
+3BZU,6552009,11-beta-hydroxysteroid dehydrogenase 1,Homo sapiens (Human),>1000000,IC50,0.87179
+2Q5E,101681,Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1,Homo sapiens (Human),12105,IC50,0.86957
+6K3J,101681,DNA dC->dU-editing enzyme APOBEC-3G,Homo sapiens (Human),3300,IC50,0.86957
+5HK2,101681,Sigma non-opioid intracellular receptor 1,Homo sapiens (Human),1.7,Ki,0.86957
+4XXO,101681,DNA dC->dU-editing enzyme APOBEC-3A,Homo sapiens (Human),2690,IC50,0.88889
+2Q5E,101681,Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1,Homo sapiens (Human),27796,IC50,0.86957
+2Q5E,101681,Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1,Homo sapiens (Human),5619,IC50,0.88889
+6K3J,101681,DNA dC->dU-editing enzyme APOBEC-3G,Homo sapiens (Human),4710,IC50,0.88889
+4XXO,101681,DNA dC->dU-editing enzyme APOBEC-3A,Homo sapiens (Human),2280,IC50,0.86957
+6BO8,101680,Transient receptor potential cation channel subfamily A member 1,Homo sapiens (Human),300000,IC50,1.00000
+3OP3,101680,M-phase inducer phosphatase 2,Homo sapiens (Human),5800,IC50,0.94444
+3OP3,101680,M-phase inducer phosphatase 1,Homo sapiens (Human),3900,IC50,0.94444
+3BZU,101680,11-beta-hydroxysteroid dehydrogenase 1,Homo sapiens (Human),>1000000,IC50,0.87179
+3EQM,11988279,Aromatase,Homo sapiens (Human),1100,IC50,0.97727
+5A5I,11988279,Cytochrome P450 2C9,Homo sapiens (Human),5500,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),60,IC50,0.97727
+6P2B,11988279,Nuclear receptor subfamily 1 group I member 3,Mus musculus,794,IC50,0.93258
+3EQM,11988279,Aromatase,Homo sapiens (Human),9,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),22,Ki,0.97727
+5SVK,11988279,P2X purinoceptor 3,Homo sapiens (Human),1600,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),9.3,Ki,0.97727
+5HCV,11988279,Mineralocorticoid receptor,Homo sapiens (Human),0.390000,Kd,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),1.4,Ki,0.97727
+6BSF,11988279,Glucocorticoid receptor,Homo sapiens (Human),6060,IC50,0.96629
+5BXJ,11988279,Androgen receptor,Homo sapiens (Human),315,Ki,0.96629
+7BW1,11988279,3-oxo-5-alpha-steroid 4-dehydrogenase 1,Homo sapiens (Human),2700,IC50,0.97727
+7TX6,11988279,Solute carrier organic anion transporter family member [3-691],Danio rerio (Zebrafish),9.06e+3,Ki,0.97727
+5BXJ,11988279,Androgen receptor,Homo sapiens (Human),660,IC50,0.96629
+3EQM,11988279,Aromatase,Homo sapiens (Human),12,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),89,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),28000,IC50,0.91304
+6C0V,11988279,ATP-dependent translocase ABCB1,Homo sapiens (Human),21200,EC50,0.97727
+2VDX,11988279,Corticosteroid-binding globulin,Homo sapiens,1738,Ki,0.97727
+1A28,11988279,Progesterone receptor,Homo sapiens (Human),740,IC50,0.96629
+3EQM,11988279,Aromatase,Homo sapiens (Human),1.4,Ki,0.97727
+6BSF,11988279,Glucocorticoid receptor,Homo sapiens (Human),10,IC50,0.95556
+3EQM,11988279,Aromatase,Homo sapiens (Human),2400,Ki,0.91304
+5HK2,11988279,Sigma non-opioid intracellular receptor 1,Cavia porcellus (Guinea pig),660,Ki,0.97727
+6C0V,11988279,ATP-dependent translocase ABCB1,Homo sapiens (Human),47863,IC50,0.97727
+2VDX,11988279,Corticosteroid-binding globulin,Homo sapiens,166,Ki,na
+7MHY,11988279,Ghrelin O-acyltransferase,Homo sapiens (Human),>1.000e+6,IC50,1.00000
+6BSF,11988279,Glucocorticoid receptor,Homo sapiens (Human),224,Ki,0.96629
+3EQM,11988279,Aromatase,Homo sapiens (Human),3000,Ki,0.97727
+6UEZ,11988279,Lanosterol 14-alpha demethylase,Homo sapiens (Human),>200000,IC50,0.97727
+1A28,11988279,Progesterone receptor,Homo sapiens (Human),224,Ki,0.96629
+6OHU,11988279,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",Homo sapiens (Human),>100000,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),5.1,Ki,0.91489
+3EQM,11988279,Aromatase,Homo sapiens (Human),22,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),260,IC50,0.97727
+6L47,11988279,Sterol O-acyltransferase 1,Homo sapiens (Human),17000,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),270,IC50,na
+5HCV,11988279,Mineralocorticoid receptor,Homo sapiens (Human),>1000,IC50,0.95556
+6AK3,11988279,Solute carrier family 22 member 1,Homo sapiens (Human),3050,IC50,0.97727
+5HK2,11988279,Sigma non-opioid intracellular receptor 1,RAT,239,Kd,0.97727
+1A28,11988279,Progesterone receptor,Oryctolagus cuniculus,6,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),510,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),480,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),3,Ki,0.90526
+7MHY,11988279,Ghrelin O-acyltransferase,Homo sapiens (Human),1.70e+5,IC50,0.87356
+1A28,11988279,Progesterone receptor,Homo sapiens (Human),3.4,Ki,0.97727
+5BXJ,11988279,Androgen receptor,Rattus norvegicus (Rat),1548.82,IC50,0.97727
+5HCV,11988279,Mineralocorticoid receptor,Homo sapiens (Human),>14,IC50,0.97727
+1A28,11988279,Progesterone receptor,Homo sapiens (Human),0.1,EC50,0.97727
+1A28,11988279,Progesterone receptor,Homo sapiens (Human),0.340000,Ki,0.95556
+3EQM,11988279,Aromatase,Homo sapiens (Human),5.1,Ki,0.91489
+6AK3,11988279,Solute carrier family 22 member 3,Rattus norvegicus,10500,IC50,0.97727
+1S9C,11988279,Steroid C26-monooxygenase,Mycobacterium tuberculosis,3.6e+2,Kd,1.00000
+3EQM,11988279,Aromatase,Homo sapiens (Human),240,IC50,0.97727
+1A28,11988279,Progesterone receptor,Homo sapiens (Human),0.2,IC50,0.97727
+5HCV,11988279,Mineralocorticoid receptor,Homo sapiens (Human),39,Ki,0.96629
+3EQM,11988279,Aromatase,Homo sapiens (Human),1200,IC50,0.97727
+1A28,11988279,Progesterone receptor,Oryctolagus cuniculus,10.4,Ki,0.97727
+5BXJ,11988279,Androgen receptor,Homo sapiens (Human),14,IC50,0.97727
+7BW1,11988279,3-oxo-5-alpha-steroid 4-dehydrogenase 1/2,Rattus norvegicus,1600,IC50,0.97727
+2WID,11988279,Cholinesterase,Homo sapiens (Human),1.55e+3,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),11,Ki,0.97727
+1S63,11988279,Protein farnesyltransferase subunit beta/geranylgeranyltransferase type-1 subunit alpha,Homo sapiens (Human),>100000,IC50,1.00000
+5BXJ,11988279,Androgen receptor,Homo sapiens (Human),240,Ki,0.96629
+5BXJ,11988279,Androgen receptor,Homo sapiens (Human),630,IC50,0.91489
+1A28,11988279,Progesterone receptor,Homo sapiens (Human),0.150000,EC50,0.95556
+8BHT,11988279,Broad substrate specificity ATP-binding cassette transporter ABCG2,Homo sapiens (Human),125892.54,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),20,Ki,0.97727
+2VDX,11988279,Corticosteroid-binding globulin,Homo sapiens,76,Ki,na
+1BHG,11988279,Beta-glucuronidase,Escherichia coli (Enterobacteria),4.30e+5,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),1.4,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),9.3,Ki,0.97727
+6PYA,11988279,Sex hormone-binding globulin,Homo sapiens (Human),35,Kd,0.97727
+1BHS,11988279,17-beta-hydroxysteroid dehydrogenase type 3,Rattus norvegicus,169,IC50,0.97727
+2VDX,11988279,Corticosteroid-binding globulin,Homo sapiens,42,Ki,0.97727
+6BSF,11988279,Glucocorticoid receptor,Homo sapiens (Human),252,Ki,0.96629
+7CFM,11988279,G-protein coupled bile acid receptor 1,Homo sapiens (Human),2770,EC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),320,IC50,0.91489
+3EQM,11988279,Aromatase,Homo sapiens (Human),350,IC50,0.97727
+7BW1,11988279,3-oxo-5-alpha-steroid 4-dehydrogenase 2,Homo sapiens (Human),84,IC50,0.97727
+4J24,11988279,Estrogen receptor,Homo sapiens (Human),>1000,IC50,0.97727
+5BXJ,11988279,Androgen receptor,Homo sapiens (Human),220,IC50,0.96629
+3EQM,11988279,Aromatase,Homo sapiens (Human),31,Ki,0.97727
+5BXJ,11988279,Androgen receptor,Mus musculus,37,IC50,0.97727
+1BHS,11988279,17-beta-hydroxysteroid dehydrogenase type 3,Homo sapiens (Human),489,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),20,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),720,IC50,0.97727
+7DV5,11988279,Bile salt export pump,Homo sapiens (Human),<10000,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),390,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),8.8,Ki,0.97727
+2L67,11988279,"Fatty acid-binding protein, liver",Rattus norvegicus (Rat),27,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),1.4,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),140,Ki,0.97727
+6BSF,11988279,Glucocorticoid receptor,Homo sapiens (Human),1740,IC50,0.96629
+4NKV,11988279,"Steroid 17-alpha-hydroxylase/17,20 lyase",Homo sapiens (Human),160,IC50,0.97727
+7PQG,11988279,Bile acid receptor,Homo sapiens (Human),>5000,Ki,0.96629
+5BXJ,11988279,Androgen receptor,Homo sapiens (Human),8.5,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),590,IC50,0.96629
+5HCV,11988279,Mineralocorticoid receptor,Homo sapiens (Human),37,Ki,0.96629
+1A28,11988279,Progesterone receptor,Homo sapiens (Human),201,Ki,0.96629
+1A28,11988279,Progesterone receptor,Homo sapiens (Human),43.3,IC50,0.91489
+3EQM,11988279,Aromatase,Homo sapiens (Human),250,IC50,0.97727
+6PYA,11988279,Sex hormone-binding globulin,Homo sapiens (Human),115,Kd,0.97727
+6BSF,11988279,Glucocorticoid receptor,Homo sapiens (Human),31,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),2.8,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),790.0,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),6.7,Ki,0.97727
+2VDX,11988279,Corticosteroid-binding globulin,Homo sapiens,151,Ki,na
+6P2B,11988279,Nuclear receptor subfamily 1 group I member 2,Homo sapiens (Human),2.4,IC50,0.96629
+5HCV,11988279,Mineralocorticoid receptor,Homo sapiens (Human),1000,IC50,0.96629
+7PQG,11988279,Bile acid receptor,Homo sapiens (Human),44900,IC50,0.96629
+3EQM,11988279,Aromatase,Homo sapiens (Human),5.6,Ki,0.97727
+6B19,11988279,Reverse transcriptase,Human immunodeficiency virus 1,>698000,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),55,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),300,IC50,0.97727
+5TOA,11988279,Estrogen receptor beta,Homo sapiens (Human),>1000,IC50,0.97727
+7PQG,11988279,Bile acid receptor,Homo sapiens (Human),4100,IC50,0.96629
+6AK3,11988279,Solute carrier family 22 member 2,RAT,1600,IC50,0.97727
+6AK3,11988279,Solute carrier family 22 member 3,Homo sapiens (Human),4280,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),2.8,Ki,0.97727
+7PQG,11988279,Bile acid receptor,Homo sapiens (Human),12000,EC50,0.96629
+3EQM,11988279,Aromatase,Homo sapiens (Human),1400,IC50,0.97727
+7PQG,11988279,Bile acid receptor,Homo sapiens (Human),10000,IC50,0.96629
+5TOA,11988279,Estrogen receptor beta,RAT,220,Kd,na
+3EQM,11988279,Aromatase,Homo sapiens (Human),1.4,Ki,0.97727
+5TOA,11988279,Estrogen receptor beta,Homo sapiens (Human),>1000,IC50,0.95556
+3EQM,11988279,Aromatase,Homo sapiens (Human),56,Ki,0.87755
+3EQM,11988279,Aromatase,Homo sapiens (Human),1.4,Ki,0.97727
+5HCV,11988279,Mineralocorticoid receptor,Homo sapiens (Human),1880,IC50,0.96629
+3EQM,11988279,Aromatase,Homo sapiens (Human),150,Ki,0.91304
+3EQM,11988279,Aromatase,Homo sapiens (Human),140,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),9.3,Ki,0.97727
+6P2B,11988279,Nuclear receptor subfamily 1 group I member 2,Homo sapiens (Human),2.4,IC50,0.96629
+3EQM,11988279,Aromatase,Homo sapiens (Human),690,IC50,0.97727
+5BXJ,11988279,Androgen receptor,Rattus norvegicus (Rat),64,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),25,Ki,0.93478
+1A28,11988279,Progesterone receptor,Homo sapiens (Human),1200,IC50,0.96629
+6BSF,11988279,Glucocorticoid receptor,Homo sapiens (Human),>1000,IC50,0.97727
+1KZW,11988279,"Fatty acid-binding protein, intestinal",Homo sapiens (Human),20000,Ki,0.97727
+2CS5,11988279,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),15300,IC50,1.00000
+3EQM,11988279,Aromatase,Homo sapiens (Human),70.0,Ki,0.92473
+5HK2,11988279,Sigma non-opioid intracellular receptor 1,Homo sapiens (Human),260,Ki,0.97727
+5TOA,11988279,Estrogen receptor beta,RAT,3.9,Kd,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),2.8,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),45,Ki,0.97727
+7TX6,11988279,Solute carrier organic anion transporter family member [3-691],Danio rerio (Zebrafish),3.78e+3,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),8.8,Ki,0.97727
+5HK2,11988279,C-8 sterol isomerase ERG2,Saccharomyces cerevisiae,4430,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),105,IC50,na
+3EQM,11988279,Aromatase,Homo sapiens (Human),2.3,Ki,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),4.7,Ki,0.97727
+7PQG,11988279,Bile acid receptor,Homo sapiens (Human),>5000,Ki,0.96629
+2KES,11988279,Alpha-synuclein,Homo sapiens (Human),85900,IC50,0.97727
+6AK3,11988279,Solute carrier family 22 member 2,Homo sapiens (Human),26700,IC50,0.97727
+3EQM,11988279,Aromatase,Homo sapiens (Human),1800,IC50,0.91304
+3EQM,11988279,Aromatase,Homo sapiens (Human),4.6,Ki,0.97727
+5BXJ,11988279,Androgen receptor,Homo sapiens (Human),6.1,IC50,0.95556
+3SP7,39914,Programmed cell death protein 4,Homo sapiens (Human),3000,EC50,0.85849
+3SP7,39914,Programmed cell death protein 4,Homo sapiens (Human),4900,EC50,0.85849
+1CSK,5281764,Proto-oncogene tyrosine-protein kinase Src,Homo sapiens (Human),74000,IC50,0.96319
+2NYY,5281764,Botulinum neurotoxin type A,Clostridium botulinum,700,Ki,1.00000
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,80,IC50,1.00000
+2IIM,5281764,Tyrosine-protein kinase Lck,Homo sapiens (Human),118000,IC50,0.96319
+6XE8,5281764,Tyrosine-protein phosphatase YopH,Yersinia enterocolitica,379000,IC50,1.00000
+1Z3K,5281764,Tyrosine-protein phosphatase non-receptor type 1 [1-301],Homo sapiens (Human),1.400e+6,Ki,1.00000
+1Z3K,5281764,Tyrosine-protein phosphatase non-receptor type 1 [1-301],Homo sapiens (Human),1.600e+6,Kd,1.00000
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,3000,Kd,1.00000
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,34,IC50,1.00000
+4JGD,5281764,Dihydroorotate dehydrogenase (fumarate),Leishmania major,398107,IC50,na
+6XE8,5281764,Tyrosine-protein phosphatase YopH,Yersinia enterocolitica,12500,Ki,1.00000
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,70,IC50,1.00000
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,520,IC50,0.93865
+5EJK,5281764,Integrase,Human immunodeficiency virus 1,15700,IC50,na
+2CAB,5316673,Carbonic anhydrase 2,Homo sapiens (Human),8.3e+2,Ki,0.94795
+1HNY,5316673,Pancreatic alpha-amylase,Homo sapiens (Human),128000,Ki,0.90576
+3FW3,5316673,Carbonic anhydrase 6,Homo sapiens (Human),7.82e+3,Ki,0.94795
+3LII,5316673,Acetylcholinesterase,Homo sapiens (Human),84840,IC50,0.96648
+5V6A,5316673,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),42790,IC50,na
+6Q6Q,5316673,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),35600,IC50,0.86885
+3LII,5316673,Acetylcholinesterase,Homo sapiens (Human),100000,IC50,0.91777
+4Q0L,5316673,Carbonic anhydrase 3,Bos taurus (Cattle),4.77e+3,Ki,0.94795
+5EJK,5316673,Integrase,Human immunodeficiency virus 1,>239000,IC50,na
+5EJK,5316673,Integrase,Human immunodeficiency virus 1,167000,IC50,0.96919
+5V6A,5316673,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),42700,IC50,na
+5AKV,5316673,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),120000,IC50,0.96919
+1I0Z,5316673,L-lactate dehydrogenase A chain,Homo sapiens (Human),>500000,IC50,na
+6Q20,5316673,Neuraminidase,Influenza A virus (strain A/USSR/90/1977 H1N1),109000,IC50,0.96919
+1K4T,5316673,DNA topoisomerase 1,Homo sapiens (Human),260000,IC50,0.91534
+4BYI,5316673,Aurora kinase B,Homo sapiens (Human),3.89e+3,IC50,0.96919
+2FW4,5316673,Carbonic anhydrase 7,Homo sapiens (Human),3.9,Ki,0.96919
+7TPQ,5316673,Prothrombin,Bos taurus (Bovine),22000,IC50,0.91053
+2CAB,5316673,Carbonic anhydrase 1,Homo sapiens (Human),>10000,Ki,0.96919
+5AKV,5316673,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),190000,IC50,0.37356
+2I9A,5316673,Urokinase-type plasminogen activator,Homo sapiens (Human),6000,IC50,0.94795
+1HNY,5316673,Pancreatic alpha-amylase,Homo sapiens (Human),46800,Ki,0.90576
+2LEO,5316673,Serine protease 1,Bos taurus (bovine),>500000,IC50,0.91053
+4C4Y,5316673,Bifunctional epoxide hydrolase 2,Homo sapiens (Human),24600,Ki,na
+2CAB,5316673,Carbonic anhydrase 1,Homo sapiens (Human),1.73e+3,Ki,0.94795
+4C4Y,5316673,Bifunctional epoxide hydrolase 2,Homo sapiens (Human),39600,Ki,0.96919
+5V6A,5316673,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),61460,IC50,na
+4C4Y,5316673,Bifunctional epoxide hydrolase 2,Homo sapiens (Human),19800,IC50,na
+5MSB,5316673,Carbonic anhydrase 12,Homo sapiens (Human),44,Ki,0.96919
+5V6A,5316673,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),31620,IC50,na
+5AKV,5316673,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),>400000,IC50,0.95845
+5V6A,5316673,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),24140,IC50,na
+2CS5,5316673,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),60700,IC50,0.99712
+1BQO,5316673,Matrix metalloproteinase-9,Homo sapiens (Human),50000,IC50,na
+5AKV,5316673,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),180000,IC50,0.31569
+1N8S,5316673,Pancreatic triacylglycerol lipase,Sus scrofa (Pig),>70000,IC50,0.99140
+1HAX,5316673,Chymotrypsin-like elastase family member 1,Sus scrofa (Pig),>500000,IC50,0.91053
+3LII,5316673,Acetylcholinesterase,Homo sapiens (Human),89610,IC50,0.99712
+1K4T,5316673,DNA topoisomerase 2-alpha,Homo sapiens (Human),330000,IC50,0.95845
+1K4T,5316673,DNA topoisomerase 1,Homo sapiens (Human),180000,IC50,0.95580
+3LII,5316673,Acetylcholinesterase,Homo sapiens (Human),12,IC50,na
+1K4T,5316673,DNA topoisomerase 2-alpha,Homo sapiens (Human),600000,IC50,0.95580
+3LXE,5316673,Carbonic anhydrase 4,Homo sapiens (Human),3.76e+3,Ki,0.94795
+1HNY,5316673,Pancreatic alpha-amylase,Homo sapiens (Human),2240,Ki,0.90576
+2I9A,5316673,Urokinase-type plasminogen activator,Homo sapiens (Human),8000,IC50,0.91053
+6GV4,5316673,Genome polyprotein,Dengue virus,1700,IC50,0.96919
+5AKV,5316673,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),520000,IC50,0.38037
+5V6A,5316673,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),24140,IC50,na
+1BQO,5316673,Matrix metalloproteinase-9,Homo sapiens (Human),100,Kd,na
+1K4T,5316673,DNA topoisomerase 2-alpha,Homo sapiens (Human),240000,IC50,0.90576
+5V6A,5316673,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),31620,IC50,na
+1K4T,5316673,DNA topoisomerase 1,Homo sapiens (Human),250000,IC50,0.95845
+4JGD,5316673,Dihydroorotate dehydrogenase (fumarate),Leishmania major,199000,IC50,na
+2F25,5316673,Sialidase,Clostridium perfringens,39100,IC50,0.91777
+1HAX,5316673,Chymotrypsin-like elastase family member 1,Sus scrofa (Pig),100000,IC50,0.94795
+5V6A,5316673,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),49730,IC50,na
+3DYQ,5316673,"cGMP-specific 3',5'-cyclic phosphodiesterase [1-660,682-875]",Homo sapiens (Human),55000,IC50,0.87374
+4C4Y,5316673,Bifunctional epoxide hydrolase 2,Homo sapiens (Human),11800,IC50,0.96919
+1K4T,5316673,DNA topoisomerase 1,Homo sapiens (Human),110000,IC50,0.95580
+3LXE,5316673,Carbonic anhydrase 4,Homo sapiens (Human),67,Ki,0.96919
+2CAB,5316673,Carbonic anhydrase 2,Homo sapiens (Human),6368,Ki,0.96919
+5AKV,5316673,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),100000,IC50,0.96919
+1HNY,5316673,Pancreatic alpha-amylase,Homo sapiens (Human),730,Ki,0.90576
+2CS5,5316673,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),17,IC50,0.96919
+1K4T,5316673,DNA topoisomerase 2-alpha,Homo sapiens (Human),550000,IC50,0.93767
+1K4T,5316673,DNA topoisomerase 1,Homo sapiens (Human),150000,IC50,0.90576
+4C4Y,5316673,Bifunctional epoxide hydrolase 2,Homo sapiens (Human),17230,IC50,0.96648
+5AKV,5316673,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),280000,IC50,0.36834
+7TPQ,5316673,Prothrombin,Bos taurus (Bovine),25000,IC50,0.94795
+2LEO,5316673,Serine protease 1,Bos taurus (bovine),40000,IC50,0.94795
+4GH6,5316673,"cGMP-specific 3',5'-cyclic phosphodiesterase [535-860]",Homo sapiens (Human),1700,IC50,0.87374
+3DYQ,5316673,"cGMP-specific 3',5'-cyclic phosphodiesterase [1-662,679-875]",Homo sapiens (Human),2500,IC50,0.87374
+1K4T,5316673,DNA topoisomerase 1,Homo sapiens (Human),220000,IC50,0.91534
+6Q20,5316673,Neuraminidase,Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)),43000,IC50,na
+4BYI,5316673,Aurora kinase B,Homo sapiens (Human),1.070e+4,IC50,0.96648
+2CS5,5316673,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),100000,IC50,0.96648
+2CS5,5316673,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),100000,IC50,0.91777
+2MRK,175,Tyrosine-protein kinase Fyn,Homo sapiens (Human),900,Kd,1.00000
+6FE2,175,Carbonic anhydrase 9,Homo sapiens (Human),>150000000,Ki,1.00000
+2CAB,175,Carbonic anhydrase,Candida albicans (Yeast),36000,Ki,1.00000
+2CAB,175,Carbonic anhydrase 1,Homo sapiens (Human),10800,Ki,1.00000
+2CAB,175,Carbonic anhydrase 2,Homo sapiens (Human),130000,Ki,1.00000
+3LXE,175,Carbonic anhydrase 4,Homo sapiens (Human),550000,Ki,1.00000
+4PXX,175,"Carbonic anhydrase 5A, mitochondrial",Homo sapiens (Human),25900000,Ki,1.00000
+1JCZ,175,Carbonic anhydrase [110-330],Flaveria bidentis (Coastal plain yellowtops),95100,Ki,1.00000
+5KW2,175,Free fatty acid receptor 3,Homo sapiens (Human),12000,EC50,1.00000
+5KW2,175,Free fatty acid receptor 2,Homo sapiens (Human),250000,EC50,1.00000
+5KW2,175,Free fatty acid receptor 2,Homo sapiens (Human),120000,IC50,1.00000
+2IIM,175,Tyrosine-protein kinase Lck,Homo sapiens (Human),640,Kd,1.00000
+1R42,16133920,Angiotensin-converting enzyme,Homo sapiens (Human),400000,IC50,0.93867
+5LIH,16133920,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),16000,IC50,na
+5LIH,16133920,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),11000,IC50,na
+6C6P,16133920,Squalene monooxygenase,Rattus norvegicus,8000,IC50,0.95911
+6C6P,16133920,Squalene monooxygenase,Rattus norvegicus,4100,IC50,0.93867
+5LIH,16133920,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),16000,IC50,na
+5LIH,16133920,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),86000,IC50,na
+6C6P,16133920,Squalene monooxygenase,Rattus norvegicus,10000,IC50,0.89438
+1R42,16197485,Angiotensin-converting enzyme,Homo sapiens (Human),400000,IC50,0.89765
+5LIH,16197485,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),11000,IC50,na
+6C6P,16197485,Squalene monooxygenase,Rattus norvegicus,8000,IC50,0.91779
+6C6P,16197485,Squalene monooxygenase,Rattus norvegicus,4100,IC50,0.89765
+5LIH,16197485,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),16000,IC50,na
+1HTI,9838995,Triosephosphate isomerase,Homo sapiens (Human),>1000000,IC50,0.92778
+4C4Y,9838995,Bifunctional epoxide hydrolase 2,Homo sapiens (Human),47360,IC50,1.00000
+1HTI,9838995,"Triosephosphate isomerase, glycosomal",Trypanosoma cruzi,6500,IC50,0.95157
+1HTI,9838995,"Triosephosphate isomerase, glycosomal",Trypanosoma cruzi,8000,IC50,0.93557
+1HTI,9838995,"Triosephosphate isomerase, glycosomal",Trypanosoma cruzi,14000,IC50,0.92778
+4C4Y,9838995,Bifunctional epoxide hydrolase 2,Homo sapiens (Human),>50000,IC50,0.95157
+1HTI,9838995,Triosephosphate isomerase,Homo sapiens (Human),>1000000,IC50,0.95157
+1HTI,9838995,"Triosephosphate isomerase, glycosomal",Trypanosoma cruzi,>1000000,IC50,0.91008
+1HTI,9838995,Triosephosphate isomerase,Homo sapiens (Human),>1000000,IC50,0.93557
+1HTI,9838995,Triosephosphate isomerase,Homo sapiens (Human),>1000000,IC50,0.91008
+2AFW,5280666,Glutaminyl-peptide cyclotransferase,Homo sapiens (Human),27900,IC50,0.87500
+4TMF,5280666,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,Homo sapiens (Human),8200,IC50,0.94231
+3T9C,5280666,Inositol hexakisphosphate kinase 2,Homo sapiens,5700,IC50,0.88095
+5L60,5280666,Proteasome subunit beta type-5,Homo sapiens (Human),1.3,IC50,0.94231
+5AUW,5280666,Death-associated protein kinase 1,Homo sapiens (Human),21000,IC50,0.94231
+5JVS,5280666,POsterior Segregation,Caenorhabditis elegans,93141,EC50,0.90583
+6WC5,5280666,Homeobox protein Nkx-2.5/Transcription factor GATA-4,Mus musculus,22000,IC50,0.94231
+1OJ9,5280666,Amine oxidase [flavin-containing] A,Homo sapiens (Human),59,Ki,0.88095
+4E2I,5280666,Large T antigen,Simian virus 40,47930,EC50,0.94231
+1XQZ,5280666,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),646,IC50,0.94231
+2FW4,5280666,Carbonic anhydrase 7,Homo sapiens (Human),4.7,Ki,0.94231
+3U79,5280666,Alpha-xylosidase,Blautia obeum,60000,IC50,0.89778
+5V6A,5280666,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),10600,EC50,0.94231
+6BF8,5280666,Insulin-degrading enzyme,Homo sapiens (Human),>6209,IC50,0.90385
+2WAJ,5280666,Mitogen-activated protein kinase 14,Homo sapiens (Human),3.36e+4,IC50,1.00000
+5X02,5280666,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),210,IC50,0.88095
+2WAJ,5280666,Mitogen-activated protein kinase 10,Homo sapiens (Human),1.59e+4,IC50,0.90583
+2IIM,5280666,Tyrosine-protein kinase Lck,Homo sapiens (Human),1,IC50,0.94231
+5V6A,5280666,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),20000,IC50,0.94231
+2R4H,5280666,Histidine kinase,Streptococcus pneumoniae PCS8203,216000,IC50,0.94231
+2WAJ,5280666,Mitogen-activated protein kinase 14,Homo sapiens (Human),2.32e+4,IC50,0.96190
+2CLT,5280666,Interstitial collagenase [100-268],Homo sapiens (Human),3.03e+3,IC50,0.94231
+7LAF,5280666,Polyunsaturated fatty acid lipoxygenase ALOX15,Homo sapiens (Human),5000,IC50,0.94231
+1A8J,5280666,Taste receptor type 2 member 31,Homo sapiens (Human),11300,IC50,0.93274
+1OJ9,5280666,Amine oxidase [flavin-containing] B,Homo sapiens (Human),1.6e+2,Ki,0.89100
+4I8V,5280666,Cytochrome P450 1A1,Homo sapiens (Human),89,Ki,0.96190
+2J8T,5280666,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),2030,IC50,na
+5EJK,5280666,Integrase,Human immunodeficiency virus 1,39100,IC50,0.90583
+6C0V,5280666,ATP-dependent translocase ABCB1,Homo sapiens (Human),19600,IC50,0.94231
+3LII,5280666,Acetylcholinesterase,Rattus norvegicus (rat),37,IC50,0.95735
+2QMZ,5280666,Sodium-dependent dopamine transporter,Rattus norvegicus (rat),1450,EC50,0.94231
+2J8T,5280666,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),600,IC50,0.94231
+2J8T,5280666,Aldo-keto reductase family 1 member B1 [K65Q],Bos taurus (Cattle),754,IC50,0.94231
+7LAF,5280666,Polyunsaturated fatty acid 5-lipoxygenase,Rattus norvegicus,123200,IC50,0.88095
+2ARQ,5280666,Plasminogen,Homo sapiens (Human),2300,IC50,0.92593
+3PM0,5280666,Cytochrome P450 1B1,Homo sapiens (Human),19,IC50,na
+7LO7,5280666,Multidrug resistance-associated protein 1,Homo sapiens (Human),3000,IC50,1.00000
+1K4T,5280666,DNA topoisomerase 1,Rattus norvegicus,660,IC50,0.94231
+4JGD,5280666,Dihydroorotate dehydrogenase (fumarate),Leishmania major,199526,IC50,0.94977
+1BHS,5280666,17-beta-hydroxysteroid dehydrogenase type 2,Homo sapiens (Human),9300,IC50,0.93274
+7CE4,5280666,Poly [ADP-ribose] polymerase tankyrase-2,Homo sapiens (Human),1100,IC50,0.94231
+966C,5280666,Collagenase 3,Homo sapiens (Human),10050,IC50,0.94231
+7WFC,5280666,Nonstructural protein 3,Zika virus,53000,IC50,0.94231
+4I8V,5280666,Cytochrome P450 1A1,Homo sapiens (Human),80,IC50,0.88095
+2QMZ,5280666,Sodium-dependent dopamine transporter,Rattus norvegicus (rat),3417,EC50,0.91781
+4BYI,5280666,Aurora kinase B,Homo sapiens (Human),3.88e+3,IC50,0.94231
+1R42,5280666,Angiotensin-converting enzyme,Oryctolagus cuniculus,290000,IC50,0.94231
+6C0V,5280666,ATP-dependent translocase ABCB1,Homo sapiens (Human),1200,IC50,0.93088
+2WAJ,5280666,Mitogen-activated protein kinase 10,Homo sapiens (Human),1.91e+4,IC50,0.93274
+3PM0,5280666,Cytochrome P450 1B1,Homo sapiens (Human),5.1,IC50,na
+5ABW,5280666,Neutrophil elastase,Homo sapiens (Human),12700,IC50,0.94231
+2IIM,5280666,Tyrosine-protein kinase Lck,Homo sapiens (Human),4,IC50,0.89520
+1QF8,5280666,Casein kinase II subunit alpha 3,Homo sapiens,500,IC50,0.94231
+1IOX,5280666,Epidermal growth factor receptor,Homo sapiens (Human),4,IC50,0.88095
+1OJ9,5280666,Amine oxidase [flavin-containing] B,Homo sapiens (Human),49,IC50,0.88095
+6Q6Q,5280666,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),14100,IC50,0.88095
+5W2I,5280666,Inositol polyphosphate multikinase,Homo sapiens,7200,IC50,0.96190
+3PM0,5280666,Cytochrome P450 1B1,Homo sapiens (Human),79,IC50,0.94231
+5M8R,5280666,Tyrosinase,Homo sapiens (Human),60000,IC50,0.94231
+3TJM,5280666,3-oxoacyl-acyl-carrier protein reductase,Plasmodium falciparum,800,Ki,0.94231
+5UEN,5280666,Adenosine receptor A1,Rattus norvegicus (rat),18621,Ki,0.95735
+6Q20,5280666,Neuraminidase,Influenza A virus,32600,IC50,0.94231
+2WAJ,5280666,Mitogen-activated protein kinase 10,Homo sapiens (Human),2.3e+3,IC50,0.94231
+2HI4,5280666,Cytochrome P450 1A2,Homo sapiens (Human),1118,IC50,1.00000
+2HDA,5280666,Tyrosine-protein kinase Yes,Homo sapiens (Human),2380,Ki,0.94231
+6Q6Q,5280666,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),14000,IC50,1.00000
+1QIB,5280666,72 kDa type IV collagenase,Homo sapiens (Human),3610,IC50,0.94231
+2F25,5280666,Sialidase-2,Homo sapiens (Human),130000,IC50,0.94231
+2F2C,5280666,Cyclin homolog/dependent kinase 6,Saimiriine herpesvirus 2,>300000,IC50,0.94231
+3T9C,5280666,Inositol hexakisphosphate kinase 2,Homo sapiens,900,IC50,0.96190
+1XV8,5280666,Alpha-amylase 1A,Homo sapiens (Human),48000,IC50,0.90583
+2F25,5280666,Sialidase-2,Homo sapiens (Human),130000,IC50,0.94231
+4I8V,5280666,Cytochrome P450 1A1,Homo sapiens (Human),95,IC50,1.00000
+1G3N,5280666,Cyclin-dependent kinase 6,Homo sapiens (Human),>300000,IC50,0.94231
+5W2I,5280666,Inositol polyphosphate multikinase,Homo sapiens,5500,IC50,0.94231
+2HI4,5280666,Cytochrome P450 1A2,Homo sapiens (Human),2437,IC50,0.96190
+1G3N,5280666,Cyclin-dependent kinase 2,Homo sapiens (Human),20000,IC50,0.94231
+2WAJ,5280666,Mitogen-activated protein kinase 14,Homo sapiens (Human),1.80e+4,IC50,0.94231
+4I8V,5280666,Cytochrome P450 1A1,Homo sapiens (Human),890,Ki,0.94231
+2HW6,5280666,MAP kinase-interacting serine/threonine-protein kinase 2,Homo sapiens (Human),579,IC50,0.94231
+6Q6Q,5280666,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),2900,Ki,0.94231
+6UZ8,5280666,Short transient receptor potential channel 5,Homo sapiens (Human),>10000,IC50,0.94231
+6C0V,5280666,ATP-dependent translocase ABCB1,Homo sapiens (Human),1200,IC50,0.89100
+1XV8,5280666,Alpha-amylase 1A,Homo sapiens (Human),18400,IC50,0.94231
+8BHT,5280666,Broad substrate specificity ATP-binding cassette transporter ABCG2,Homo sapiens (Human),8900,IC50,0.94231
+2WAJ,5280666,Mitogen-activated protein kinase 14,Homo sapiens (Human),5.00e+4,IC50,0.88095
+2IIM,5280666,Tyrosine-protein kinase Lck,Homo sapiens (Human),4,IC50,0.97156
+4BYI,5280666,Aurora kinase B,Homo sapiens (Human),3.98e+3,IC50,1.00000
+3BT0,5280666,Transthyretin,Homo sapiens (Human),70,Kd,0.94231
+2ZNP,5280666,Peroxisome proliferator-activated receptor gamma,Mus musculus,2300,EC50,0.94231
+3QCB,5280666,Receptor-type tyrosine-protein phosphatase S,Homo sapiens (Human),3000,IC50,0.92788
+3BT0,5280666,Transthyretin,Homo sapiens (Human),7000,IC50,0.94231
+3B7T,5280666,M1 family aminopeptidase,Plasmodium falciparum (isolate FcB1 / Columbia),22860,IC50,0.94231
+2F25,5280666,Sialidase-2,Homo sapiens (Human),>1000000,IC50,0.88095
+3DWW,5280666,Prostaglandin G/H synthase 2,Homo sapiens (Human),2.5,IC50,0.94231
+5UKE,5280666,Serine/threonine-protein kinase 33,Homo sapiens (Human),11000,EC50,0.90583
+2WID,5280666,Cholinesterase,Homo sapiens (Human),166100,Ki,0.94231
+5EJK,5280666,Integrase,Human immunodeficiency virus 1,450,IC50,0.94231
+3LII,5280666,Acetylcholinesterase,Rattus norvegicus (rat),44,IC50,0.95794
+4BYI,5280666,Aurora kinase B,Homo sapiens (Human),3.86e+3,IC50,0.96190
+2WAJ,5280666,Mitogen-activated protein kinase 14,Homo sapiens (Human),5.25e+4,IC50,0.96296
+6Q6Q,5280666,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),1900,Ki,0.94231
+2KES,5280666,Alpha-synuclein,Homo sapiens (Human),28000,IC50,0.94231
+5WWW,5280666,Zinc finger protein mex-5,Caenorhabditis elegans,36029,EC50,0.90583
+4JLG,5280666,Histone-lysine N-methyltransferase SETD7,Homo sapiens (Human),6080,IC50,0.94231
+5JVS,5280666,POsterior Segregation,Caenorhabditis elegans,60374,EC50,0.94231
+7CE4,5280666,Poly [ADP-ribose] polymerase tankyrase-1,Homo sapiens (Human),2400,IC50,0.94231
+2J8T,5280666,Aldo-keto reductase family 1 member B1,Rattus norvegicus,302,IC50,0.89778
+1YJ6,5280666,Glutathione S-transferase Mu 1,Homo sapiens (Human),1750,EC50,1.00000
+4ZZY,5280666,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),4200,IC50,0.94231
+3QCB,5280666,Receptor-type tyrosine-protein phosphatase S,Homo sapiens (Human),17500,IC50,0.94231
+2VCY,5280666,Enoyl-acyl-carrier protein reductase,Plasmodium falciparum,2100,Ki,0.94231
+8EF5,5280666,Mu-type opioid receptor,MOUSE,28000,Ki,0.92035
+3PM0,5280666,Cytochrome P450 1B1,Homo sapiens (Human),29,IC50,0.96190
+7LAF,5280666,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),121700,Ki,0.94231
+6HBU,5280666,ATP-binding cassette sub-family C member 2,Homo sapiens (Human),>50000,IC50,0.96190
+3IR3,5280666,3-hydroxyacyl-[acyl-carrier-protein] dehydratase,Plasmodium falciparum,5000,IC50,0.94231
+3B7T,5280666,M1 family aminopeptidase,Plasmodium falciparum (isolate FcB1 / Columbia),15570,IC50,0.90583
+2IIM,5280666,Tyrosine-protein kinase Lck,Homo sapiens (Human),>8,IC50,0.93182
+2VCY,5280666,Enoyl-acyl-carrier protein reductase,Plasmodium falciparum,2000,IC50,0.94231
+5MSB,5280666,Carbonic anhydrase 12,Homo sapiens (Human),60,Ki,0.94231
+2HW6,5280666,MAP kinase-interacting serine/threonine-protein kinase 1,Homo sapiens (Human),179,IC50,0.94231
+2POJ,5280666,Macrophage metalloelastase,Homo sapiens (Human),980,IC50,0.94231
+2WAJ,5280666,Mitogen-activated protein kinase 14,Homo sapiens (Human),2.22e+4,IC50,0.90583
+2B9R,5280666,Cyclin-dependent kinase 1/G2/mitotic-specific cyclin-B,Marthasterias glacialis (starfish),6200,IC50,0.94231
+2CAB,5280666,Carbonic anhydrase 2,Homo sapiens (Human),740,Ki,0.94231
+4TMF,5280666,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,Homo sapiens (Human),32100,IC50,0.87963
+2HI4,5280666,Cytochrome P450 1A2,Homo sapiens (Human),80,IC50,0.88095
+1SLM,5280666,Stromelysin-1,Homo sapiens (Human),16200,IC50,0.94231
+5NN5,5280666,Lysosomal alpha-glucosidase,Homo sapiens (Human),6.0,IC50,0.94231
+7LAF,5280666,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),3200,IC50,0.94231
+2LEO,5280666,Serine protease 1,Bos taurus (bovine),35300,IC50,0.94231
+4Q0L,5280666,Carbonic anhydrase 3,Bos taurus (Cattle),5400,Ki,0.94231
+6Q6Q,5280666,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),10200,IC50,0.94231
+7D3E,5280666,NADPH oxidase 4,Homo sapiens (Human),850,IC50,0.94231
+3GNI,5280666,Cyclin-dependent kinase 5 activator 1 [99-307],Homo sapiens (Human),3800,IC50,0.94231
+4E2I,5280666,Large T antigen,Simian virus 40,35710,EC50,0.90385
+4M6N,5280666,Urease subunit beta,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),35400,IC50,0.94231
+2HI4,5280666,Cytochrome P450 1A2,Homo sapiens (Human),>1000,IC50,na
+4I8V,5280666,Cytochrome P450 1A1,Homo sapiens (Human),3.0,IC50,na
+2WAJ,5280666,Mitogen-activated protein kinase 10,Homo sapiens (Human),2.86e+4,IC50,0.96190
+1OJ9,5280666,Amine oxidase [flavin-containing] A,Homo sapiens (Human),4.8e+3,Ki,0.89100
+4F7N,5280666,Cyclin-dependent kinase 5,Rattus norvegicus,40000,EC50,0.90583
+5ABW,5280666,Neutrophil elastase,Homo sapiens (Human),10100,Ki,0.94231
+5YZ5,5280666,Glycogen synthase kinase-3 beta,Rattus norvegicus (rat),800,IC50,0.94231
+5VAR,5280666,Lysine-specific histone demethylase 1A,Homo sapiens (Human),27900,IC50,0.96190
+3PM0,5280666,Cytochrome P450 1B1,Homo sapiens (Human),7.0,Ki,0.88095
+2HI4,5280666,Cytochrome P450 1A2,Homo sapiens (Human),3370,IC50,0.94231
+1OJ9,5280666,Amine oxidase [flavin-containing] B,Homo sapiens (Human),59700,IC50,0.94231
+1OJ9,5280666,Amine oxidase [flavin-containing] B,Homo sapiens (Human),49,Ki,0.88095
+3IR3,5280666,3-hydroxyacyl-[acyl-carrier-protein] dehydratase,Plasmodium falciparum,11500,Ki,0.94231
+3LII,5280666,Acetylcholinesterase,Homo sapiens (Human),65800,Ki,0.94231
+1XQZ,5280666,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),1585,IC50,0.94231
+5YR7,5280666,"Cytosol aminopeptidase [33-68,L62W]",Sus scrofa (Pig),49600,IC50,0.94231
+4BC5,5280666,1-deoxy-D-xylulose 5-phosphate reductoisomerase,Escherichia coli,3.4e+3,IC50,0.94231
+4XZ0,5280666,Tyrosine-protein kinase SYK,Homo sapiens (Human),4500,EC50,0.94231
+6NB3,5280666,Spike glycoprotein [668-1255],SARS-CoV,10600,EC50,0.94231
+2J8T,5280666,Aldo-keto reductase family 1 member B1,Rattus norvegicus,6760.83,IC50,0.89655
+3TEG,5280666,"RNA-editing ligase 1, mitochondrial",Trypanosoma brucei brucei,>96559,IC50,0.90583
+6B19,5280666,Reverse transcriptase,Human immunodeficiency virus 1,>636000,IC50,0.96296
+6Q20,5280666,Neuraminidase,Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)),33800,IC50,0.94231
+6HBU,5280666,ATP-binding cassette sub-family C member 2,Homo sapiens (Human),>50000,IC50,1.00000
+2KTB,5280666,Protein polybromo-1,Homo sapiens (Human),12900,Kd,0.94231
+2IIM,5280666,Tyrosine-protein kinase Lck,Homo sapiens (Human),>8,IC50,0.95794
+3PM0,5280666,Cytochrome P450 1B1,Homo sapiens (Human),7,IC50,0.88095
+4XZ0,5280666,Tyrosine-protein kinase SYK,Homo sapiens (Human),12000,IC50,0.94231
+4W9N,5280666,Enoyl-[acyl-carrier-protein] reductase [NADH] FabI,Escherichia coli,7050,Ki,0.94231
+2WAJ,5280666,Mitogen-activated protein kinase 14,Homo sapiens (Human),1.89e+4,IC50,0.93274
+1QIP,5280666,Lactoylglutathione lyase,Homo sapiens (Human),7700,IC50,0.94231
+5N2R,5280666,Adenosine receptor A2a,Rattus norvegicus (rat),34674,Ki,0.95735
+7LAF,5280666,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),95400,Ki,0.89904
+8D43,5280666,Alpha-glucosidase MAL62,Saccharomyces cerevisiae,20989398836,IC50,0.94231
+5YZ5,5280666,Glycogen synthase kinase-3 beta,Homo sapiens (Human),3812,EC50,0.94231
+5X02,5280666,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),830,IC50,0.94231
+5UEN,5280666,Adenosine receptor A1,Rattus norvegicus (rat),1550,Ki,0.94231
+2IIM,5280666,Tyrosine-protein kinase Lck,Homo sapiens (Human),8,IC50,0.90521
+1H7U,5280666,DNA gyrase subunit A/B,Escherichia coli (strain K12),>500,IC50,na
+4CDE,5280666,Dipeptidyl peptidase 4,Homo sapiens (Human),120,IC50,0.94231
+4RWA,5280666,Delta-type opioid receptor,Homo sapiens (Human),3100,Ki,0.88889
+5C3Z,5280666,Chemotaxis protein CheA,Escherichia coli (strain K12),111000,IC50,0.94231
+4I5X,5280666,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),9200,IC50,0.94231
+2JFD,5280666,Fatty acid synthase,Homo sapiens (Human),62500,IC50,0.94231
+5YZ5,5280666,Glycogen synthase kinase-3 beta,Homo sapiens (Human),1500,IC50,0.94231
+3T9C,5280666,Inositol hexakisphosphate kinase 2,Homo sapiens,1300,IC50,0.94231
+6Q6Q,5280666,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),7.8,IC50,0.94231
+3TJM,5280666,3-oxoacyl-acyl-carrier protein reductase,Plasmodium falciparum,4000,IC50,0.94231
+2QMZ,5280666,Sodium-dependent dopamine transporter,Rattus norvegicus (rat),4345,EC50,0.93056
+1Z9E,5280666,PC4 and SFRS1-interacting protein,Homo sapiens (Human),1835,IC50,0.90583
+6C0V,5280666,ATP-dependent translocase ABCB1,Homo sapiens (Human),400,IC50,0.93694
+2IIM,5280666,Tyrosine-protein kinase Lck,Homo sapiens (Human),>8,IC50,0.89252
+2CAB,5280666,Carbonic anhydrase 1,Homo sapiens (Human),2200,Ki,0.94231
+5DHG,5280666,G-protein coupled receptor 35,Homo sapiens (Human),3200,EC50,0.94231
+5WWW,5280666,Zinc finger protein mex-5,Caenorhabditis elegans,31000,EC50,0.94231
+2J8T,5280666,Aldo-keto reductase family 1 member B1,Rattus norvegicus,1540,IC50,0.94231
+7LO7,5280666,Multidrug resistance-associated protein 1,Homo sapiens (Human),3000,IC50,0.96190
+1OJ9,5280666,Amine oxidase [flavin-containing] A,Homo sapiens (Human),4900,IC50,0.94231
+5DHG,5280666,G-protein coupled receptor 35,Homo sapiens (Human),18600,IC50,0.94231
+2WAJ,5280666,Mitogen-activated protein kinase 10,Homo sapiens (Human),5.78e+3,IC50,0.88095
+3PM0,5280666,Cytochrome P450 1B1,Homo sapiens (Human),16,Ki,0.96190
+4I8V,5280666,Cytochrome P450 1A1,Homo sapiens (Human),45,Ki,0.88095
+4I8V,5280666,Cytochrome P450 1A1,Homo sapiens (Human),1249,IC50,0.94231
+1OJ9,5280666,Amine oxidase [flavin-containing] A,Homo sapiens (Human),121,IC50,0.88095
+1BQO,5280666,Matrix metalloproteinase-9,Homo sapiens (Human),5620,IC50,0.94231
+5W2I,5280666,Inositol polyphosphate multikinase,Homo sapiens,>30000,IC50,0.88095
+1Z9E,5280666,PC4 and SFRS1-interacting protein,Homo sapiens (Human),1059,IC50,0.94231
+2QMZ,5280666,Sodium-dependent dopamine transporter,Rattus norvegicus (rat),12856,EC50,0.94545
+2WAJ,5280666,Mitogen-activated protein kinase 14,Homo sapiens (Human),3.32e+4,IC50,0.94977
+5TPT,5280666,Amyloid-beta precursor protein,Homo sapiens (Human),6400,IC50,0.94231
+3PM0,5280666,Cytochrome P450 1B1,Homo sapiens (Human),20,IC50,1.00000
+4F7N,5280666,Cyclin-dependent kinase 5,Rattus norvegicus,>250000,EC50,0.94231
+3LXE,5280666,Carbonic anhydrase 4,Homo sapiens (Human),293,Ki,0.94231
+3PM0,5280666,Cytochrome P450 1B1,Homo sapiens (Human),56,Ki,0.94231
+2F25,5280666,Sialidase,Clostridium perfringens,4300,IC50,0.94231
+1XQZ,5280666,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),7762,IC50,0.92788
+2JFD,5280666,Fatty acid synthase,Gallus gallus (Chicken),6.25e+4,IC50,0.94231
+2WAJ,5280666,Mitogen-activated protein kinase 10,Homo sapiens (Human),7.8e+3,IC50,0.96296
+3CBJ,5280666,Cruzipain,Trypanosoma cruzi,27300,IC50,0.94231
+4I8V,5280666,Cytochrome P450 1A1,Homo sapiens (Human),140,IC50,0.96190
+4RWA,5280666,Delta-type opioid receptor,MOUSE,12000,Ki,0.92035
+7LAF,5280666,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),1600,IC50,0.94231
+3FVY,5280666,Dipeptidyl peptidase 3,Homo sapiens (Human),2.20e+4,IC50,0.94231
+2WPI,157395,Coagulation factor X,Homo sapiens (Human),280,IC50,1.00000
+5LIH,157395,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),4000,IC50,na
+5LIH,157395,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),8000,IC50,na
+5LIH,157395,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),11000,IC50,na
+2WPI,157395,Coagulation factor X,Homo sapiens (Human),690,Ki,1.00000
+7TPQ,157395,Prothrombin,Bos taurus (Bovine),59,IC50,1.00000
+6C6P,157395,Squalene monooxygenase,Rattus norvegicus,30000,IC50,0.99714
+6C6P,157395,Squalene monooxygenase,Rattus norvegicus,32000,IC50,1.00000
+2WPI,157395,Coagulation factor X,Homo sapiens (Human),450,Ki,1.00000
+2WPI,157395,Coagulation factor X,Homo sapiens (Human),720,IC50,1.00000
+7TPQ,157395,Prothrombin,Bos taurus (Bovine),980,Ki,1.00000
+7TPQ,157395,Prothrombin,Bos taurus (Bovine),830,Ki,1.00000
+7TPQ,157395,Prothrombin,Bos taurus (Bovine),26,IC50,1.00000
+3P56,1203,Ribonuclease HI,Escherichia coli (strain K12),>20000,IC50,1.00000
+1N8S,1203,Pancreatic triacylglycerol lipase,Sus scrofa (Pig),341000,IC50,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Ovis aries (Sheep),25900,Kd,1.00000
+3DA2,1203,Carbonic anhydrase 13,Homo sapiens (Human),10510,Ki,1.00000
+2J8T,1203,Aldo-keto reductase family 1 member B1,Rattus norvegicus,>30000,IC50,1.00000
+3LXE,1203,Carbonic anhydrase 4,Homo sapiens (Human),4900,Ki,1.00000
+2JFD,1203,Fatty acid synthase,Homo sapiens (Human),>1000000,IC50,1.00000
+1PQ3,1203,Arginase,Leishmania amazonensis,1600,IC50,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Ovis aries (Sheep),25100,Kd,1.00000
+3FW3,1203,Carbonic anhydrase 6,Homo sapiens (Human),4.36e+3,Ki,1.00000
+1M9R,1203,"Nitric oxide synthase, endothelial",Bos taurus (bovine),1.000000,EC50,0.93182
+5L60,1203,Proteasome subunit beta type-5,Homo sapiens (Human),1200000,IC50,1.00000
+1M9R,1203,"Nitric oxide synthase, endothelial",Bos taurus (bovine),2.0,EC50,1.00000
+1PQ3,1203,Arginase,Leishmania amazonensis,200,Ki,1.00000
+7TPQ,1203,Prothrombin,Homo sapiens (Human),5.2,Kd,1.00000
+1TZN,1203,Anthrax toxin receptor 2,Homo sapiens,>300000,IC50,1.00000
+4JGD,1203,Dihydroorotate dehydrogenase (fumarate),Leishmania major,98300,IC50,1.00000
+5UDY,1203,Intestinal-type alkaline phosphatase 1,Rattus norvegicus (Rat),1360,IC50,1.00000
+2CAB,1203,Carbonic anhydrase 1,Homo sapiens (Human),2420,Ki,1.00000
+1N8S,1203,Pancreatic triacylglycerol lipase,Sus scrofa (Pig),18800,IC50,na
+2KES,1203,Alpha-synuclein,Homo sapiens (Human),800,IC50,1.00000
+5V6A,1203,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),100000,IC50,na
+2GLQ,1203,"Alkaline phosphatase, tissue-nonspecific isozyme",Homo sapiens (Human),37100,IC50,1.00000
+1KN0,1203,DNA repair protein RAD52 homolog,Homo sapiens,1800,IC50,1.00000
+6C5Z,1203,Glucose-6-phosphate 1-dehydrogenase,Saccharomyces cerevisiae S288c,>1000000,IC50,1.00000
+2OHM,1203,Beta-secretase 1,Homo sapiens (Human),2500,IC50,1.00000
+4Q0L,1203,Carbonic anhydrase 3,Bos taurus (Cattle),2200,Ki,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Ovis aries (Sheep),40700,Kd,1.00000
+1ZED,1203,"Alkaline phosphatase, germ cell type",Homo sapiens (Human),>100000,IC50,1.00000
+6QNG,1203,Carbonic anhydrase 15,Mus musculus,7680,Ki,1.00000
+6FE2,1203,Carbonic anhydrase 9,Homo sapiens (Human),5030,Ki,1.00000
+4Q0L,1203,Carbonic anhydrase 3,Bos taurus (Cattle),8.93e+3,Ki,1.00000
+6C0V,1203,ATP-dependent translocase ABCB1,Homo sapiens (Human),136,IC50,0.92760
+7KJW,1203,Reverse transcriptase/RNaseH,Human immunodeficiency virus 1,>100000,IC50,1.00000
+6KPC,1203,Cannabinoid receptor 2,Homo sapiens (Human),361300,Ki,1.00000
+5V6A,1203,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),100000,IC50,na
+2KES,1203,Alpha-synuclein,Homo sapiens (Human),10600,IC50,1.00000
+3FW3,1203,Carbonic anhydrase 6,Homo sapiens (Human),4910,Ki,1.00000
+5UDY,1203,Intestinal-type alkaline phosphatase,Homo sapiens (Human),>100000,IC50,1.00000
+5MSB,1203,Carbonic anhydrase 12,Homo sapiens (Human),4720,Ki,1.00000
+7TPQ,1203,Prothrombin,Homo sapiens (Human),4.9,Kd,1.00000
+2JFD,1203,Fatty acid synthase,Homo sapiens (Human),>100000,IC50,1.00000
+2VCY,1203,Enoyl-acyl-carrier protein reductase,Plasmodium falciparum,17.56,Ki,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Ovis aries (Sheep),5300,IC50,1.00000
+8D43,1203,Alpha-glucosidase MAL62,Saccharomyces cerevisiae,74989420933,IC50,na
+7TPQ,1203,Prothrombin,Homo sapiens (Human),125000,IC50,1.00000
+4Q0L,1203,Carbonic anhydrase 3,Homo sapiens (Human),3580,Ki,1.00000
+7B7U,1203,DNA polymerase beta,Rattus norvegicus,18500,IC50,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Homo sapiens (Human),6400,IC50,0.90732
+3DWW,1203,Prostaglandin G/H synthase 2,Homo sapiens (Human),69700,IC50,0.90732
+2WAJ,1203,Mitogen-activated protein kinase 10,Homo sapiens (Human),8.95e+4,IC50,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Bos taurus,80000,IC50,1.00000
+2J8T,1203,Aldo-keto reductase family 1 member B1,Rattus norvegicus,>30000,IC50,1.00000
+6C5Z,1203,Glucose-6-phosphate 1-dehydrogenase,Saccharomyces cerevisiae S288c,>1000000,IC50,1.00000
+4PXX,1203,"Carbonic anhydrase 5B, mitochondrial",Homo sapiens (Human),4020,Ki,1.00000
+5AUW,1203,Death-associated protein kinase 1,Homo sapiens (Human),>300000,IC50,1.00000
+6C0V,1203,ATP-dependent translocase ABCB1,Homo sapiens (Human),155,IC50,0.92760
+2WAJ,1203,Mitogen-activated protein kinase 14,Homo sapiens (Human),3.53e+3,IC50,1.00000
+2J8T,1203,Aldo-keto reductase family 1 member B1,Rattus norvegicus,>30000,IC50,1.00000
+6C5Z,1203,Glucose-6-phosphate 1-dehydrogenase,Saccharomyces cerevisiae S288c,>1000000,IC50,1.00000
+1N8S,1203,Pancreatic triacylglycerol lipase,Sus scrofa (Pig),45900,IC50,na
+4DYO,1203,M18 aspartyl aminopeptidase,Plasmodium falciparum 3D7,1376,IC50,1.00000
+2OHM,1203,Beta-secretase 1,Homo sapiens (Human),2400,IC50,1.00000
+3TON,1203,Probable maltase-glucoamylase 2,Homo sapiens,53800,IC50,1.00000
+2KES,1203,Alpha-synuclein,Homo sapiens (Human),8900,IC50,1.00000
+4PXX,1203,"Carbonic anhydrase 5A, mitochondrial",Homo sapiens (Human),4210,Ki,1.00000
+1ZED,1203,"Alkaline phosphatase, germ cell type",Homo sapiens (Human),51300,EC50,1.00000
+2GLQ,1203,"Alkaline phosphatase, tissue-nonspecific isozyme",Homo sapiens (Human),407,IC50,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Ovis aries (Sheep),2000,IC50,1.00000
+2WAJ,1203,Mitogen-activated protein kinase 10,Homo sapiens (Human),5.3e+3,IC50,1.00000
+6Q6Q,1203,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),>100000,IC50,1.00000
+6Q6Q,1203,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),>100000,IC50,1.00000
+3LPO,1203,"Sucrase-isomaltase, intestinal",Rattus norvegicus (Rat),650000,IC50,1.00000
+2CAB,1203,Carbonic anhydrase 2,Homo sapiens (Human),1.24e+3,Ki,1.00000
+1TZN,1203,Anthrax toxin receptor 2,Homo sapiens,>300000,IC50,1.00000
+1BY8,1203,Procathepsin L,Homo sapiens (Human),>59642,IC50,1.00000
+5UDY,1203,Intestinal-type alkaline phosphatase,Homo sapiens (Human),>100000,EC50,1.00000
+2JKV,1203,"6-phosphogluconate dehydrogenase, decarboxylating",Homo sapiens (Human),>1000000,IC50,1.00000
+7TPQ,1203,Prothrombin,Homo sapiens (Human),150000,IC50,1.00000
+4W9N,1203,Enoyl-[acyl-carrier-protein] reductase [NADH] FabI,Escherichia coli,>100000,IC50,1.00000
+5UDY,1203,Intestinal-type alkaline phosphatase 1,Rattus norvegicus (Rat),15500,IC50,1.00000
+6Q9T,1203,Carbonic anhydrase 14,Homo sapiens (Human),11550,Ki,1.00000
+2JKV,1203,"6-phosphogluconate dehydrogenase, decarboxylating",Homo sapiens (Human),>1000000,IC50,1.00000
+2F25,1203,Sialidase-2,Homo sapiens (Human),>1000000,IC50,1.00000
+5LIH,1203,O94806/P05129/P05771/P17252/P24723/P41743/Q02156/Q04759/Q05513/Q05655/Q15139,Homo sapiens (Human),>100000,IC50,na
+2WAJ,1203,Mitogen-activated protein kinase 14,Homo sapiens (Human),39160,IC50,0.98086
+1N8S,1203,Pancreatic triacylglycerol lipase,Sus scrofa (Pig),101900,IC50,na
+1O0L,1203,Apoptosis regulator Bcl-2,Homo sapiens (Human),>1.000000,Ki,1.00000
+1O0L,1203,Apoptosis regulator Bcl-2,Homo sapiens (Human),>1.000000,Ki,1.00000
+4M6N,1203,Urease subunit beta,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),13,IC50,na
+3DWW,1203,Prostaglandin G/H synthase 1,Ovis aries (Sheep),48700,Kd,1.00000
+6C5Z,1203,Glucose-6-phosphate 1-dehydrogenase,Saccharomyces cerevisiae S288c,>1000000,IC50,1.00000
+2OHM,1203,Beta-secretase 1,Homo sapiens (Human),23000,IC50,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Ovis aries (Sheep),4100,IC50,1.00000
+2CAB,1203,Carbonic anhydrase 2,Homo sapiens (Human),1840,Ki,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Homo sapiens (Human),95000,IC50,1.00000
+1O0L,1203,Apoptosis regulator Bcl-2,Homo sapiens (Human),>1.000000,Ki,na
+1O0L,1203,Apoptosis regulator Bcl-2,Homo sapiens (Human),>1.000000,Ki,1.00000
+6Q6Q,1203,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),>100000,IC50,1.00000
+3LXE,1203,Carbonic anhydrase 4,Homo sapiens (Human),3.98e+3,Ki,1.00000
+6KPC,1203,Cannabinoid receptor 1,Homo sapiens (Human),35700,Ki,1.00000
+1PQ3,1203,Arginase,Leishmania amazonensis,1700,IC50,1.00000
+3LPO,1203,"Sucrase-isomaltase, intestinal",Rattus norvegicus (Rat),310000,IC50,1.00000
+1PQ3,1203,Arginase,Leishmania amazonensis,600,Ki,1.00000
+2VCY,1203,Enoyl-acyl-carrier protein reductase,Plasmodium falciparum,7000,IC50,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Homo sapiens (Human),12000,IC50,0.98086
+1N8S,1203,Pancreatic triacylglycerol lipase,Sus scrofa (Pig),78700,IC50,na
+2WAJ,1203,Mitogen-activated protein kinase 14,Homo sapiens (Human),6.76e+4,IC50,1.00000
+6Q20,1203,Neuraminidase,Influenza A virus,>100000,IC50,na
+2JKV,1203,"6-phosphogluconate dehydrogenase, decarboxylating",Homo sapiens (Human),>1000000,IC50,1.00000
+2CAB,1203,Carbonic anhydrase 1,Homo sapiens (Human),2.32e+3,Ki,1.00000
+4TMF,1203,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,Homo sapiens (Human),>100000,IC50,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Ovis aries (Sheep),2500,IC50,1.00000
+8D43,1203,Alpha-glucosidase MAL62,Saccharomyces cerevisiae,130016957803,IC50,na
+2JKV,1203,"6-phosphogluconate dehydrogenase, decarboxylating",Homo sapiens (Human),>1000000,IC50,1.00000
+3DWW,1203,Prostaglandin G/H synthase 1,Homo sapiens (Human),3300,IC50,0.98086
+1N8S,1203,Pancreatic triacylglycerol lipase,Sus scrofa (Pig),110300,IC50,na
+6Q20,1203,Neuraminidase,Influenza A virus,>100000,IC50,1.00000
+2FW4,1203,Carbonic anhydrase 7,Homo sapiens (Human),450,Ki,1.00000
+2CS5,11776892,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),35700,IC50,1.00000
+2CS5,11776892,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens (Human),45900,IC50,1.00000
+3RZE,5281600,Histamine H1 receptor,RAT,>10000,Ki,0.95167
+3U8H,5281600,"Phospholipase A2, membrane associated",Homo sapiens (Human),23800,IC50,0.95167
+2XV7,5281600,Vascular endothelial growth factor A,Homo sapiens (Human),17,Kd,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 2,Homo sapiens (Human),26400,IC50,na
+1NUS,5281600,Probable nicotinate-nucleotide adenylyltransferase,Staphylococcus aureus subsp. aureus N315,29400,IC50,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),502,IC50,na
+7E2Z,5281600,Alpha-1A adrenergic receptor,Homo sapiens (Human),>10000,Ki,0.95167
+7BTS,5281600,Beta-2 adrenergic receptor,Rattus norvegicus,>10000,Ki,0.95167
+6Q6Q,5281600,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),35300,IC50,0.95167
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),13800,Ki,na
+2OHM,5281600,Beta-secretase 1,Homo sapiens (Human),>10000,IC50,0.87879
+7WKZ,5281600,5-hydroxytryptamine receptor 6,Homo sapiens (Human),>10000,Ki,0.95167
+1YK8,5281600,Cathepsin K,Homo sapiens (Human),1850,IC50,0.95167
+1YK8,5281600,Cathepsin K,Homo sapiens (Human),2530,IC50,0.93091
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),32000,IC50,na
+4ZZY,5281600,Poly [ADP-ribose] polymerase 2,Homo sapiens (Human),29500,IC50,na
+5TPT,5281600,Amyloid-beta precursor protein,Homo sapiens (Human),4900,IC50,0.93091
+4ZZY,5281600,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),642,IC50,na
+5TPT,5281600,Amyloid-beta precursor protein,Homo sapiens (Human),4800,IC50,0.95167
+5FTJ,5281600,Transitional endoplasmic reticulum ATPase,Homo sapiens (Human),8984,IC50,0.95167
+5FDO,5281600,Induced myeloid leukemia cell differentiation protein Mcl-1,Homo sapiens (Human),1634.071095,IC50,0.95167
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),35600,Ki,na
+2A3R,5281600,D(3) dopamine receptor,Rattus norvegicus (Rat),1241.2,Ki,0.95167
+1BQO,5281600,Matrix metalloproteinase-9,Homo sapiens (Human),2180,Kd,0.95167
+2CS5,5281600,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),9600,IC50,0.87879
+2ZKM,5281600,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1",Bos taurus,29000,IC50,0.95167
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),72300,IC50,na
+6KUW,5281600,Alpha-2C adrenergic receptor,Homo sapiens (Human),>10000,Ki,0.95167
+5IXC,5281600,Cytosolic phospholipase A2,Homo sapiens (Human),>100000,IC50,0.95167
+6BQG,5281600,5-hydroxytryptamine receptor 2C,Homo sapiens (Human),2555,Ki,0.95167
+2OHM,5281600,Beta-secretase 1,Homo sapiens (Human),1540,IC50,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),179,IC50,na
+2OHM,5281600,Beta-secretase 1,Homo sapiens (Human),990,IC50,0.93091
+4ZZY,5281600,Poly [ADP-ribose] polymerase 2,Homo sapiens (Human),8500,IC50,na
+2OHM,5281600,Beta-secretase 1,Homo sapiens (Human),4210,IC50,0.90459
+4ZZY,5281600,Poly [ADP-ribose] polymerase 2,Homo sapiens (Human),14700,IC50,na
+1SLM,5281600,Stromelysin-1,Homo sapiens (Human),>100000,IC50,0.95167
+5TPT,5281600,Amyloid-beta precursor protein,Homo sapiens (Human),4900,IC50,0.91103
+7E32,5281600,5-hydroxytryptamine receptor 1D,Sus scrofa,4094,Ki,0.95167
+5WIV,5281600,D(4) dopamine receptor,RAT,>10000,Ki,0.95167
+4IAQ,5281600,D(1B) dopamine receptor,Homo sapiens (Human),>10000,Ki,0.95167
+4IAQ,5281600,5-hydroxytryptamine receptor 1B,Homo sapiens (Human),4094,Ki,0.95167
+7E32,5281600,5-hydroxytryptamine receptor 1D,Homo sapiens (Human),>10000,Ki,0.95167
+6B73,5281600,Kappa-type opioid receptor,Homo sapiens (Human),>10000,Ki,0.95167
+6WJC,5281600,Muscarinic acetylcholine receptor M1,Homo sapiens (Human),>10000,Ki,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 2,Homo sapiens (Human),10300,IC50,0.95167
+8EA0,5281600,Muscarinic acetylcholine receptor M3,Homo sapiens (Human),>10000,Ki,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),387,IC50,na
+6OL9,5281600,Muscarinic acetylcholine receptor M5,Homo sapiens (Human),>10000,Ki,0.95167
+1BQO,5281600,Matrix metalloproteinase-9,Homo sapiens (Human),2580,IC50,0.95167
+7E2Z,5281600,D(1A) dopamine receptor,Homo sapiens (Human),>10000,Ki,0.95167
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),72300,IC50,0.90141
+7W6P,5281600,Alpha-2A adrenergic receptor,Homo sapiens (Human),>10000,Ki,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),0.200000,IC50,0.95167
+7UM4,5281600,5-hydroxytryptamine receptor 5A,Homo sapiens (Human),>10000,Ki,0.95167
+2QMZ,5281600,Sodium-dependent dopamine transporter,BOVINE,877.4,Ki,0.95167
+2CS5,5281600,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),7400,IC50,0.95167
+5WIV,5281600,D(2) dopamine receptor,Rattus norvegicus (rat),>10000,Ki,0.95167
+4RWA,5281600,Delta-type opioid receptor,Homo sapiens (Human),36,Ki,0.95167
+4RWA,5281600,Delta-type opioid receptor,GUINEA PIG,37,Ki,0.95167
+6D6U,5281600,Gamma-aminobutyric acid receptor subunit alpha-1/beta-2/gamma-2,Homo sapiens (Human),3600,EC50,0.95167
+2OHM,5281600,Beta-secretase 1,Homo sapiens (Human),1400,IC50,0.91103
+1QIB,5281600,72 kDa type IV collagenase,Homo sapiens (Human),30310,IC50,0.95167
+7B6W,5281600,Alpha-1B adrenergic receptor,Homo sapiens (Human),>10000,Ki,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 2,Homo sapiens (Human),12500,IC50,na
+6D6U,5281600,Gamma-aminobutyric acid receptor subunit alpha-1/beta-2/gamma-2,Homo sapiens (Human),281838293,IC50,0.95167
+7BTS,5281600,Beta-1 adrenergic receptor,Rattus norvegicus (Rat),>10000,Ki,0.95167
+7R0C,5281600,Vasopressin V2 receptor,Homo sapiens (Human),>10000,Ki,0.95167
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),80400,Ki,0.90141
+8EF5,5281600,Mu-type opioid receptor,Homo sapiens (Human),>10000,Ki,0.95167
+6B19,5281600,Reverse transcriptase,Human immunodeficiency virus 1,119000,IC50,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),296,IC50,na
+7WKZ,5281600,5-hydroxytryptamine receptor 7,Homo sapiens (Human),>10000,Ki,0.95167
+1YK8,5281600,Cathepsin K,Homo sapiens (Human),1520,IC50,0.90141
+7BB6,5281600,Vasopressin V1b receptor,Homo sapiens (Human),>10000,Ki,0.95167
+7WKZ,5281600,5-hydroxytryptamine receptor 3A,Homo sapiens (Human),>10000,Ki,0.95167
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),8300,IC50,na
+5TPT,5281600,Amyloid-beta precursor protein,Homo sapiens (Human),4700,IC50,0.90141
+1BML,5281600,Streptokinase A,Streptococcus pyogenes M1 GAS,150000,EC50,0.95167
+5WZM,5281600,Group 10 secretory phospholipase A2,Homo sapiens (Human),>100000,IC50,0.95167
+5TPT,5281600,Amyloid-beta precursor protein,Homo sapiens (Human),10100,IC50,0.90141
+7EU8,5281600,"Glutamate receptor ionotropic, NMDA 1",RAT,>10000,Ki,0.95167
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),30200,Ki,na
+2ZKM,5281600,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1",Homo sapiens (Human),29000,IC50,0.95167
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),38400,IC50,na
+2OHM,5281600,Beta-secretase 1,Homo sapiens (Human),2020,IC50,0.90141
+6K41,5281600,Alpha-2B adrenergic receptor,Homo sapiens (Human),>10000,Ki,0.95167
+2CS5,5281600,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),7800,Ki,0.95167
+1BQO,5281600,Matrix metalloproteinase-9,Homo sapiens (Human),10330,IC50,0.90141
+5WZM,5281600,Phospholipase A2,Rattus norvegicus,>100000,IC50,0.95167
+1SLM,5281600,Stromelysin-1,Homo sapiens (Human),>100000,IC50,0.90141
+4ZZY,5281600,Poly [ADP-ribose] polymerase 2,Homo sapiens (Human),12700,IC50,na
+2OHM,5281600,Beta-secretase 1,Homo sapiens (Human),3010,IC50,0.90141
+3HCD,5281600,Sodium-dependent noradrenaline transporter,Homo sapiens (Human),>10000,Ki,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),250,IC50,na
+7QNA,5281600,Gamma-aminobutyric acid receptor subunit alpha-1,Rattus norvegicus (Rat),6.17,Ki,0.95167
+5ABW,5281600,Neutrophil elastase,Homo sapiens (Human),1270,IC50,0.95167
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),13800,Ki,0.95167
+5DSG,5281600,Muscarinic acetylcholine receptor M4,Homo sapiens (Human),>10000,Ki,0.95167
+6B19,5281600,Reverse transcriptase,Human immunodeficiency virus 1,100000,IC50,na
+2A3R,5281600,D(3) dopamine receptor,Homo sapiens (Human),1241,Ki,0.95167
+3UON,5281600,Muscarinic acetylcholine receptor M2,Homo sapiens (Human),>10000,Ki,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 2,Homo sapiens (Human),10300,IC50,na
+7E2Z,5281600,5-hydroxytryptamine receptor 1A,Homo sapiens (Human),>10000,Ki,0.95167
+4ZZY,5281600,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),196,IC50,na
+2CS5,5281600,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),10700,Ki,0.87879
+1FZV,5281600,Placenta growth factor,Homo sapiens (Human),8.2,Kd,0.95167
+6XBZ,5281600,Cyclin-dependent kinase 5 activator 1,Homo sapiens (Human),9290,IC50,0.87879
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),8300,IC50,0.95167
+5V6A,5281600,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),8300,IC50,na
+3B7T,5281600,M1 family aminopeptidase,Plasmodium falciparum (isolate FcB1 / Columbia),108390,IC50,0.95167
+1QIB,5281600,72 kDa type IV collagenase,Homo sapiens (Human),>100000,IC50,0.90141
+1QIB,1990,72 kDa type IV collagenase,Homo sapiens (Human),15000000,IC50,1.00000
+2CAB,1990,Carbonic anhydrase 2,Homo sapiens (Human),47000,IC50,1.00000
+3C0Z,1990,Histone deacetylase 1,Homo sapiens (Human),625000,IC50,1.00000
+7PPZ,1990,Lethal factor,Bacillus anthracis,11400000,IC50,1.00000
+3G5K,1990,Peptide deformylase,Staphylococcus aureus (strain Mu50 / ATCC 700699),>100000,IC50,1.00000
+1SLM,1990,Stromelysin-1,Homo sapiens (Human),17000000,Kd,1.00000
+6ACL,1990,Succinyl-diaminopimelate desuccinylase,Haemophilus influenzae,>1000000,IC50,1.00000
+5NKS,1990,Urease,Canavalia ensiformis (Jack bean) (Horse bean),17300,IC50,1.00000
+5NKS,1990,"Urease [D459Y,K653P]",Canavalia ensiformis (Jack bean),4.32e+4,IC50,1.00000
+4M6N,1990,Urease subunit alpha,Helicobacter pylori,1.20e+5,IC50,1.00000
+4M6N,1990,Urease subunit alpha,Helicobacter pylori ATCC43504,4.247e+4,IC50,1.00000
+4RTA,1990,Urease subunit alpha [1-30],Escherichia coli,29200,IC50,1.00000
+4M6N,1990,Urease subunit beta,Helicobacter pylori,17200,IC50,1.00000
+4M6N,1990,Urease subunit beta,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),11000,IC50,1.00000
+4M6N,1990,Urease subunit beta,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),96000,Ki,1.00000
+2ZZC,6780,"Thioredoxin reductase 2, mitochondrial",Rattus norvegicus,>200000,IC50,0.98701
+2ZZC,6780,"Thioredoxin reductase 1, cytoplasmic",Rattus norvegicus,>200000,IC50,0.98701
+2WGP,6780,Dual specificity protein phosphatase 1,Mus musculus,>50000,IC50,1.00000
+2Q7M,6780,5-lipoxygenase,Bos taurus,2000,IC50,0.98701
+3OP3,6780,M-phase inducer phosphatase 2,Homo sapiens (Human),9510,IC50,1.00000
+6BY9,6780,Histone-lysine N-methyltransferase EHMT1,Homo sapiens (Human),>100000,IC50,1.00000
+6MM1,6780,Histone-lysine N-methyltransferase EHMT2,Homo sapiens (Human),>100000,IC50,1.00000
+2WGP,6780,Dual specificity protein phosphatase 6,Rattus norvegicus,>50000,IC50,1.00000
+3EQM,119034,Aromatase,Homo sapiens (Human),32000,IC50,0.94059
+5NN5,119034,Lysosomal alpha-glucosidase,Homo sapiens (Human),4.4,IC50,0.94059
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),12800,IC50,0.96040
+1MX1,119034,Liver carboxylesterase 1,Homo sapiens (Human),100,IC50,0.88073
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),19000,IC50,0.94059
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),213000,IC50,0.97030
+3G4L,119034,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",Homo sapiens (Human),6568,IC50,0.94059
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens (Human),11310,IC50,0.97030
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),22100,IC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),8500,IC50,0.93069
+4I5X,119034,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),2000,Ki,0.94059
+8D3F,119034,Signal transducer and activator of transcription 3,Homo sapiens (Human),>50000,IC50,0.93069
+3DWW,119034,Prostaglandin G/H synthase 2,Homo sapiens (Human),>40000,IC50,0.96040
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),5490,IC50,0.97030
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),20000,IC50,0.97030
+5ABW,119034,Neutrophil elastase,Homo sapiens (Human),416,IC50,0.94059
+3DWW,119034,Prostaglandin G/H synthase 2,Homo sapiens (Human),>40000,IC50,0.94059
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),3.20e+3,IC50,0.94059
+5OVR,119034,Tyrosine-protein phosphatase non-receptor type 11,Homo sapiens (Human),>4E4,IC50,0.96040
+2LEO,119034,Protease,Human immunodeficiency virus 1 (HIV-1),62700,IC50,0.96040
+1HNY,119034,Pancreatic alpha-amylase,Sus scrofa (Pig),22600,IC50,0.94059
+3DWW,119034,Prostaglandin G/H synthase 1,Homo sapiens (Human),210000,IC50,0.94059
+7LAF,119034,Polyunsaturated fatty acid lipoxygenase ALOX15B,Homo sapiens (Human),>40000,IC50,0.95050
+3G4L,119034,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",Homo sapiens (Human),>20000,IC50,0.89908
+1YTV,119034,Vasopressin V1a receptor,Homo sapiens (Human),2325,EC50,0.91429
+7LBG,119034,Tissue factor,Homo sapiens (Human),5,IC50,0.93069
+7CFM,119034,G-protein coupled bile acid receptor 1,Homo sapiens (Human),1430,EC50,0.94059
+6D4D,119034,Receptor-type tyrosine-protein phosphatase epsilon,Homo sapiens (Human),>40000,IC50,0.94059
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),14000,IC50,0.93069
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),12380,IC50,0.95283
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),5500,IC50,0.94059
+7B7U,119034,DNA polymerase beta,Homo sapiens (Human),18600,IC50,0.94059
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens (Human),4440,IC50,0.93069
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens (Human),>20000,IC50,0.95283
+3LPO,119034,"Sucrase-isomaltase, intestinal",Rattus norvegicus (Rat),>1000000,IC50,0.94059
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),1170,IC50,0.93069
+6B19,119034,Reverse transcriptase,Human immunodeficiency virus 1,4900,IC50,na
+2J8T,119034,Aldo-keto reductase family 1 member B1,Rattus norvegicus,28800,IC50,0.88073
+7LAF,119034,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),>40000,IC50,na
+3DWW,119034,Prostaglandin G/H synthase 2,Homo sapiens (Human),87000,IC50,0.93069
+7LEU,119034,Transcription factor p65,Homo sapiens (Human),31,IC50,0.94059
+7B7U,119034,DNA polymerase beta,Homo sapiens (Human),8800,IC50,0.93069
+6D4D,119034,Receptor-type tyrosine-protein phosphatase epsilon,Homo sapiens (Human),>40000,IC50,0.93069
+3DWW,119034,Prostaglandin G/H synthase 2,Homo sapiens (Human),>40000,IC50,1.00000
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Homo sapiens (Human),20000,IC50,0.97030
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),6300,IC50,0.88991
+2JOD,119034,Adenylate cyclase,Spirulina platensis,100000,IC50,1.00000
+7MHY,119034,Ghrelin O-acyltransferase,Homo sapiens (Human),>1.00e+5,IC50,0.94059
+3DWW,119034,Prostaglandin G/H synthase 1,Ovis aries (Sheep),42000,IC50,0.96040
+3DWW,119034,Prostaglandin G/H synthase 2,Homo sapiens (Human),>40000,IC50,0.93069
+3DWW,119034,Prostaglandin G/H synthase 1,Homo sapiens (Human),380000,IC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),20600,IC50,0.94059
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),9000,IC50,0.94059
+7B7U,119034,DNA polymerase beta,Homo sapiens (Human),3000,IC50,0.93069
+7CFM,119034,G-protein coupled bile acid receptor 1,Homo sapiens (Human),>10000,EC50,1.00000
+7CFM,119034,G-protein coupled bile acid receptor 1,Homo sapiens (Human),2250,EC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),17000,IC50,1.00000
+3OP3,119034,M-phase inducer phosphatase 2,Homo sapiens (Human),980,IC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),20000,IC50,0.97030
+2WID,119034,Cholinesterase,Equus caballus (Horse),16560,IC50,0.96040
+5OVR,119034,Tyrosine-protein phosphatase non-receptor type 11,Homo sapiens (Human),11620,IC50,0.93069
+4C2J,119034,"Acetyl-CoA acetyltransferase, mitochondrial",Rattus norvegicus,77900,IC50,0.93069
+3DWW,119034,Prostaglandin G/H synthase 2,Homo sapiens (Human),>40000,IC50,na
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),4.93E3,IC50,0.96040
+1MX5,119034,Cocaine esterase,Homo sapiens (Human),1900,IC50,0.88073
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),28000,IC50,0.96040
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),144000,IC50,0.96040
+1HNY,119034,Pancreatic alpha-amylase,Sus scrofa (Pig),31200,IC50,0.97030
+6L47,119034,Sterol O-acyltransferase 1,Rattus norvegicus,64000,IC50,0.96040
+3DWW,119034,Prostaglandin G/H synthase 2,Homo sapiens (Human),>40000,IC50,0.99010
+7LEU,119034,Transcription factor p65,Homo sapiens (Human),2400,IC50,0.93069
+2WID,119034,Cholinesterase,Equus caballus (Horse),35640,Ki,0.96040
+3DWW,119034,Prostaglandin G/H synthase 1,Ovis aries (Sheep),42000,IC50,0.93069
+1JY1,119034,Tyrosyl-DNA phosphodiesterase 1,Homo sapiens (Human),>100000,IC50,0.97030
+5WZM,119034,Phospholipase A2,Homo sapiens (Human),3000,IC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),17000,IC50,1.00000
+1BHG,119034,Beta-glucuronidase,Escherichia coli (Enterobacteria),63000,IC50,na
+6B19,119034,Reverse transcriptase,Human immunodeficiency virus 1,4900,IC50,na
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),144000,IC50,0.96040
+7LAF,119034,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),42000,IC50,0.99010
+1N8S,119034,Pancreatic triacylglycerol lipase,Sus scrofa (Pig),83,IC50,0.93069
+1O1V,119034,Solute carrier organic anion transporter family member 1B3,Homo sapiens (Human),891,IC50,0.95050
+3DWW,119034,Prostaglandin G/H synthase 1,Ovis aries (Sheep),>40000,IC50,0.99010
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens (Human),5100,IC50,0.93069
+2CS5,119034,Receptor-type tyrosine-protein phosphatase F,Homo sapiens (Human),>4E4,IC50,0.96040
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),17400,IC50,0.92661
+1YCI,119034,Hypoxia-inducible factor 1-alpha,Homo sapiens (Human),>100000,IC50,0.94059
+7LBG,119034,Tissue factor,Homo sapiens (Human),0.054000,IC50,na
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),5050,IC50,0.93069
+1FC0,119034,"Glycogen phosphorylase, liver form",Rattus norvegicus,99000,IC50,0.96040
+2CS5,119034,Receptor-type tyrosine-protein phosphatase F,Homo sapiens (Human),3800,IC50,0.94059
+5CR1,119034,Solute carrier organic anion transporter family member 1B1,Homo sapiens (Human),3802,IC50,0.95050
+1X9N,119034,DNA ligase 1,Homo sapiens (Human),262000,IC50,0.94059
+5I8H,119034,Env polyprotein,Human immunodeficiency virus 1,>100000,EC50,0.93069
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),6000,Ki,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),34000,IC50,0.96040
+7LAF,119034,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),>40000,IC50,0.96040
+5X8S,119034,Nuclear receptor ROR-gamma,Homo sapiens (Human),130,IC50,0.94059
+3DWW,119034,Prostaglandin G/H synthase 1,Ovis aries (Sheep),>40000,IC50,1.00000
+5V1B,119034,Egl nine homolog 1/Prolyl hydroxylase EGLN2/Prolyl hydroxylase EGLN3/Transmembrane prolyl 4-hydroxylase,Homo sapiens (Human),>50000,EC50,0.96040
+1FC0,119034,"Glycogen phosphorylase, liver form",Rattus norvegicus,101000,IC50,0.97030
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),1.433E4,IC50,0.96040
+3C9E,119034,Cathepsin D,Homo sapiens (Human),18200,IC50,0.94059
+3DWW,119034,Prostaglandin G/H synthase 2,Homo sapiens (Human),>40000,IC50,0.97030
+7LAF,119034,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),>40000,IC50,0.94059
+7MTA,119034,Rhodopsin,Bos taurus,180000,IC50,0.95283
+7LBG,119034,Tissue factor,Homo sapiens (Human),0.221000,IC50,0.95050
+5V1B,119034,Egl nine homolog 1/Prolyl hydroxylase EGLN2/Prolyl hydroxylase EGLN3/Transmembrane prolyl 4-hydroxylase,Homo sapiens (Human),>50000,EC50,0.94059
+7MTA,119034,Rhodopsin,Bos taurus,120000,EC50,0.95283
+2CS5,119034,Receptor-type tyrosine-protein phosphatase F,Homo sapiens (Human),>40000,IC50,0.93069
+5I8H,119034,Env polyprotein,Human immunodeficiency virus 1,>100000,EC50,0.94059
+6L47,119034,Sterol O-acyltransferase 1,Rattus norvegicus,44000,IC50,0.90741
+2CS5,119034,Receptor-type tyrosine-protein phosphatase F,Homo sapiens (Human),11800,IC50,0.93069
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),>30000,IC50,0.95050
+6NB3,119034,Spike glycoprotein,2019-nCoV,476100,IC50,na
+1X9N,119034,DNA ligase 1,Homo sapiens (Human),186000,IC50,0.93069
+1IOX,119034,Epidermal growth factor receptor,Homo sapiens (Human),>20000,IC50,0.93069
+6D4D,119034,Receptor-type tyrosine-protein phosphatase epsilon,Homo sapiens (Human),>40000,IC50,0.97030
+7MHY,119034,Ghrelin O-acyltransferase,Homo sapiens (Human),>1.00e+5,IC50,0.93069
+7B7U,119034,DNA polymerase beta,Homo sapiens (Human),12600,IC50,0.97030
+5EYZ,119034,Receptor-type tyrosine-protein phosphatase C,Homo sapiens (Human),1000,IC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),3500,IC50,0.93069
+2J8T,119034,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),72000,IC50,0.96040
+1HNY,119034,Pancreatic alpha-amylase,Sus scrofa (Pig),94100,IC50,0.93069
+3BZU,119034,11-beta-hydroxysteroid dehydrogenase 1,Homo sapiens (Human),1900,IC50,0.94059
+7LAF,119034,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),>40000,IC50,1.00000
+5CR1,119034,Solute carrier organic anion transporter family member 1B1,Homo sapiens (Human),2110,Ki,0.95050
+5V1B,119034,Egl nine homolog 1/Prolyl hydroxylase EGLN2/Prolyl hydroxylase EGLN3/Transmembrane prolyl 4-hydroxylase,Homo sapiens (Human),>50000,EC50,0.93069
+1O1V,119034,Solute carrier organic anion transporter family member 1B3,Homo sapiens (Human),680,Ki,0.95050
+3QCB,119034,Receptor-type tyrosine-protein phosphatase alpha,Homo sapiens (Human),>40000,IC50,0.94059
+3DWW,119034,Prostaglandin G/H synthase 1,Ovis aries (Sheep),>40000,IC50,0.94059
+5E5R,119034,Tyrosine-protein phosphatase non-receptor type 6,Homo sapiens (Human),>4E4,IC50,0.96040
+2J8T,119034,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),41000,IC50,0.94059
+7LAF,119034,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),>40000,IC50,0.99010
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),28000,IC50,0.96040
+3LII,119034,Acetylcholinesterase,Electrophorus electricus (Electric eel),>100000,Ki,0.96040
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),19000,IC50,0.94059
+1G8Q,119034,CD81 antigen,Homo sapiens (Human),21,Kd,0.91429
+2B3X,119034,TYR_PHOSPHATASE_2 domain-containing protein,Mycobacterium tuberculosis,14000,IC50,0.93069
+1JY1,119034,Tyrosyl-DNA phosphodiesterase 1,Homo sapiens (Human),>100000,IC50,0.96040
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),18000,IC50,0.92661
+2LEO,119034,Protease,Human immunodeficiency virus 1 (HIV-1),4000,IC50,0.94059
+7LAF,119034,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),30400,IC50,na
+3QCB,119034,Receptor-type tyrosine-protein phosphatase alpha,Homo sapiens (Human),>40000,IC50,0.93069
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens (Human),2400,IC50,0.94059
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),5.93E3,IC50,0.96040
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),22387,IC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),116000,IC50,0.97030
+1HNY,119034,Pancreatic alpha-amylase,Sus scrofa (Pig),>200000,IC50,1.00000
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens (Human),1.947E4,IC50,0.96040
+5E5R,119034,Tyrosine-protein phosphatase non-receptor type 6,Homo sapiens (Human),25780,IC50,0.94059
+4I5X,119034,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),4000,IC50,0.94059
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),2300,IC50,0.94059
+5E5R,119034,Tyrosine-protein phosphatase non-receptor type 6,Homo sapiens (Human),31330,IC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),14000,IC50,0.93069
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),3400,Ki,0.94059
+4I5X,119034,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),630,IC50,0.96040
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),>30000,IC50,0.96040
+2WID,119034,Cholinesterase,Equus caballus (Horse),>100000,Ki,0.96040
+7LAF,119034,Polyunsaturated fatty acid lipoxygenase ALOX15B,Homo sapiens (Human),>40000,IC50,0.94059
+2J8T,119034,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),34000,IC50,1.00000
+2J8T,119034,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),124000,IC50,0.93069
+2WGP,119034,Dual specificity protein phosphatase 3,Homo sapiens (Human),5400,IC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),1100,IC50,0.97030
+2CS5,119034,Receptor-type tyrosine-protein phosphatase F,Homo sapiens (Human),>40000,IC50,0.97030
+5E5R,119034,Tyrosine-protein phosphatase non-receptor type 6,Homo sapiens (Human),14190,IC50,0.93069
+1MX1,119034,Liver carboxylesterase 1,Homo sapiens (Human),100,IC50,0.94059
+6KEY,119034,"Nitric oxide synthase, inducible",Homo sapiens (Human),>40000,IC50,0.93069
+4I5X,119034,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),72,Ki,0.93069
+2JFD,119034,Fatty acid synthase,Gallus gallus (Chicken),13100,IC50,0.94059
+1N28,119034,Basic phospholipase A2 PLA-A,Trimeresurus flavoviridis,2500,IC50,0.94059
+6B19,119034,Reverse transcriptase,Human immunodeficiency virus 1,3400,IC50,na
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens (Human),>20000,IC50,1.00000
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),3370,IC50,0.93069
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),>30000,IC50,0.93269
+6NB3,119034,Spike glycoprotein,2019-nCoV,99870,IC50,na
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens (Human),3400,IC50,0.93069
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),>20000,IC50,1.00000
+4I5X,119034,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),90,IC50,0.93069
+2ZNP,119034,Peroxisome proliferator-activated receptor alpha,Homo sapiens (Human),41310,EC50,0.94059
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Homo sapiens (Human),28000,IC50,0.96040
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens (Human),5.5,IC50,0.93069
+3LII,119034,Acetylcholinesterase,Electrophorus electricus (Electric eel),>30000,Ki,0.96040
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),0.850000,IC50,0.93069
+4PHC,119034,Histidine-rich protein PFHRP-II,Plasmodium falciparum,>20000000,IC50,0.94059
+1IOX,119034,Epidermal growth factor receptor,Homo sapiens (Human),>20000,IC50,0.95050
+1MX1,119034,Liver carboxylesterase 1,Homo sapiens (Human),100,IC50,0.93069
+1BBC,119034,Basic phospholipase A2 1,Naja melanoleuca,2900,IC50,0.94059
+4I5X,119034,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),5900,IC50,1.00000
+2CS5,119034,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),7400,IC50,0.96040
+7LAF,119034,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),>40000,IC50,0.97030
+7B7U,119034,DNA polymerase beta,Rattus norvegicus,3700,IC50,0.93069
+6B19,119034,Reverse transcriptase,Human immunodeficiency virus 1,3400,IC50,na
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),6250,IC50,0.96040
+6ML8,119034,Hemagglutinin,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),46500,Kd,0.94059
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),163000,IC50,0.97030
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),103200,IC50,0.99010
+7LAF,119034,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),>40000,IC50,0.95050
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),34000,IC50,0.96040
+6Q6Q,119034,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),>100000,IC50,0.87826
+3QCB,119034,Receptor-type tyrosine-protein phosphatase alpha,Homo sapiens (Human),>40000,IC50,0.97030
+5PNT,119034,Low molecular weight phosphotyrosine protein phosphatase,Homo sapiens (Human),7200,IC50,0.94059
+6MTW,119034,Acidic phospholipase A2 EC-I,Echis carinatus,2300,IC50,0.94059
+7B7U,119034,DNA polymerase beta,Rattus norvegicus,4800,IC50,0.94059
+7LBG,119034,Tissue factor,Homo sapiens (Human),1.3,IC50,na
+3DWW,119034,Prostaglandin G/H synthase 2,Homo sapiens (Human),>40000,IC50,0.99010
+3BZU,119034,11-beta-hydroxysteroid dehydrogenase 1,Homo sapiens (Human),810,IC50,0.97030
+2OBD,119034,Cholesteryl ester transfer protein,Homo sapiens (Human),46600,IC50,0.94059
+6IIL,119034,Ubiquitin carboxyl-terminal hydrolase 47,Homo sapiens (Human),26000,IC50,0.94059
+7CFM,119034,G-protein coupled bile acid receptor 1,Homo sapiens (Human),>10000,EC50,0.99010
+1O1V,119034,Solute carrier organic anion transporter family member 1B3,Homo sapiens (Human),11482,IC50,0.94059
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),67800,IC50,0.99010
+5CR1,119034,Solute carrier organic anion transporter family member 1B1,Homo sapiens (Human),15849,IC50,0.94059
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),21000,IC50,0.93069
+2LEO,119034,Protease,Human immunodeficiency virus 1 (HIV-1),4000,IC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),1200,IC50,0.94059
+6VN2,119034,Ubiquitin carboxyl-terminal hydrolase 7,Homo sapiens (Human),7000,IC50,0.94059
+3DWW,119034,Prostaglandin G/H synthase 1,Ovis aries (Sheep),>40000,IC50,0.97030
+6TPK,119034,Oxytocin receptor,Homo sapiens (Human),2671,EC50,0.91429
+5E5R,119034,Tyrosine-protein phosphatase non-receptor type 6,Homo sapiens (Human),24560,IC50,0.97030
+5PNT,119034,Low molecular weight phosphotyrosine protein phosphatase,Homo sapiens (Human),21200,IC50,0.93069
+1Z8D,119034,"Glycogen phosphorylase, muscle form",Oryctolagus cuniculus (rabbit),9000,IC50,0.94059
+6FE2,13250,Carbonic anhydrase 9,Homo sapiens (Human),800,Ki,0.91089
+2FW4,13250,Carbonic anhydrase 7,Homo sapiens (Human),910,Ki,0.91089
+2CAB,13250,Carbonic anhydrase 2,Homo sapiens (Human),660,Ki,0.87368
+2CAB,13250,Carbonic anhydrase 1,Homo sapiens (Human),830,Ki,0.91089
+1A5H,13250,Tissue-type plasminogen activator,Homo sapiens (Human),>10000,IC50,0.87156
+1TZN,13250,Anthrax toxin receptor 2,Homo sapiens,>300000,IC50,0.91346
+5AKV,13250,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),5840,IC50,0.86408
+5AKV,13250,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),11470,IC50,0.91346
+5MSB,13250,Carbonic anhydrase 12,Homo sapiens (Human),860,Ki,0.91089
+6Q9T,13250,Carbonic anhydrase 14,Homo sapiens (Human),770,Ki,0.91089
+6Q6Q,13250,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),628000,IC50,0.91346
+5AKV,13250,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),25730,IC50,0.92233
+2CAB,13250,Carbonic anhydrase 2,Homo sapiens (Human),610,Ki,0.96842
+4J24,13250,Estrogen receptor,Homo sapiens (Human),8970,IC50,0.27536
+6AT6,13250,T cell receptor alpha variable 4,Homo sapiens (Human),>94266,IC50,0.91579
+2ARQ,13250,Plasminogen activator inhibitor 1,Homo sapiens (Human),370,IC50,0.87156
+4LA0,13250,Albumin,Bos taurus,>94266,IC50,0.91579
+2FW4,13250,Carbonic anhydrase 7,Homo sapiens (Human),900,Ki,0.87368
+6FE2,13250,Carbonic anhydrase 9,Homo sapiens (Human),910,Ki,0.87368
+2CAB,13250,Carbonic anhydrase 2,Homo sapiens (Human),420,Ki,0.91089
+2CAB,13250,Carbonic anhydrase 1,Homo sapiens (Human),690,Ki,0.87368
+2I9A,13250,Urokinase-type plasminogen activator,Homo sapiens (Human),44,IC50,0.87156
+8D43,13250,Alpha-glucosidase MAL62,Saccharomyces cerevisiae,11508003889,IC50,0.91579
+6Q9T,13250,Carbonic anhydrase 14,Homo sapiens (Human),830,Ki,0.87368
+6C6P,13250,Squalene monooxygenase,Rattus norvegicus,4200,IC50,1.00000
+5MSB,13250,Carbonic anhydrase 12,Homo sapiens (Human),850,Ki,0.87368
+2ARQ,13250,Plasminogen activator inhibitor 1,Homo sapiens (Human),7850,IC50,0.84821
+7TRO,13250,"Alpha-(1,3)-fucosyltransferase 7",Homo sapiens (Human),8000,IC50,0.91579
+1TZN,13250,Anthrax toxin receptor 2,Homo sapiens,>300000,IC50,0.91579
+6FE2,13250,Carbonic anhydrase 9,Homo sapiens (Human),780,Ki,0.96842
+2I9A,13250,Urokinase-type plasminogen activator,Mus musculus (Mouse),162,IC50,0.87156
+2FW4,13250,Carbonic anhydrase 7,Homo sapiens (Human),750,Ki,0.96842
+2ARQ,13250,Plasminogen activator inhibitor 1,Homo sapiens (Human),23,Kd,0.87156
+2CAB,13250,Carbonic anhydrase 1,Homo sapiens (Human),650,Ki,0.96842
+6Q6Q,13250,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),15520,IC50,0.91579
+2ARQ,13250,Plasminogen activator inhibitor 1/Urokinase-type plasminogen activator,Homo sapiens (Human),174000,IC50,na
+5EJK,13250,Integrase,Human immunodeficiency virus 1,157000,IC50,0.91579
+5MSB,13250,Carbonic anhydrase 12,Homo sapiens (Human),830,Ki,0.96842
+6Q9T,13250,Carbonic anhydrase 14,Homo sapiens (Human),860,Ki,0.96842
+6TA3,637511,Cell division protein FtsZ,Escherichia coli,5810,IC50,1.00000
+5AKV,637511,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),520000,IC50,1.00000
+7LAF,637511,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),35000,IC50,1.00000
+3DWW,637511,Prostaglandin G/H synthase 2,Homo sapiens (Human),245000,IC50,1.00000
+6BO8,637511,Transient receptor potential cation channel subfamily A member 1,Homo sapiens (Human),6500,EC50,1.00000
+6BO8,637511,Transient receptor potential cation channel subfamily A member 1,Mus musculus,61000,EC50,1.00000
+6D7T,637511,Transient receptor potential cation channel subfamily M member 8,Mus musculus,>500000,IC50,1.00000
+6Q6Q,637511,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),59000,IC50,1.00000
+2ZZC,10207,"Thioredoxin reductase 2, mitochondrial",Rattus norvegicus,181000,IC50,0.90968
+3DWW,10207,Prostaglandin G/H synthase 1,Ovis aries (Sheep),46210,IC50,0.90968
+7PLS,10207,Tissue alpha-L-fucosidase,Bos taurus,32000,IC50,0.91176
+2ZZC,10207,"Thioredoxin reductase 1, cytoplasmic",Rattus norvegicus,194000,IC50,0.90968
+3LII,10207,Acetylcholinesterase,Electrophorus electricus (Electric eel),637,IC50,0.91176
+2ZZC,10207,"Thioredoxin reductase 2, mitochondrial",Rattus norvegicus,>200000,IC50,1.00000
+7JWS,10207,"Aldehyde dehydrogenase, cytosolic 1",Rattus norvegicus,6000,IC50,1.00000
+2WID,10207,Cholinesterase,Homo sapiens (Human),17000,IC50,0.91176
+4NTJ,10207,P2Y purinoceptor 12,Homo sapiens (Human),>10000,Ki,1.00000
+5ABW,10207,Neutrophil elastase,Homo sapiens (Human),9900,IC50,0.90968
+5ABW,10207,Neutrophil elastase,Homo sapiens (Human),18000,IC50,0.90968
+2ZZC,10207,"Thioredoxin reductase 1, cytoplasmic",Rattus norvegicus,180000,IC50,1.00000
+6CO4,10207,Accessory gene regulator protein A,Staphylococcus aureus,8100,IC50,0.93373
+7RB3,10207,Mitochondrial peptide methionine sulfoxide reductase,Bos taurus,>155058,IC50,0.91176
+3BT0,10207,Transthyretin,Homo sapiens (Human),12000,IC50,0.91176
+5ABW,10207,Neutrophil elastase,Homo sapiens (Human),11000,IC50,0.89677
+4C4Y,10207,Bifunctional epoxide hydrolase 2,Homo sapiens (Human),26800,IC50,1.00000
+5UDY,10207,Intestinal-type alkaline phosphatase 1,Rattus norvegicus (Rat),2880,IC50,1.00000
+3BT0,10207,Transthyretin,Homo sapiens (Human),>100000,IC50,1.00000
+2Q7M,10207,5-lipoxygenase,Bos taurus,3000,IC50,0.89820
+3DWW,10207,Prostaglandin G/H synthase 2,Ovis aries (Sheep),36120,IC50,0.90968
+5JVS,10207,POsterior Segregation,Caenorhabditis elegans,29176,EC50,0.91176
+4IE6,10207,Alpha-ketoglutarate-dependent dioxygenase FTO,Homo sapiens (Human),9000,IC50,0.90000
+3LII,10207,Acetylcholinesterase,Homo sapiens (Human),>10000,IC50,0.91176
+2A3K,10207,Tyrosine-protein phosphatase non-receptor type 7,Homo sapiens (Human),19620,IC50,0.91176
+1ZED,10207,"Alkaline phosphatase, germ cell type",Homo sapiens (Human),>100000,IC50,1.00000
+2F25,10207,Sialidase-2,Homo sapiens (Human),130000,IC50,0.91176
+3LII,10207,Acetylcholinesterase,Homo sapiens (Human),18,IC50,1.00000
+2ZZC,10207,"Thioredoxin reductase 2, mitochondrial",Rattus norvegicus,123000,IC50,0.91176
+2GLQ,10207,"Alkaline phosphatase, tissue-nonspecific isozyme",Homo sapiens (Human),>100000,IC50,1.00000
+1YK8,10207,Cathepsin G,Homo sapiens (Human),55000,IC50,0.90968
+1YK8,10207,Cathepsin G,Homo sapiens (Human),>60000,IC50,0.89677
+5V6A,10207,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),132000,IC50,1.00000
+5UDY,10207,Intestinal-type alkaline phosphatase,Homo sapiens (Human),>100000,IC50,1.00000
+2ZZC,10207,"Thioredoxin reductase 1, cytoplasmic",Rattus norvegicus,84000,IC50,0.91176
+1UYM,10207,Heat shock protein HSP 90-alpha,Homo sapiens (Human),3339.3,IC50,0.91176
+4C4Y,10207,Bifunctional epoxide hydrolase 2,Homo sapiens (Human),52200,Ki,1.00000
+5J1F,10207,Plectin,Homo sapiens (Human),32104.8,IC50,0.91176
+3BT0,10207,Transthyretin,Homo sapiens (Human),>100000,IC50,0.90968
+3BT0,10207,Transthyretin,Homo sapiens (Human),50000,IC50,na
+2Q7M,10207,5-lipoxygenase,Bos taurus,30000,IC50,0.92903
+1G3N,10207,Cyclin-dependent kinase 2,Homo sapiens (Human),9.6e+3,Kd,0.91176
+7PLS,10207,Tissue alpha-L-fucosidase,Bos taurus,32000,IC50,1.00000
+5WWW,10207,Zinc finger protein mex-5,Caenorhabditis elegans,21569,EC50,0.91176
+6BO8,9017,Transient receptor potential cation channel subfamily A member 1,Rattus norvegicus,12200,EC50,1.00000
+6BO8,9017,Transient receptor potential cation channel subfamily A member 1,Rattus norvegicus,>100000,IC50,1.00000
+6D7T,9017,Transient receptor potential cation channel subfamily M member 8,Rattus norvegicus (Rat),>100000,IC50,1.00000
+6BO8,9017,Transient receptor potential cation channel subfamily V member 1,Homo sapiens (Human),>100000,IC50,1.00000
+7CE4,5281607,Poly [ADP-ribose] polymerase tankyrase-2,Homo sapiens (Human),620,IC50,0.89840
+6Q20,5281607,Neuraminidase,Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)),48900,IC50,0.90625
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),25,IC50,0.96133
+4TMF,5281607,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,Homo sapiens (Human),8200,IC50,0.88776
+3T9C,5281607,Inositol hexakisphosphate kinase 2,Homo sapiens,5700,IC50,0.93048
+5L60,5281607,Proteasome subunit beta type-5,Homo sapiens (Human),1.3,IC50,0.88776
+5AUW,5281607,Death-associated protein kinase 1,Homo sapiens (Human),21000,IC50,0.88776
+3DWW,5281607,Prostaglandin G/H synthase 2,Homo sapiens (Human),>100000,IC50,0.87879
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),210,IC50,0.97126
+6WC5,5281607,Homeobox protein Nkx-2.5/Transcription factor GATA-4,Mus musculus,22000,IC50,0.88776
+2F25,5281607,Sialidase-2,Homo sapiens (Human),570000,IC50,0.96133
+1OJ9,5281607,Amine oxidase [flavin-containing] A,Homo sapiens (Human),59,Ki,0.93048
+1BHG,5281607,Beta-glucuronidase,Rattus norvegicus,2800,IC50,0.96133
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),260,Ki,0.94054
+4BYI,5281607,Aurora kinase B,Homo sapiens (Human),4.06e+3,IC50,0.94054
+3T9C,5281607,Inositol hexakisphosphate kinase 2,Homo sapiens,>30000,IC50,0.93370
+2WAJ,5281607,Mitogen-activated protein kinase 10,Homo sapiens (Human),2.2e+3,IC50,0.96133
+4E2I,5281607,Large T antigen,Simian virus 40,47930,EC50,0.88776
+3DWW,5281607,Prostaglandin G/H synthase 1,Homo sapiens (Human),14000,IC50,0.87879
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),>2340,Ki,0.89691
+1XQZ,5281607,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),646,IC50,0.88776
+4ZZY,5281607,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),9500,IC50,0.89840
+2FW4,5281607,Carbonic anhydrase 7,Homo sapiens (Human),4.7,Ki,0.88776
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),153,IC50,1.00000
+5J8R,5281607,Tyrosine-protein phosphatase non-receptor type 12,Homo sapiens (Human),20940,IC50,0.87879
+3EQM,5281607,Aromatase,Homo sapiens (Human),>1.00e+5,IC50,0.91758
+3LPO,5281607,"Sucrase-isomaltase, intestinal",Homo sapiens (Human),3.5,IC50,0.94054
+2B9R,5281607,Cyclin-dependent kinase 1/G2/mitotic-specific cyclin-B,Marthasterias glacialis (starfish),4000,IC50,0.96133
+2HW6,5281607,MAP kinase-interacting serine/threonine-protein kinase 2,Homo sapiens (Human),308,IC50,0.96133
+1G3N,5281607,Cyclin-dependent kinase 6,Homo sapiens (Human),1700,IC50,0.96133
+2WAJ,5281607,Mitogen-activated protein kinase 14,Homo sapiens (Human),1.43e+4,IC50,0.96133
+6OHU,5281607,UDP-glucuronosyltransferase 1A1,Homo sapiens (Human),41300,Ki,0.90625
+6FE2,5281607,Carbonic anhydrase 9,Homo sapiens (Human),4850,Ki,0.95977
+5W2I,5281607,Inositol polyphosphate multikinase,Homo sapiens,>30000,IC50,0.89691
+5V6A,5281607,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),10600,EC50,0.88776
+1XV8,5281607,Alpha-amylase 1A,Homo sapiens (Human),9640,IC50,0.90625
+5X02,5281607,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),210,IC50,0.93048
+2W2I,5281607,Lysine-specific demethylase 4E,Homo sapiens (Human),3000,IC50,0.94054
+6C0V,5281607,ATP-dependent translocase ABCB1,Homo sapiens (Human),2188,Kd,0.91099
+1REX,5281607,Lysozyme C-1,Rattus norvegicus,17700,IC50,0.96133
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),1,IC50,0.88776
+5BXJ,5281607,Androgen receptor,Homo sapiens (Human),5200,IC50,0.96133
+5V6A,5281607,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),20000,IC50,0.88776
+2CAB,5281607,Carbonic anhydrase 1,Homo sapiens (Human),4100,Ki,0.96133
+1BHS,5281607,17-beta-hydroxysteroid dehydrogenase type 3,Homo sapiens (Human),9.3e+3,IC50,0.94054
+1QF8,5281607,Casein kinase II subunit alpha,Homo sapiens (Human),800,IC50,0.96133
+2R4H,5281607,Histidine kinase,Streptococcus pneumoniae PCS8203,216000,IC50,0.88776
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),1,IC50,0.88421
+2F25,5281607,Sialidase-2,Homo sapiens (Human),>1000000,IC50,0.89691
+6NOW,5281607,D-alanine--D-alanine ligase B,Escherichia coli K-12,163000,IC50,0.96133
+1BHS,5281607,17-beta-hydroxysteroid dehydrogenase type 2,Homo sapiens (Human),>20000,IC50,0.96133
+2AFW,5281607,Glutaminyl-peptide cyclotransferase,Homo sapiens (Human),16100,IC50,0.92553
+1G3N,5281607,Cyclin-dependent kinase 1,Homo sapiens (Human),6530,IC50,0.94054
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),7400,IC50,0.91579
+2CLT,5281607,Interstitial collagenase [100-268],Homo sapiens (Human),3.03e+3,IC50,0.88776
+6B19,5281607,Reverse transcriptase,Human immunodeficiency virus 1,443000,IC50,0.96133
+5HI7,5281607,Histone-lysine N-methyltransferase SMYD3,Homo sapiens (Human),18230,IC50,0.90625
+3D3L,5281607,Polyunsaturated fatty acid lipoxygenase ALOX12,Homo sapiens (Human),1600,Ki,0.94054
+7B5O,5281607,MO15-related protein kinase Pfmrk,Plasmodium falciparum,7000,IC50,0.96133
+2B9R,5281607,Cyclin-dependent kinase 1/G2/mitotic-specific cyclin-B,Marthasterias glacialis (starfish),7100,IC50,1.00000
+7LAF,5281607,Polyunsaturated fatty acid lipoxygenase ALOX15,Homo sapiens (Human),5000,IC50,0.88776
+8BHT,5281607,Broad substrate specificity ATP-binding cassette transporter ABCG2,Homo sapiens (Human),3100,IC50,0.96133
+3QCB,5281607,Receptor-type tyrosine-protein phosphatase S,Homo sapiens (Human),10300,IC50,0.94054
+6UZ8,5281607,Short transient receptor potential channel 5,Homo sapiens (Human),>10000,IC50,0.96133
+7LAF,5281607,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),178300,Ki,0.96133
+3DWW,5281607,Prostaglandin G/H synthase 2,Homo sapiens (Human),8000,IC50,0.96133
+2OHM,5281607,Beta-secretase 1,Homo sapiens (Human),82600,Ki,0.87879
+3FVY,5281607,Dipeptidyl peptidase 3,Homo sapiens (Human),1.231e+5,IC50,1.00000
+6C0V,5281607,ATP-dependent translocase ABCB1,Homo sapiens (Human),19600,IC50,0.88776
+3T9C,5281607,Inositol hexakisphosphate kinase 2,Homo sapiens,7100,IC50,0.96133
+3BT0,5281607,Transthyretin,Homo sapiens (Human),653,IC50,0.96133
+1BHS,5281607,17-beta-hydroxysteroid dehydrogenase type 1,Homo sapiens (Human),5250,IC50,0.95977
+5AUW,5281607,Death-associated protein kinase 1,Homo sapiens (Human),>300000,IC50,1.00000
+2QMZ,5281607,Sodium-dependent dopamine transporter,Rattus norvegicus (rat),1450,EC50,0.88776
+2J8T,5281607,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),600,IC50,0.88776
+5L60,5281607,Proteasome subunit beta type-5,Homo sapiens (Human),4.9,IC50,1.00000
+5DHG,5281607,G-protein coupled receptor 35,Homo sapiens (Human),10300,EC50,0.94054
+2ACX,5281607,G protein-coupled receptor kinase 6,Homo sapiens (Human),8700,IC50,0.94054
+2CS5,5281607,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),100000,IC50,0.96133
+5EJK,5281607,Integrase,Human immunodeficiency virus 1,780,IC50,0.94054
+7SJT,5281607,Myocilin,Homo sapiens,41600,Kd,0.96133
+7KSR,5281607,Histone-lysine N-methyltransferase EZH1,Homo sapiens (Human),8770,IC50,0.90625
+3LXE,5281607,Carbonic anhydrase 4,Homo sapiens (Human),9100,Ki,0.96133
+5MSB,5281607,Carbonic anhydrase 12,Homo sapiens (Human),8400,Ki,0.95977
+4J24,5281607,Estrogen receptor,Homo sapiens (Human),1253,IC50,0.96133
+2OHM,5281607,Beta-secretase 1,Homo sapiens (Human),38500,IC50,0.96133
+1QF8,5281607,Casein kinase II subunit alpha 3,Homo sapiens,10000,IC50,0.94054
+2J8T,5281607,Aldo-keto reductase family 1 member B1 [K65Q],Bos taurus (Cattle),754,IC50,0.88776
+2WID,5281607,Cholinesterase,Equus caballus (Horse),>100000,IC50,0.95977
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),64,Ki,0.96133
+5V6A,5281607,Replicase polyprotein 1ab,2019-nCoV,3020,IC50,0.90625
+2LEO,5281607,Serine protease 1,Bos taurus (bovine),141500,IC50,0.96133
+7LAF,5281607,Polyunsaturated fatty acid 5-lipoxygenase,Rattus norvegicus,123200,IC50,0.93048
+5W2I,5281607,Inositol polyphosphate multikinase,Homo sapiens,>30000,IC50,0.92265
+6OHU,5281607,UDP-glucuronosyltransferase 1A1,Homo sapiens (Human),4400,IC50,0.94054
+5DHG,5281607,G-protein coupled receptor 35,Homo sapiens (Human),28200,IC50,0.94054
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),3570,IC50,0.96133
+7LAF,5281607,Linoleate 9S-lipoxygenase-4,Glycine max (Soybean) (Glycine hispida),2.20e+4,IC50,0.94054
+4ZZY,5281607,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),100000,IC50,0.96133
+2CAB,5281607,Carbonic anhydrase 1,Homo sapiens (Human),5420,Ki,1.00000
+7CE4,5281607,Poly [ADP-ribose] polymerase tankyrase-1,Homo sapiens (Human),3100,IC50,0.96133
+1K4T,5281607,DNA topoisomerase 1,Rattus norvegicus,660,IC50,0.88776
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),5,IC50,1.00000
+5AKV,5281607,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),0.61,Ki,0.87879
+7CE4,5281607,Poly [ADP-ribose] polymerase tankyrase-2,Homo sapiens (Human),1100,IC50,0.88776
+966C,5281607,Collagenase 3,Homo sapiens (Human),10050,IC50,0.88776
+7WFC,5281607,Nonstructural protein 3,Zika virus,53000,IC50,0.88776
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),80,IC50,0.93048
+3DWW,5281607,Prostaglandin G/H synthase 1,Ovis aries (Sheep),>370000,IC50,0.96133
+4BYI,5281607,Aurora kinase B,Homo sapiens (Human),3.88e+3,IC50,0.88776
+1R42,5281607,Angiotensin-converting enzyme,Oryctolagus cuniculus,290000,IC50,0.88776
+3LII,5281607,Acetylcholinesterase,Rattus norvegicus (rat),>1.00e+5,IC50,0.90625
+1H7U,5281607,DNA gyrase subunit A/B,Escherichia coli (strain K12),>1960000,IC50,1.00000
+5ABW,5281607,Neutrophil elastase,Homo sapiens (Human),12700,IC50,0.88776
+2VCY,5281607,Enoyl-acyl-carrier protein reductase,Plasmodium falciparum,50000,IC50,0.96133
+1QF8,5281607,Casein kinase II subunit alpha 3,Homo sapiens,500,IC50,0.88776
+1IOX,5281607,Epidermal growth factor receptor,Homo sapiens (Human),4,IC50,0.93048
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),2,IC50,0.92265
+6Q20,5281607,Neuraminidase,Influenza A virus,28900,IC50,0.96133
+1OJ9,5281607,Amine oxidase [flavin-containing] B,Homo sapiens (Human),49,IC50,0.93048
+2J8T,5281607,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),12300,IC50,0.95977
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),14100,IC50,0.93048
+2HI4,5281607,Cytochrome P450 1A2,Homo sapiens (Human),240,IC50,0.95977
+3EQM,5281607,Aromatase,Homo sapiens (Human),900,IC50,0.96133
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),79,IC50,0.88776
+5M8R,5281607,Tyrosinase,Homo sapiens (Human),60000,IC50,0.88776
+3TJM,5281607,3-oxoacyl-acyl-carrier protein reductase,Plasmodium falciparum,800,Ki,0.88776
+6Q20,5281607,Neuraminidase,Influenza A virus,32600,IC50,0.88776
+2F25,5281607,Sialidase,Clostridium perfringens,17400,IC50,0.96133
+5TOA,5281607,Estrogen receptor beta,Ovis aries,660,Kd,0.96133
+7D3E,5281607,NADPH oxidase 4,Homo sapiens (Human),1130,IC50,0.96133
+2WAJ,5281607,Mitogen-activated protein kinase 10,Homo sapiens (Human),2.3e+3,IC50,0.88776
+1N8S,5281607,Pancreatic triacylglycerol lipase,Sus scrofa (Pig),>70000,IC50,0.87879
+5A5I,5281607,Cytochrome P450 2C9,Homo sapiens (Human),5225,IC50,1.00000
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),16,Ki,1.00000
+2PG6,5281607,Cytochrome P450 2A6,Homo sapiens (Human),>25000,IC50,1.00000
+6Q20,5281607,Neuraminidase,Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)),47100,IC50,1.00000
+3LXE,5281607,Carbonic anhydrase 4,Homo sapiens (Human),538,Ki,1.00000
+2HDA,5281607,Tyrosine-protein kinase Yes,Homo sapiens (Human),2380,Ki,0.88776
+2J8T,5281607,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),7780,IC50,1.00000
+2J8T,5281607,Aldo-keto reductase family 1 member B1 [K65Q],Bos taurus (Cattle),7790,IC50,1.00000
+2ACX,5281607,G protein-coupled receptor kinase 6,Homo sapiens (Human),6610,IC50,0.90625
+5VEU,5281607,Cytochrome P450 3A4,Homo sapiens (Human),>50000,IC50,1.00000
+3GNI,5281607,Cyclin-dependent kinase 5 activator 1 [99-307],Homo sapiens (Human),1600,IC50,0.96133
+1QIB,5281607,72 kDa type IV collagenase,Homo sapiens (Human),3610,IC50,0.88776
+2F25,5281607,Sialidase-2,Homo sapiens (Human),130000,IC50,0.88776
+2F2C,5281607,Cyclin homolog/dependent kinase 6,Saimiriine herpesvirus 2,>300000,IC50,0.88776
+4M6N,5281607,Urease subunit beta,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),291000,IC50,0.94054
+5N2R,5281607,Adenosine receptor A2a,Rattus norvegicus (rat),2680,Ki,0.95977
+1BHS,5281607,17-beta-hydroxysteroid dehydrogenase type 1,Homo sapiens (Human),710,IC50,0.96133
+5UEN,5281607,Adenosine receptor A1,Rattus norvegicus (rat),2170,Ki,0.97126
+6WC5,5281607,Homeobox protein Nkx-2.5/Transcription factor GATA-4,Mus musculus,24000,IC50,0.96133
+7LAF,5281607,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),>100,EC50,0.94054
+2F25,5281607,Sialidase-2,Homo sapiens (Human),130000,IC50,0.88776
+1G3N,5281607,Cyclin-dependent kinase 6,Homo sapiens (Human),>300000,IC50,0.88776
+3BHI,5281607,Carbonyl reductase [NADPH] 1,Homo sapiens (Human),110,Ki,1.00000
+5W2I,5281607,Inositol polyphosphate multikinase,Homo sapiens,5500,IC50,0.88776
+1G3N,5281607,Cyclin-dependent kinase 2,Homo sapiens (Human),20000,IC50,0.88776
+2HDA,5281607,Tyrosine-protein kinase Yes,Homo sapiens (Human),3300,IC50,0.94054
+2WAJ,5281607,Mitogen-activated protein kinase 14,Homo sapiens (Human),1.80e+4,IC50,0.88776
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),890,Ki,0.88776
+3T9C,5281607,Inositol hexakisphosphate kinase 2,Homo sapiens,24000,IC50,0.89691
+2HW6,5281607,MAP kinase-interacting serine/threonine-protein kinase 2,Homo sapiens (Human),579,IC50,0.88776
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),2900,Ki,0.88776
+6NOW,5281607,D-alanine--D-alanine ligase,Helicobacter pylori (strain HPAG1),31000,Ki,0.96133
+5UEN,5281607,Adenosine receptor A1,Rattus norvegicus (rat),3020,Ki,0.95977
+6UZ8,5281607,Short transient receptor potential channel 5,Homo sapiens (Human),>10000,IC50,0.88776
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),250,IC50,0.95977
+1GGZ,5281607,Calmodulin-2,Homo sapiens (Human),37100,IC50,0.95977
+7LAF,5281607,Polyunsaturated fatty acid lipoxygenase ALOX15,Homo sapiens (Human),9100,IC50,0.94054
+3DWW,5281607,Prostaglandin G/H synthase 1,Ovis aries (Sheep),>1.50e+5,IC50,0.94054
+1XV8,5281607,Alpha-amylase 1A,Homo sapiens (Human),18400,IC50,0.88776
+2HI4,5281607,Cytochrome P450 1A2,Homo sapiens (Human),795,IC50,0.96133
+1OJ9,5281607,Amine oxidase [flavin-containing] B,Homo sapiens (Human),1120,IC50,0.96133
+8BHT,5281607,Broad substrate specificity ATP-binding cassette transporter ABCG2,Homo sapiens (Human),8900,IC50,0.88776
+5X02,5281607,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),>10000,IC50,0.94054
+2WAJ,5281607,Mitogen-activated protein kinase 14,Homo sapiens (Human),5.00e+4,IC50,0.93048
+7LAF,5281607,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),8.5e+2,IC50,0.94054
+2HI4,5281607,Cytochrome P450 1A2,Homo sapiens (Human),500,Ki,1.00000
+3LII,5281607,Acetylcholinesterase,Electrophorus electricus (Electric eel),85000,IC50,0.95977
+2F25,5281607,Sialidase-2,Homo sapiens (Human),55000,IC50,0.90625
+1XQZ,5281607,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),933,IC50,0.96133
+3DWW,5281607,Prostaglandin G/H synthase 1,Ovis aries (Sheep),39300,IC50,1.00000
+5BXJ,5281607,Androgen receptor,Rattus norvegicus (Rat),>42657.95,IC50,0.95977
+6B19,5281607,Reverse transcriptase,Human immunodeficiency virus 1,>703000,IC50,0.89691
+3BT0,5281607,Transthyretin,Homo sapiens (Human),70,Kd,0.88776
+3D3L,5281607,Polyunsaturated fatty acid lipoxygenase ALOX12,Homo sapiens (Human),860,IC50,0.94054
+2ZNP,5281607,Peroxisome proliferator-activated receptor gamma,Mus musculus,2300,EC50,0.88776
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),4030,IC50,0.97126
+3BT0,5281607,Transthyretin,Homo sapiens (Human),7000,IC50,0.88776
+3QM4,5281607,Cytochrome P450 2D6,Homo sapiens (Human),>50000,IC50,1.00000
+1YOW,5281607,Steroidogenic factor 1,Homo sapiens (Human),>67615,IC50,0.91099
+3B7T,5281607,M1 family aminopeptidase,Plasmodium falciparum (isolate FcB1 / Columbia),22860,IC50,0.88776
+2F25,5281607,Sialidase-2,Homo sapiens (Human),>1000000,IC50,0.93048
+2HI4,5281607,Cytochrome P450 1A2,Homo sapiens (Human),310,IC50,0.97126
+3LPO,5281607,"Sucrase-isomaltase, intestinal",Rattus norvegicus (Rat),4.4,IC50,0.88325
+3DWW,5281607,Prostaglandin G/H synthase 2,Homo sapiens (Human),2.5,IC50,0.88776
+2WID,5281607,Cholinesterase,Homo sapiens (Human),166100,Ki,0.88776
+2FW4,5281607,Carbonic anhydrase 7,Homo sapiens (Human),171,Ki,1.00000
+5EJK,5281607,Integrase,Human immunodeficiency virus 1,450,IC50,0.88776
+4EWI,5281607,"NACHT, LRR and PYD domains-containing protein 3",Homo sapiens (Human),10000,IC50,0.96133
+4M6N,5281607,Urease subunit beta,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),138000,IC50,0.96133
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),24,IC50,1.00000
+5AKV,5281607,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),305000,IC50,0.96133
+1F6W,5281607,Carboxylic ester hydrolase,Rattus norvegicus (rat),>500000,IC50,0.96133
+2WAJ,5281607,Mitogen-activated protein kinase 14,Homo sapiens (Human),3.99e+4,IC50,1.00000
+4XZ0,5281607,Tyrosine-protein kinase SYK,Homo sapiens (Human),4200,IC50,0.96133
+2F25,5281607,Sialidase-2,Homo sapiens (Human),>1000000,IC50,0.97126
+2WAJ,5281607,Mitogen-activated protein kinase 10,Homo sapiens (Human),1.18e+4,IC50,1.00000
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),1900,Ki,0.88776
+4XZ0,5281607,Tyrosine-protein kinase SYK,Homo sapiens (Human),3000,EC50,0.96133
+2HW6,5281607,MAP kinase-interacting serine/threonine-protein kinase 2,Homo sapiens (Human),979,IC50,0.89691
+2KES,5281607,Alpha-synuclein,Homo sapiens (Human),28000,IC50,0.88776
+2F25,5281607,Sialidase-2,Homo sapiens (Human),890000,IC50,1.00000
+4JLG,5281607,Histone-lysine N-methyltransferase SETD7,Homo sapiens (Human),6080,IC50,0.88776
+5JVS,5281607,POsterior Segregation,Caenorhabditis elegans,60374,EC50,0.88776
+6Q20,5281607,Neuraminidase,Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)),31400,IC50,0.96133
+5X02,5281607,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),1450,IC50,0.96133
+5YZ5,5281607,Glycogen synthase kinase-3 beta,Homo sapiens (Human),49490,EC50,0.96133
+2OHM,5281607,Beta-secretase 1,Homo sapiens (Human),60600,IC50,0.87879
+7CE4,5281607,Poly [ADP-ribose] polymerase tankyrase-1,Homo sapiens (Human),2400,IC50,0.88776
+5TOA,5281607,Estrogen receptor beta,Homo sapiens (Human),130,IC50,0.96133
+4ZZY,5281607,Poly [ADP-ribose] polymerase 1,Homo sapiens (Human),4200,IC50,0.88776
+3QCB,5281607,Receptor-type tyrosine-protein phosphatase S,Homo sapiens (Human),17500,IC50,0.88776
+2VCY,5281607,Enoyl-acyl-carrier protein reductase,Plasmodium falciparum,2100,Ki,0.88776
+4CDE,5281607,Dipeptidyl peptidase 4,Homo sapiens (Human),140,IC50,0.96133
+3T9C,5281607,Inositol hexakisphosphate kinase 2,Homo sapiens,18300,IC50,0.92265
+5M8R,5281607,Tyrosinase,Homo sapiens (Human),23,IC50,0.87879
+2W8N,5281607,"Succinate-semialdehyde dehydrogenase, mitochondrial",Homo sapiens (Human),7200000,IC50,0.90625
+5VEU,5281607,Cytochrome P450 3A4,Homo sapiens (Human),9200,IC50,0.94054
+1G3N,5281607,Cyclin-dependent kinase 6,Homo sapiens (Human),6000,IC50,1.00000
+7LAF,5281607,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),121700,Ki,0.88776
+3IR3,5281607,3-hydroxyacyl-[acyl-carrier-protein] dehydratase,Plasmodium falciparum,5000,IC50,0.88776
+2ZNP,5281607,Peroxisome proliferator-activated receptor gamma,Mus musculus,16400,EC50,0.90625
+5X02,5281607,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),1700,IC50,0.89691
+5YZ5,5281607,Glycogen synthase kinase-3 beta,Homo sapiens (Human),1900,IC50,0.96133
+3DWW,5281607,Prostaglandin G/H synthase 2,Homo sapiens (Human),25500,IC50,1.00000
+8BHT,5281607,Broad substrate specificity ATP-binding cassette transporter ABCG2,Homo sapiens (Human),1500,IC50,1.00000
+1BHS,5281607,17-beta-hydroxysteroid dehydrogenase type 2,Homo sapiens (Human),>20000,IC50,0.95977
+2VCY,5281607,Enoyl-acyl-carrier protein reductase,Plasmodium falciparum,2000,IC50,0.88776
+5UEN,5281607,Adenosine receptor A1,Rattus norvegicus (rat),3000,Ki,0.96133
+1QF8,5281607,Casein kinase II subunit alpha 3,Homo sapiens,9000,IC50,1.00000
+5MSB,5281607,Carbonic anhydrase 12,Homo sapiens (Human),60,Ki,0.88776
+7YXC,5281607,Nuclear receptor subfamily 0 group B member 1,Homo sapiens (Human),>67635,IC50,1.00000
+2R9P,5281607,Serine protease 1/Trypsin-2/Trypsin-3,Homo sapiens (Human),3700,IC50,0.94054
+4BC5,5281607,1-deoxy-D-xylulose 5-phosphate reductoisomerase,Escherichia coli,2.2e+3,IC50,0.94054
+1QIP,5281607,Lactoylglutathione lyase,Homo sapiens (Human),83200,Ki,1.00000
+3QCB,5281607,Receptor-type tyrosine-protein phosphatase S,Homo sapiens (Human),600,IC50,0.90625
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),8,IC50,0.95977
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),390,Ki,0.96133
+2HW6,5281607,MAP kinase-interacting serine/threonine-protein kinase 1,Homo sapiens (Human),179,IC50,0.88776
+2POJ,5281607,Macrophage metalloelastase,Homo sapiens (Human),980,IC50,0.88776
+7LAF,5281607,Polyunsaturated fatty acid lipoxygenase ALOX15B,Homo sapiens (Human),7.1e+4,IC50,0.94054
+8BHT,5281607,Broad substrate specificity ATP-binding cassette transporter ABCG2,Homo sapiens (Human),9200,IC50,0.91099
+2B9R,5281607,Cyclin-dependent kinase 1/G2/mitotic-specific cyclin-B,Marthasterias glacialis (starfish),6200,IC50,0.88776
+6C0V,5281607,ATP-dependent translocase ABCB1,Homo sapiens (Human),6310,Kd,0.93048
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),8,IC50,0.89691
+4I5X,5281607,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),6600,IC50,0.96133
+1H7U,5281607,DNA gyrase subunit A/B,Escherichia coli (strain K12),68,IC50,0.96133
+3LII,5281607,Acetylcholinesterase,Homo sapiens (Human),12,IC50,0.96133
+2CAB,5281607,Carbonic anhydrase 2,Homo sapiens (Human),740,Ki,0.88776
+7LAF,5281607,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),2.26e+4,IC50,0.94054
+4Q0L,5281607,Carbonic anhydrase 3,Bos taurus (Cattle),11600,Ki,0.96133
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),700,IC50,0.96133
+2HI4,5281607,Cytochrome P450 1A2,Homo sapiens (Human),80,IC50,0.93048
+1SLM,5281607,Stromelysin-1,Homo sapiens (Human),16200,IC50,0.88776
+5NN5,5281607,Lysosomal alpha-glucosidase,Homo sapiens (Human),6.0,IC50,0.88776
+1QF8,5281607,Casein kinase II subunit alpha 3,Homo sapiens,800,IC50,0.96133
+7LAF,5281607,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),3200,IC50,0.88776
+2LEO,5281607,Serine protease 1,Bos taurus (bovine),35300,IC50,0.88776
+1QF8,5281607,Casein kinase II subunit alpha,Homo sapiens (Human),740,Ki,0.96133
+4Q0L,5281607,Carbonic anhydrase 3,Bos taurus (Cattle),5400,Ki,0.88776
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),10200,IC50,0.88776
+7D3E,5281607,NADPH oxidase 4,Homo sapiens (Human),850,IC50,0.88776
+2CAB,5281607,Carbonic anhydrase 2,Homo sapiens (Human),2240,Ki,0.95977
+3GNI,5281607,Cyclin-dependent kinase 5 activator 1 [99-307],Homo sapiens (Human),3800,IC50,0.88776
+1IOX,5281607,Epidermal growth factor receptor,Homo sapiens (Human),3,IC50,0.96133
+3IR3,5281607,3-hydroxyacyl-[acyl-carrier-protein] dehydratase,Plasmodium falciparum,20000,IC50,0.95977
+2WID,5281607,Cholinesterase,Homo sapiens (Human),37400,Ki,0.96133
+2CS5,5281607,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),5180,IC50,0.87879
+7LAF,5281607,Polyunsaturated fatty acid 5-lipoxygenase,Rattus norvegicus,10000,IC50,0.94054
+7CE4,5281607,Poly [ADP-ribose] polymerase tankyrase-1,Homo sapiens (Human),280,IC50,0.89840
+3EQM,5281607,Aromatase,Homo sapiens (Human),>2.0e+4,IC50,0.88421
+4M6N,5281607,Urease subunit beta,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),35400,IC50,0.88776
+1MHL,5281607,Myeloperoxidase,Homo sapiens (Human),5790,IC50,0.92265
+5BXJ,5281607,Androgen receptor,Homo sapiens (Human),300,IC50,0.97126
+7LAF,5281607,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),19400,Ki,1.00000
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),1220,Ki,0.94054
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),220,Ki,0.90625
+1OJ9,5281607,Amine oxidase [flavin-containing] A,Homo sapiens (Human),640,IC50,0.96133
+2BYJ,5281607,"4-aminobutyrate aminotransferase, mitochondrial",Homo sapiens (Human),12800000,IC50,0.94054
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),520,Ki,0.96133
+2B3X,5281607,TYR_PHOSPHATASE_2 domain-containing protein,Mycobacterium tuberculosis,1200,IC50,0.87879
+7LAF,5281607,Polyunsaturated fatty acid lipoxygenase ALOX15,Homo sapiens (Human),600,Ki,0.94054
+3IBD,5281607,Cytochrome P450 2B6,Homo sapiens (Human),>25000,IC50,1.00000
+5VAR,5281607,Lysine-specific histone demethylase 1A,Homo sapiens (Human),12500,IC50,0.94054
+5N2R,5281607,Adenosine receptor A2a,Rattus norvegicus (rat),7580,Ki,0.96133
+5ABW,5281607,Neutrophil elastase,Homo sapiens (Human),10100,Ki,0.88776
+5YZ5,5281607,Glycogen synthase kinase-3 beta,Rattus norvegicus (rat),800,IC50,0.88776
+3F9P,5281607,Lactoperoxidase,Bos taurus (Bovine),17800,IC50,0.96133
+3BT0,5281607,Transthyretin,Homo sapiens (Human),250,Kd,0.96133
+5V6A,5281607,Replicase polyprotein 1ab,Human SARS coronavirus (SARS-CoV) (Severe acute respiratory syndrome coronavirus),280000,IC50,0.96133
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),>2340,Ki,0.89691
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),7.0,Ki,0.93048
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),1,IC50,0.89840
+5TPT,5281607,Amyloid-beta precursor protein,Homo sapiens (Human),23000,IC50,0.96133
+2HI4,5281607,Cytochrome P450 1A2,Homo sapiens (Human),3370,IC50,0.88776
+3D3L,5281607,Polyunsaturated fatty acid lipoxygenase ALOX12,Homo sapiens (Human),>100000,IC50,0.95977
+2F2C,5281607,Cyclin homolog/dependent kinase 6,Saimiriine herpesvirus 2,1700,IC50,0.96133
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),427,IC50,0.96133
+3DWW,5281607,Prostaglandin G/H synthase 1/2,RAT,50000,IC50,0.94054
+1OJ9,5281607,Amine oxidase [flavin-containing] B,Homo sapiens (Human),59700,IC50,0.88776
+1OJ9,5281607,Amine oxidase [flavin-containing] B,Homo sapiens (Human),49,Ki,0.93048
+3IR3,5281607,3-hydroxyacyl-[acyl-carrier-protein] dehydratase,Plasmodium falciparum,11500,Ki,0.88776
+3LII,5281607,Acetylcholinesterase,Homo sapiens (Human),65800,Ki,0.88776
+4BYI,5281607,Aurora kinase B,Homo sapiens (Human),3.85e+3,IC50,0.90625
+1XQZ,5281607,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),1585,IC50,0.88776
+5V6A,5281607,Replicase polyprotein 1ab,2019-nCoV,2940,EC50,0.94054
+5YR7,5281607,"Cytosol aminopeptidase [33-68,L62W]",Sus scrofa (Pig),49600,IC50,0.88776
+4BC5,5281607,1-deoxy-D-xylulose 5-phosphate reductoisomerase,Escherichia coli,3.4e+3,IC50,0.88776
+3EQM,5281607,Aromatase,Homo sapiens (Human),30.5,IC50,0.95977
+2W2I,5281607,Lysine-specific demethylase 4E,Homo sapiens (Human),4330,Ki,0.94054
+4XZ0,5281607,Tyrosine-protein kinase SYK,Homo sapiens (Human),4500,EC50,0.88776
+1F6W,5281607,Carboxylic ester hydrolase,Rattus norvegicus (rat),>1.00e+5,IC50,0.90625
+5W2I,5281607,Inositol polyphosphate multikinase,Homo sapiens,29000,IC50,0.96133
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),12600,IC50,0.90625
+6NB3,5281607,Spike glycoprotein [668-1255],SARS-CoV,10600,EC50,0.88776
+2KES,5281607,Alpha-synuclein,Homo sapiens (Human),8200,IC50,0.94054
+6D4D,5281607,Tyrosine-protein phosphatase non-receptor type 22,Homo sapiens (Human),30290,IC50,0.87879
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),42,Ki,1.00000
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),1260,IC50,1.00000
+4M6N,5281607,Urease subunit beta,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),2185000,IC50,0.91099
+3EQM,5281607,Aromatase,Homo sapiens (Human),1,IC50,1.00000
+6C0V,5281607,ATP-dependent translocase ABCB1,Homo sapiens (Human),34674,Kd,0.95977
+1BHG,5281607,Beta-glucuronidase,Rattus norvegicus,13700,IC50,0.92265
+2AFW,5281607,Glutaminyl-peptide cyclotransferase,Homo sapiens (Human),14200,IC50,0.89691
+6Q20,5281607,Neuraminidase,Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)),33800,IC50,0.88776
+2KTB,5281607,Protein polybromo-1,Homo sapiens (Human),12900,Kd,0.88776
+5V6A,5281607,Replicase polyprotein 1ab,2019-nCoV,20,IC50,0.94054
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),7,IC50,0.93048
+4XZ0,5281607,Tyrosine-protein kinase SYK,Homo sapiens (Human),12000,IC50,0.88776
+3FVY,5281607,Dipeptidyl peptidase 3,Homo sapiens (Human),5.40e+4,IC50,0.96133
+2AFW,5281607,Glutaminyl-peptide cyclotransferase,Homo sapiens (Human),45200,IC50,0.92265
+4W9N,5281607,Enoyl-[acyl-carrier-protein] reductase [NADH] FabI,Escherichia coli,7050,Ki,0.88776
+5YZ5,5281607,Glycogen synthase kinase-3 beta,Rattus norvegicus (rat),7200,IC50,1.00000
+6C0V,5281607,ATP-dependent translocase ABCB1,Homo sapiens (Human),41000,IC50,0.94054
+1QIP,5281607,Lactoylglutathione lyase,Homo sapiens (Human),7700,IC50,0.88776
+4I5X,5281607,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),6000,Ki,0.96133
+3GNI,5281607,Cyclin-dependent kinase 5 activator 1 [99-307],Homo sapiens (Human),3100,IC50,1.00000
+3LPO,5281607,"Sucrase-isomaltase, intestinal",Rattus norvegicus (Rat),2.6,IC50,0.94054
+7LAF,5281607,Polyunsaturated fatty acid lipoxygenase ALOX15,Rattus norvegicus,15,IC50,0.94054
+5EJK,5281607,Integrase,Human immunodeficiency virus 1,1400,IC50,1.00000
+7LAF,5281607,Seed linoleate 13S-lipoxygenase-1,Glycine max (soybean),95400,Ki,0.93048
+2ZNP,5281607,Peroxisome proliferator-activated receptor gamma,Mus musculus,24900,EC50,0.96133
+3EQM,5281607,Aromatase,Homo sapiens (Human),2,IC50,0.92265
+8D43,5281607,Alpha-glucosidase MAL62,Saccharomyces cerevisiae,20989398836,IC50,0.88776
+1XQZ,5281607,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),14000,IC50,0.95977
+5EJK,5281607,Integrase,Human immunodeficiency virus 1,1500,IC50,0.96133
+5YZ5,5281607,Glycogen synthase kinase-3 beta,Homo sapiens (Human),3812,EC50,0.88776
+5X02,5281607,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),830,IC50,0.88776
+5AKV,5281607,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),2720,IC50,0.86364
+5UEN,5281607,Adenosine receptor A1,Rattus norvegicus (rat),1550,Ki,0.88776
+1XQZ,5281607,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),15000,IC50,1.00000
+1MHL,5281607,Myeloperoxidase,Homo sapiens (Human),3800,IC50,0.96133
+5W2I,5281607,Inositol polyphosphate multikinase,Homo sapiens,>30000,IC50,0.93370
+7VLN,5281607,Histone-lysine N-methyltransferase NSD2,Homo sapiens (Human),2650,IC50,0.90625
+5AUW,5281607,Death-associated protein kinase 1,Homo sapiens (Human),31000,IC50,0.96133
+7LAF,5281607,Polyunsaturated fatty acid lipoxygenase ALOX15,Homo sapiens (Human),>100000,IC50,0.95977
+4JLG,5281607,Histone-lysine N-methyltransferase SETD7,Homo sapiens (Human),1960,IC50,0.90625
+5L60,5281607,Proteasome subunit beta type-5,Homo sapiens (Human),1.000000,IC50,0.96133
+7YXC,5281607,Nuclear receptor subfamily 0 group B member 1,Homo sapiens (Human),>67615,IC50,0.91099
+4CDE,5281607,Dipeptidyl peptidase 4,Homo sapiens (Human),120,IC50,0.88776
+4CDE,5281607,Dipeptidyl peptidase 4,Homo sapiens (Human),>200000,IC50,0.94054
+5C3Z,5281607,Chemotaxis protein CheA,Escherichia coli (strain K12),111000,IC50,0.88776
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),4,IC50,0.93370
+4I5X,5281607,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),9200,IC50,0.88776
+2JFD,5281607,Fatty acid synthase,Homo sapiens (Human),62500,IC50,0.88776
+2CAB,5281607,Carbonic anhydrase 2,Homo sapiens (Human),2700,Ki,0.96133
+5YZ5,5281607,Glycogen synthase kinase-3 beta,Homo sapiens (Human),1500,IC50,0.88776
+3T9C,5281607,Inositol hexakisphosphate kinase 2,Homo sapiens,1300,IC50,0.88776
+2HI4,5281607,Cytochrome P450 1A2,Homo sapiens (Human),54,IC50,1.00000
+4NW3,5281607,Histone-lysine N-methyltransferase 2A,Homo sapiens (Human),2920,IC50,0.90625
+5AKV,5281607,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),1.2e+3,IC50,0.87879
+5L0A,5281607,"Fructose-1,6-bisphosphatase 1",Homo sapiens (Human),38200,IC50,0.90625
+6FE2,5281607,Carbonic anhydrase 9,Homo sapiens (Human),2650,Ki,1.00000
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),7.8,IC50,0.88776
+3TJM,5281607,3-oxoacyl-acyl-carrier protein reductase,Plasmodium falciparum,4000,IC50,0.88776
+3EQM,5281607,Aromatase,Homo sapiens (Human),20,IC50,0.91209
+6C0V,5281607,ATP-dependent translocase ABCB1,Homo sapiens (Human),3090,Kd,0.93548
+5N2R,5281607,Adenosine receptor A2a,Rattus norvegicus (rat),6166,Ki,0.97126
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),4,IC50,0.96133
+2AFW,5281607,Glutaminyl-peptide cyclotransferase,Homo sapiens (Human),37200,IC50,0.90625
+1GGZ,5281607,Calmodulin-2,Homo sapiens (Human),33430,IC50,1.00000
+4A82,5281607,Cystic fibrosis transmembrane conductance regulator,Homo sapiens (Human),9.0,EC50,0.96133
+2J8T,5281607,Aldo-keto reductase family 1 member B1,Rattus norvegicus,6670,IC50,0.96133
+6C0V,5281607,ATP-dependent translocase ABCB1,Homo sapiens (Human),10000,Kd,0.96133
+4M6N,5281607,Urease subunit beta,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),302000,IC50,1.00000
+6Q20,5281607,Neuraminidase,Influenza A virus,33360,IC50,1.00000
+1QIP,5281607,Lactoylglutathione lyase,Homo sapiens (Human),11000,IC50,0.94054
+2F25,5281607,Sialidase-2,Homo sapiens (Human),470000,IC50,0.92265
+2WAJ,5281607,Mitogen-activated protein kinase 14,Homo sapiens (Human),2.78e+4,IC50,0.88776
+1XQZ,5281607,Serine/threonine-protein kinase pim-1,Homo sapiens (Human),4520,IC50,0.89840
+2CAB,5281607,Carbonic anhydrase 1,Homo sapiens (Human),2200,Ki,0.88776
+5MSB,5281607,Carbonic anhydrase 12,Homo sapiens (Human),35,Ki,1.00000
+5DHG,5281607,G-protein coupled receptor 35,Homo sapiens (Human),3200,EC50,0.88776
+5WWW,5281607,Zinc finger protein mex-5,Caenorhabditis elegans,31000,EC50,0.88776
+2OHM,5281607,Beta-secretase 1,Homo sapiens (Human),11310,Ki,0.96133
+2IIM,5281607,Tyrosine-protein kinase Lck,Homo sapiens (Human),8,IC50,0.90374
+2J8T,5281607,Aldo-keto reductase family 1 member B1,Rattus norvegicus,1540,IC50,0.88776
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),1640,Ki,0.90625
+4A82,5281607,Cystic fibrosis transmembrane conductance regulator,Homo sapiens (Human),81,Ki,0.96133
+1YOW,5281607,Steroidogenic factor 1,Homo sapiens (Human),>67635,IC50,1.00000
+4I5X,5281607,Aldo-keto reductase family 1 member B10,Homo sapiens (Human),8300,IC50,0.95977
+2J8T,5281607,Aldo-keto reductase family 1 member B1 [K65Q],Bos taurus (Cattle),13630,IC50,0.92265
+1OJ9,5281607,Amine oxidase [flavin-containing] A,Homo sapiens (Human),4900,IC50,0.88776
+1BHS,5281607,17-beta-hydroxysteroid dehydrogenase type 3,Homo sapiens (Human),9.0e+3,IC50,0.95977
+5YZ5,5281607,Glycogen synthase kinase-3 beta,Homo sapiens (Human),>300000,EC50,1.00000
+7LO7,5281607,Multidrug resistance-associated protein 1,Homo sapiens (Human),2400,Ki,0.96133
+2F25,5281607,Sialidase-2,Homo sapiens (Human),70000,IC50,0.90155
+5DHG,5281607,G-protein coupled receptor 35,Homo sapiens (Human),18600,IC50,0.88776
+1BHS,5281607,17-beta-hydroxysteroid dehydrogenase type 3,Homo sapiens (Human),1.64e+4,IC50,0.96133
+2WAJ,5281607,Mitogen-activated protein kinase 10,Homo sapiens (Human),5.78e+3,IC50,0.93048
+5L0A,5281607,"Fructose-1,6-bisphosphatase 1",Homo sapiens (Human),29000,IC50,0.94054
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),45,Ki,0.93048
+4I8V,5281607,Cytochrome P450 1A1,Homo sapiens (Human),1249,IC50,0.88776
+5NN5,5281607,Lysosomal alpha-glucosidase,Homo sapiens (Human),500000,IC50,0.94054
+3LII,5281607,Acetylcholinesterase,Rattus norvegicus (rat),>500000,IC50,0.96133
+1OJ9,5281607,Amine oxidase [flavin-containing] A,Homo sapiens (Human),121,IC50,0.93048
+7WKZ,5281607,5-hydroxytryptamine receptor 7,Homo sapiens (Human),>350000,IC50,0.94054
+5X02,5281607,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),>10000,IC50,1.00000
+2CAB,5281607,Carbonic anhydrase 2,Homo sapiens (Human),4310,Ki,1.00000
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),2790,IC50,0.94054
+2J8T,5281607,Aldo-keto reductase family 1 member B1,Homo sapiens (Human),11900,IC50,0.96133
+3LII,5281607,Acetylcholinesterase,Homo sapiens (Human),121600,Ki,0.96133
+4YJ5,5281607,Pyruvate kinase PKM,Homo sapiens (Human),12500,IC50,0.90625
+6NOW,5281607,D-alanine--D-alanine ligase,Helicobacter pylori (strain HPAG1),132700,IC50,0.96133
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),3300,IC50,0.94054
+1BQO,5281607,Matrix metalloproteinase-9,Homo sapiens (Human),5620,IC50,0.88776
+5ABW,5281607,Neutrophil elastase,Homo sapiens (Human),49900,Ki,0.96133
+7LAF,5281607,Polyunsaturated fatty acid lipoxygenase ALOX15B,Rattus norvegicus,260,IC50,0.94054
+5W2I,5281607,Inositol polyphosphate multikinase,Homo sapiens,>30000,IC50,0.93048
+1Z9E,5281607,PC4 and SFRS1-interacting protein,Homo sapiens (Human),1059,IC50,0.88776
+5AUW,5281607,Death-associated protein kinase 1,Homo sapiens (Human),120000,IC50,0.94054
+4F7N,5281607,Cyclin-dependent kinase 5,Rattus norvegicus,>250000,EC50,0.96133
+3TJM,5281607,3-oxoacyl-acyl-carrier protein reductase,Plasmodium falciparum,10000,IC50,1.00000
+5TPT,5281607,Amyloid-beta precursor protein,Homo sapiens (Human),6400,IC50,0.88776
+1REX,5281607,Lysozyme C-1,Rattus norvegicus,>30000,IC50,0.92265
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),38000,IC50,0.95977
+6Q6Q,5281607,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),840,IC50,1.00000
+4F7N,5281607,Cyclin-dependent kinase 5,Rattus norvegicus,>250000,EC50,0.88776
+6C0V,5281607,ATP-dependent translocase ABCB1,Homo sapiens (Human),8913,Kd,1.00000
+3LXE,5281607,Carbonic anhydrase 4,Homo sapiens (Human),293,Ki,0.88776
+3PM0,5281607,Cytochrome P450 1B1,Homo sapiens (Human),56,Ki,0.88776
+3DWW,5281607,Prostaglandin G/H synthase 2,Ovis aries (Sheep),>370000,IC50,0.96133
+2F2C,5281607,Cyclin homolog/dependent kinase 6,Saimiriine herpesvirus 2,6000,IC50,1.00000
+3BHI,5281607,Carbonyl reductase [NADPH] 1,Homo sapiens (Human),670,IC50,1.00000
+4BYI,5281607,Aurora kinase B,Homo sapiens (Human),3.96e+3,IC50,0.96133
+2F25,5281607,Sialidase,Clostridium perfringens,4300,IC50,0.88776
+7OBM,5281607,Prolyl endopeptidase,Homo sapiens (Human),36000,IC50,0.94054
+5ABW,5281607,Neutrophil elastase,Homo sapiens (Human),46100,IC50,0.96133
+2J8T,5281607,Aldo-keto reductase family 1 member B1 [K65Q],Bos taurus (Cattle),14650,IC50,0.95977
+1R42,5281607,Angiotensin-converting enzyme,Oryctolagus cuniculus,280000,IC50,0.96133
+2JFD,5281607,Fatty acid synthase,Gallus gallus (Chicken),6.25e+4,IC50,0.88776
+5YZ5,5281607,Glycogen synthase kinase-3 beta,Rattus norvegicus (rat),1400,IC50,0.96133
+7LAF,5281607,Polyunsaturated fatty acid lipoxygenase ALOX15B,Homo sapiens (Human),>100000,IC50,0.95977
+3CBJ,5281607,Cruzipain,Trypanosoma cruzi,27300,IC50,0.88776
+7UW6,5281607,Low molecular weight protein-tyrosine phosphatase A,Mycobacterium tuberculosis,11970,IC50,0.87879
+2F25,5281607,Sialidase-2,Homo sapiens (Human),130000,IC50,0.94054
+2CAB,5281607,Carbonic anhydrase 1,Homo sapiens (Human),3370,Ki,0.95977
+7CE4,5281607,Poly [ADP-ribose] polymerase tankyrase-2,Homo sapiens (Human),2900,IC50,0.96133
+2J8T,5281607,Aldo-keto reductase family 1 member B1,Rattus norvegicus,1000000,IC50,0.92553
+7LAF,5281607,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens (Human),1600,IC50,0.88776
+5X02,5281607,Receptor-type tyrosine-protein kinase FLT3,Homo sapiens (Human),>10000,IC50,0.90625
+3FVY,5281607,Dipeptidyl peptidase 3,Homo sapiens (Human),2.20e+4,IC50,0.88776
+5UKE,5282150,Serine/threonine-protein kinase 33,Homo sapiens (Human),12920,EC50,0.90491
+1XUT,5282150,Tumor necrosis factor,Homo sapiens (Human),200,Kd,0.94249
+2WAJ,5282150,Mitogen-activated protein kinase 10,Homo sapiens (Human),2.45e+3,IC50,0.90491
+6Q6Q,5282150,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),>100000,IC50,0.94277
+5M8R,5282150,Tyrosinase,Homo sapiens (Human),>50000,IC50,0.94249
+2M2D,5282150,Programmed cell death 1 ligand/protein 1,Homo sapiens,>100000,IC50,0.97508
+4JGD,5282150,Dihydroorotate dehydrogenase (fumarate),Leishmania major,100000,IC50,0.94249
+6Q20,5282150,Neuraminidase,Influenza A virus,47400,IC50,0.90491
+5M8R,5282150,Tyrosinase,Homo sapiens (Human),>50000,IC50,na
+6Q20,5282150,Neuraminidase,Influenza A virus (strain A/USSR/90/1977 H1N1),51200,IC50,0.90491
+1R42,5282150,Angiotensin-converting enzyme,Oryctolagus cuniculus,280000,IC50,0.90491
+2CS5,5282150,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),100000,IC50,0.94249
+2VCY,5282150,Enoyl-acyl-carrier protein reductase,Plasmodium falciparum,22300,IC50,0.90491
+3LII,5282150,Acetylcholinesterase,Homo sapiens (Human),100000,IC50,0.94249
+1XUT,5282150,Tumor necrosis factor,Homo sapiens (Human),790,Kd,0.90491
+4BYI,5282150,Aurora kinase B,Homo sapiens (Human),9.14e+3,IC50,0.92401
+6Q6Q,5282150,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),6520,IC50,0.88372
+1BHG,5282150,Beta-glucuronidase,Rattus norvegicus,>30000,IC50,0.88323
+3BRT,5282150,Inhibitor of nuclear factor kappa-B kinase subunit beta,Homo sapiens (Human),3890,IC50,0.92401
+6Q6Q,5282150,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),>100000,IC50,0.86145
+2F25,5282150,Sialidase,Clostridium perfringens,39300,IC50,0.94249
+6Q20,5282150,Neuraminidase,Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)),46800,IC50,0.90491
+1REX,5282150,Lysozyme C-1,Rattus norvegicus,>30000,IC50,0.88323
+5M8R,5282150,Tyrosinase,Homo sapiens (Human),>50000,IC50,na
+2CS5,5282150,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),100000,IC50,0.90988
+6Q6Q,5282150,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),6130,IC50,0.88372
+4BYI,5282150,Aurora kinase B,Homo sapiens (Human),1.214e+4,IC50,0.97508
+6Q6Q,5282150,Xanthine dehydrogenase/oxidase,Homo sapiens (Human),11900,IC50,0.96012
+5VAR,5282150,Lysine-specific histone demethylase 1A,Homo sapiens (Human),10140,IC50,0.92401
+3LII,5282150,Acetylcholinesterase,Homo sapiens (Human),63410,IC50,0.90988
+2CS5,5282150,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),100000,IC50,0.88323
+5M8R,5282150,Tyrosinase,Homo sapiens (Human),>50000,IC50,na
+5VAR,5282150,Lysine-specific histone demethylase 1A,Homo sapiens (Human),21830,IC50,na
+5UEN,5282150,Adenosine receptor A1,Rattus norvegicus (rat),3200,Ki,0.86145
+2CS5,5282150,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens (Human),71560,IC50,0.90491
+2J8T,5282150,Aldo-keto reductase family 1 member B1,Rattus norvegicus,16218.1,IC50,0.86145
+1IRP,5282150,Interleukin-2,Homo sapiens (Human),20,Kd,0.90491
+5AKV,5282150,Polyphenol oxidase 2,Agaricus bisporus (Common mushroom),>400000,IC50,0.88024
+3LII,5282150,Acetylcholinesterase,Homo sapiens (Human),63940,IC50,0.88323
+3LII,5282150,Acetylcholinesterase,Homo sapiens (Human),74680,IC50,0.90491
+5M8R,5282150,Tyrosinase,Homo sapiens (Human),>50000,IC50,na
+2ZNP,5282150,Peroxisome proliferator-activated receptor gamma,Mus musculus,>100000,EC50,0.88116
+2WAJ,5282150,Mitogen-activated protein kinase 14,Homo sapiens (Human),8.71e+4,IC50,0.90491
+6Q6Q,5282150,Xanthine dehydrogenase/oxidase,Bos taurus (Bovine),75900,IC50,0.90491
+3EAY,5282150,Sentrin-specific protease 1,Homo sapiens (Human),6840,IC50,0.93252

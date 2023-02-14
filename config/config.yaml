@@ -97,7 +97,8 @@ receptor_pdb_path: "dataset/raw/pdb/"
 receptor_pdbqt_path: "dataset/processed/pdbqt/receptor/"
 
 # interaction data path (csv file)
-interaction_data_path: "dataset/interaction_map_life.csv"
+# interaction_data_path: "dataset/interaction_map_life.csv"
+interaction_data_path: "dataset/interaction_map_second.csv"
 
 # result path (pdbqt)
-docking_output_path: "dataset/results/pdbqt"
+docking_output_path: "dataset/results/"

@@ -103,7 +103,7 @@ if __name__=="__main__":
     receptor_pdbqt_path = config["receptor_pdbqt_path"]
 
     # run get sdf from pubchem function
-    get_sdf_from_pubchem(cid_list=cid_list, raw_sdf_path=raw_sdf_path)
+    # get_sdf_from_pubchem(cid_list=cid_list, raw_sdf_path=raw_sdf_path)
 
     # run convert sdf to mol2 function
     convert_sdf_to_mol2(sdf_path=raw_sdf_path, mol2_path=mol2_path)
@@ -112,5 +112,5 @@ if __name__=="__main__":
     convert_mol2_to_pdbqt(mol2_path=mol2_path)
 
     # run convert recepter pdb to pdbqt
-    # convert_pdb_to_pdbqt(pdb_path=receptor_pdb_path, pdbqt_path=receptor_pdbqt_path)
+    convert_pdb_to_pdbqt(pdb_path=receptor_pdb_path, pdbqt_path=receptor_pdbqt_path)
 

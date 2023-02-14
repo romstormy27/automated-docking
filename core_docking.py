@@ -3,6 +3,7 @@ import pandas as pd
 from utils import load_config
 import sys
 import subprocess
+from tqdm import tqdm
 
 def get_interaction_map(path:str)->(dict):
 
@@ -11,50 +12,69 @@ def get_interaction_map(path:str)->(dict):
 
     # convert into dict and group by receptor
     tmp = df.reset_index()
-    dock_dict = {rec: lig.tolist() for rec, lig in tmp.groupby("uniprot")["cid"]}
+    # dock_dict = {rec: lig.tolist() for rec, lig in tmp.groupby("uniprot")["cid"]}
+    dock_dict = {rec: lig.tolist() for rec, lig in tmp.groupby("pdb_id")["cid"]}
     dock_dict
 
     return dock_dict
 
 def run_vina_docking(interaction_map:dict, receptor_path:str, ligand_path:str, output_path:str):
 
-    for receptor in interaction_map:
-        for ligand in interaction_map[receptor]:
+    success = 0
 
-            # print(receptor)
-            # print(ligand)
+    for receptor in tqdm(interaction_map, desc="receptor loop", position=0):
+        for ligand in tqdm(interaction_map[receptor], desc="ligand loop", position=1, leave=False):
 
-            v = Vina(sf_name='vina', seed=42, verbosity=1)
+            try:
 
-            print("Performing docking simulation...")
-            # subprocess.run(["echo", "-e", "Performing docking simulation...\n"])
+                # print(receptor)
+                # print(ligand)
 
-            print()
-            print(f"RECEPTOR: {receptor} <---> LIGAND: {ligand}")
-            # subprocess.run(["echo", "-e", f"RECEPTOR: {receptor} <---> LIGAND: {ligand}\n"])
-            print()
+                v = Vina(sf_name='vina', seed=42, verbosity=1)
 
-            v.set_receptor(rigid_pdbqt_filename=receptor_path+str(receptor)+".pdbqt")
-            v.set_ligand_from_file(ligand_path+str(ligand)+".pdbqt")
+                print("Performing docking simulation...")
+                # subprocess.run(["echo", "-e", "Performing docking simulation...\n"])
 
-            v.compute_vina_maps(center=[0,0,0], box_size=[80, 80, 80])
+                print()
+                print(f"RECEPTOR: {receptor} <---> LIGAND: {ligand}")
+                # subprocess.run(["echo", "-e", f"RECEPTOR: {receptor} <---> LIGAND: {ligand}\n"])
+                print()
 
-            # Score the current pose
-            energy = v.score()
-            print(f'Score before minimization: {energy[0]} (kcal/mol)')
+                v.set_receptor(rigid_pdbqt_filename=receptor_path+str(receptor)+".pdbqt")
+                v.set_ligand_from_file(ligand_path+str(ligand)+".pdbqt")
 
-            # Minimized locally the current pose
-            energy_minimized = v.optimize()
-            print(f'Score after minimization : {energy_minimized[0]} (kcal/mol)')
-            # v.write_pose('1ao6_ligand_minimized.pdbqt', overwrite=True)
+                v.compute_vina_maps(center=[0,0,0], box_size=[80, 80, 80])
 
-            # Dock the ligand
-            v.dock(exhaustiveness=32, n_poses=20)
-            v.write_poses(output_path+str(receptor)+"_"+str(ligand)+".pdbqt", n_poses=5, overwrite=True)
+                # Score the current pose
+                energy = v.score()
+                print(f'Score before minimization: {energy[0]} (kcal/mol)')
 
-            # subprocess.run(["echo", "-e", "\n"])
-            # subprocess.run(["echo", "=============================================================="])
-            print("==============================================================")
+                # Minimized locally the current pose
+                energy_minimized = v.optimize()
+                print(f'Score after minimization : {energy_minimized[0]} (kcal/mol)')
+                # v.write_pose('1ao6_ligand_minimized.pdbqt', overwrite=True)
+
+                # Dock the ligand
+                v.dock(exhaustiveness=32, n_poses=20)
+                v.write_poses(output_path+str(receptor)+"_"+str(ligand)+".pdbqt", n_poses=5, overwrite=True)
+
+                # subprocess.run(["echo", "-e", "\n"])
+                # subprocess.run(["echo", "=============================================================="])
+                print("==============================================================")
+                
+                success = success+1
+
+            except RuntimeError as re:
+
+                print("no pdb files for ", receptor)
+                print(re)
+            
+            except Exception as exc:
+
+                print("something went wrong when docking receptor:", receptor, " and ligand:", ligand)
+                print("the error was: ", exc)
+
+    print("Number of success docking simulation: ", success)
 
 if __name__=="__main__":
 
