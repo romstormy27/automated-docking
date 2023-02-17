@@ -32,6 +32,7 @@ def run_vina_docking(interaction_map:dict, receptor_path:str, ligand_path:str, o
 
                 v = Vina(sf_name='vina', seed=42, verbosity=1)
 
+                print()
                 print("Performing docking simulation...")
                 # subprocess.run(["echo", "-e", "Performing docking simulation...\n"])
 
@@ -43,7 +44,7 @@ def run_vina_docking(interaction_map:dict, receptor_path:str, ligand_path:str, o
                 v.set_receptor(rigid_pdbqt_filename=receptor_path+str(receptor)+".pdbqt")
                 v.set_ligand_from_file(ligand_path+str(ligand)+".pdbqt")
 
-                v.compute_vina_maps(center=[0,0,0], box_size=[80, 80, 80])
+                v.compute_vina_maps(center=[0,0,0], box_size=[100, 100, 100])
 
                 # Score the current pose
                 energy = v.score()
@@ -74,6 +75,11 @@ def run_vina_docking(interaction_map:dict, receptor_path:str, ligand_path:str, o
                 print("something went wrong when docking receptor:", receptor, " and ligand:", ligand)
                 print("the error was: ", exc)
 
+            except:
+
+                print("something wrong with ADVina")
+                raise
+
     print("Number of success docking simulation: ", success)
 
 if __name__=="__main__":
@@ -91,7 +97,19 @@ if __name__=="__main__":
     docking_output_path = config["docking_output_path"]
 
     # get interaction map
-    dock_dict = get_interaction_map(interaction_data_path)
+    tmp = get_interaction_map(interaction_data_path)
+
+    # this code is to cut off the interaction map so it will start again
+    # with the file after the error file
+    tmp = list(tmp.items())[242:]
+
+    # a = tmp[0][1].pop(0)
+
+    # print("removed ligand is: ", a)
+
+    dock_dict = dict(tmp)
+
+    # print(dock_dict)
 
     # run docking
     run_vina_docking(interaction_map=dock_dict, receptor_path=receptor_data_path,

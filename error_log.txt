@@ -1,0 +1,5 @@
+- parsing error when 689043 and 1PQ3 at position [41]
+- ligand out of box at positition [45][0]
+- parsing error RECEPTOR: 2GLQ <---> LIGAND: 2519
+- parsing error RECEPTOR: 3B7T <---> LIGAND: 97214
+- parsing error RECEPTOR: 5IXC <---> LIGAND: 5281600
