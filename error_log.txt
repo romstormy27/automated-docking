@@ -3,3 +3,7 @@
 - parsing error RECEPTOR: 2GLQ <---> LIGAND: 2519
 - parsing error RECEPTOR: 3B7T <---> LIGAND: 97214
 - parsing error RECEPTOR: 5IXC <---> LIGAND: 5281600
+- parsing error RECEPTOR: 5LIH <---> LIGAND: 16145850
+- ligand out of box at position [290][0]
+- parsing error RECEPTOR: 6D7T <---> LIGAND: 637511
+- parsing error RECEPTOR: 7JWS <---> LIGAND: 10207
