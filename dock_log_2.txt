@@ -27104,3 +27104,2393 @@ RECEPTOR: 7JWS <---> LIGAND: 10207
 
 PDBQT parsing error: Atom type Yb is not a valid AutoDock type (atom types are case-sensitive).
  > HETATM 3852 YB    YB A 601      30.446 -29.596  39.887  1.00 32.12     0.000 Yb
+
+RECEPTOR: 7KJW <---> LIGAND: 1203
+
+no pdb files for  7KJW
+Error: file dataset/processed/pdbqt/receptor/7KJW.pdbqt does not exist.
+
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7KSR <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0      49.53      50.34
+   3            0      51.17      51.96
+   4            0      51.25      51.99
+   5            0      10.73      12.11
+   6            0      52.17      52.95
+   7            0      67.21      69.16
+   8            0      34.71      36.01
+   9            0      33.82      35.43
+  10            0      2.291      2.988
+  11            0      63.87      65.89
+  12            0      1.702      2.167
+  13            0      26.83      28.95
+  14            0      38.87      40.02
+  15            0      43.38      44.29
+  16            0      40.17      41.44
+  17            0         51      51.66
+  18            0      22.98      24.08
+  19            0      23.58      24.71
+  20            0      43.02      44.06
+==============================================================
+receptor loop:   5%|████▏                                                                                   | 2/42 [00:12<04:18,  6.46s/it]
+Performing docking simulation...                                                                                     | 0/8 [00:00<?, ?it/s]
+
+RECEPTOR: 7LAF <---> LIGAND: 689043
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0001853          0          0
+   2    -0.0001853      33.08      35.25
+   3    -0.0001853      69.14      69.95
+   4    -0.0001853      14.95      16.39
+   5    -0.0001853      77.79      79.03
+   6            0       33.6      35.07
+   7            0      72.56      74.02
+   8            0      39.07      40.03
+   9            0      49.89      51.65
+  10            0      65.21      66.65
+  11     0.003682         65      66.01
+  12     0.003682      44.51      46.02
+  13     0.003682      53.19      54.19
+  14     0.003682      55.29      56.74
+  15     0.003682      44.09      45.94
+  16     0.003682      27.85       28.8
+  17     0.003682      47.16      47.63
+  18     0.003682      70.96         72
+  19     0.006223      48.01      49.02
+  20     0.006223      61.08      61.49
+==============================================================
+
+Performing docking simulation...                                                                             | 1/8 [00:14<01:44, 14.95s/it]
+
+RECEPTOR: 7LAF <---> LIGAND: 3084331
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0      46.41      47.34
+   3            0      44.27      45.24
+   4            0      7.442      7.933
+   5            0      3.816      4.955
+   6            0      5.429      6.565
+   7            0      2.816      3.259
+   8            0      2.034       2.72
+   9            0       1.64      2.185
+  10            0      1.466       2.02
+  11            0      30.14      32.25
+  12            0      2.779       3.86
+  13            0       19.6         21
+  14            0      30.74       32.8
+  15            0       19.5      21.44
+  16            0      30.25      31.85
+  17            0      19.31      21.13
+  18            0      29.29      31.32
+  19            0      31.06      33.12
+  20            0      32.61      33.03
+==============================================================
+
+Performing docking simulation...████████▊                                                                    | 2/8 [00:25<01:14, 12.38s/it]
+
+RECEPTOR: 7LAF <---> LIGAND: 97214
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0       50.1      51.34
+   3            0      58.09      59.95
+   4            0      40.68      41.96
+   5            0      74.99      76.13
+   6            0      28.37      29.99
+   7            0      59.91      61.85
+   8            0      29.37      32.13
+   9            0      27.35      31.45
+  10            0      104.6      106.4
+  11            0      13.68      16.61
+  12            0      96.19      97.62
+  13            0      69.04      72.03
+  14            0      21.53      23.19
+  15            0      47.81      49.64
+  16            0      59.08      61.54
+  17            0      59.44      63.04
+  18            0      58.47      60.02
+  19            0      32.49      34.51
+  20            0      77.97      80.69
+==============================================================
+
+Performing docking simulation...████████████████████▏                                                        | 3/8 [01:21<02:41, 32.40s/it]
+
+RECEPTOR: 7LAF <---> LIGAND: 596375
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0001943          0          0
+   2    -0.0001943      66.37      66.87
+   3    -0.0001943      52.71       53.6
+   4    -0.0001943      67.98      68.94
+   5    -0.0001943      60.19      61.18
+   6    -0.0001943      87.74      88.77
+   7    -0.0001943      89.54      90.04
+   8    -0.0001943      79.23       80.3
+   9    -0.0001943      26.58      28.39
+  10    -0.0001943      51.62       52.2
+  11    -0.0001943      65.18      66.04
+  12    -0.0001943      60.07      61.58
+  13    -0.0001943      56.45      57.54
+  14    -0.0001943      49.99      51.06
+  15    -0.0001943      68.99      71.49
+  16    -0.0001943      50.71      51.58
+  17            0      24.01      25.34
+  18            0      38.91      39.45
+  19            0      78.25      78.87
+  20            0      42.67      43.31
+==============================================================
+
+Performing docking simulation...███████████████████████████████▌                                             | 4/8 [01:33<01:37, 24.41s/it]
+
+RECEPTOR: 7LAF <---> LIGAND: 5280666
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -2.266e-06          0          0
+   2    -2.266e-06      18.77      20.54
+   3    -2.266e-06      35.79      37.69
+   4    -2.266e-06       53.2      54.84
+   5    -2.266e-06      30.01      31.57
+   6    -2.266e-06      29.63      32.15
+   7    -2.266e-06      64.33      65.53
+   8    -2.266e-06      61.61      62.82
+   9    -2.266e-06      2.083      2.359
+  10    -2.266e-06      53.76      55.33
+  11    -2.266e-06      48.23      49.68
+  12    -2.266e-06      50.08      52.25
+  13    -2.266e-06      38.39       39.9
+  14    -2.266e-06      48.93      50.11
+  15    -2.266e-06      37.63      40.92
+  16            0      42.92      46.49
+  17            0      32.48      33.85
+  18      0.01418      64.74      65.93
+  19      0.01437      43.36       45.3
+  20      0.01437      53.35      55.08
+==============================================================
+
+Performing docking simulation...██████████████████████████████████████████▉                                  | 5/8 [02:15<01:31, 30.57s/it]
+
+RECEPTOR: 7LAF <---> LIGAND: 119034
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0006633          0          0
+   2    -0.0006633      31.68      33.35
+   3    -0.0006633      28.31      30.77
+   4            0      40.28      43.28
+   5     0.002517       17.1      20.95
+   6     0.002517      31.71      32.74
+   7     0.002517      42.14       42.9
+   8     0.002517       14.5      15.71
+   9     0.002518       34.3      36.02
+  10     0.002518      23.68      25.14
+  11     0.002518      36.92      38.41
+  12     0.002518      15.29      17.82
+  13     0.002634      35.94      37.02
+  14     0.002634      21.77      25.04
+  15      0.00266      16.21      18.08
+  16      0.00266      23.86      25.21
+  17     0.002663      24.21      26.44
+  18     0.002663      40.34      41.85
+  19     0.007897      33.51      37.42
+  20      0.01108      21.31      22.95
+==============================================================
+
+Performing docking simulation...██████████████████████████████████████████████████████▎                      | 6/8 [03:06<01:14, 37.49s/it]
+
+RECEPTOR: 7LAF <---> LIGAND: 637511
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0      12.67      13.58
+   3            0      35.18      36.69
+   4            0       32.7      33.89
+   5            0      37.86      38.93
+   6            0      66.27      67.92
+   7            0      35.31      36.04
+   8            0      10.13      11.45
+   9            0      49.73      51.64
+  10            0      39.75      40.46
+  11            0      23.42      24.07
+  12            0      71.98       72.6
+  13            0      27.93      28.66
+  14            0      47.55      48.37
+  15            0      26.35         27
+  16            0      23.71      24.14
+  17            0      28.89      30.04
+  18            0      72.36      73.67
+  19            0      26.97      28.64
+  20            0      28.04       29.7
+==============================================================
+
+Performing docking simulation...█████████████████████████████████████████████████████████████████▋           | 7/8 [03:11<00:26, 27.00s/it]
+
+RECEPTOR: 7LAF <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0      49.53      50.34
+   3            0      51.17      51.96
+   4            0      51.25      51.99
+   5            0      10.73      12.11
+   6            0      52.17      52.95
+   7            0      67.21      69.16
+   8            0      34.71      36.01
+   9            0      33.82      35.43
+  10            0      2.291      2.988
+  11            0      63.87      65.89
+  12            0      1.702      2.167
+  13            0      26.83      28.95
+  14            0      38.87      40.02
+  15            0      43.38      44.29
+  16            0      40.17      41.44
+  17            0         51      51.66
+  18            0      22.98      24.08
+  19            0      23.58      24.71
+  20            0      43.02      44.06
+==============================================================
+receptor loop:   7%|██████▎                                                                                 | 3/42 [03:37<57:48, 88.93s/it]
+Performing docking simulation...                                                                                     | 0/2 [00:00<?, ?it/s]
+
+RECEPTOR: 7LBG <---> LIGAND: 34458
+
+no pdb files for  7LBG
+Error: file dataset/processed/pdbqt/receptor/7LBG.pdbqt does not exist.
+
+Performing docking simulation...
+
+RECEPTOR: 7LBG <---> LIGAND: 119034
+
+no pdb files for  7LBG
+Error: file dataset/processed/pdbqt/receptor/7LBG.pdbqt does not exist.
+
+Performing docking simulation...                                                                                     | 0/3 [00:00<?, ?it/s]
+
+RECEPTOR: 7LEU <---> LIGAND: 3084331
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 133.821 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -8.724          0          0
+   2       -8.418      1.839      3.114
+   3       -8.377      1.625      2.453
+   4       -8.348      0.757      2.657
+   5       -8.276      1.918      2.928
+   6       -8.131      1.417      3.244
+   7       -8.101      1.781       2.93
+   8       -7.499      39.11      41.03
+   9       -7.426      38.78      39.95
+  10       -7.399      39.35      41.21
+  11       -7.381      39.59      40.91
+  12       -7.295       39.2      40.69
+  13       -7.252      39.12      41.05
+  14       -7.143      38.94      40.91
+  15       -7.113      29.56      30.34
+  16       -6.969      39.76      41.24
+  17       -6.659      11.57       13.2
+  18       -6.568      11.88      13.44
+  19       -6.565      29.69      30.21
+  20       -6.549      11.77      13.39
+==============================================================
+
+Performing docking simulation...████████████████▎                                                            | 1/3 [00:12<00:25, 12.93s/it]
+
+RECEPTOR: 7LEU <---> LIGAND: 97214
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 191.628 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -8.172          0          0
+   2       -7.235      2.301      6.734
+   3       -7.208      40.72      42.38
+   4       -7.086      2.803      4.624
+   5       -7.036      40.95      42.69
+   6       -7.019      28.26      30.84
+   7        -6.95      3.348      5.145
+   8       -6.913      30.45      32.31
+   9       -6.714      18.58      20.57
+  10        -6.67      22.23      23.99
+  11       -6.662      18.37      20.37
+  12       -6.534      33.11      35.07
+  13       -6.483      18.08      20.63
+  14       -6.468      22.44      23.63
+  15       -6.459      19.91      21.92
+  16       -6.449      29.15      31.79
+  17       -6.439      24.23      25.31
+  18       -6.412       27.8      29.69
+  19       -6.359      17.22      19.49
+  20       -6.347      33.81      35.65
+==============================================================
+
+Performing docking simulation...██████████████████████████████████████████████▋                              | 2/3 [00:51<00:27, 27.93s/it]
+
+RECEPTOR: 7LEU <---> LIGAND: 119034
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 221.838 (kcal/mol)
+Performing local search ... done.
+Score after minimization : -0.901 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1        -10.3          0          0
+   2       -10.26      1.149      5.768
+   3       -10.18      3.325      7.659
+   4       -10.12         18      19.54
+   5       -10.12      1.047      2.563
+   6       -10.08      24.52      25.75
+   7       -9.985      17.04      20.47
+   8       -9.973      17.53      20.38
+   9       -9.924      2.597          7
+  10       -9.596      27.92      29.53
+  11       -9.587      56.43      59.43
+  12       -9.553      52.68      53.55
+  13       -9.543      2.672      4.363
+  14       -9.496      10.91      12.47
+  15       -9.478      16.74      19.75
+  16       -9.422      15.28       17.8
+  17       -9.357      19.66      20.59
+  18       -9.356      47.76      50.18
+  19       -9.343      35.41      39.41
+  20       -9.326       20.5      21.46
+==============================================================
+receptor loop:  12%|██████████▍                                                                             | 5/42 [04:58<38:37, 62.63s/it]
+Performing docking simulation...                                                                                     | 0/3 [00:00<?, ?it/s]
+
+RECEPTOR: 7LO7 <---> LIGAND: 97214
+
+no pdb files for  7LO7
+Error: file dataset/processed/pdbqt/receptor/7LO7.pdbqt does not exist.
+
+Performing docking simulation...
+
+RECEPTOR: 7LO7 <---> LIGAND: 5280666
+
+no pdb files for  7LO7
+Error: file dataset/processed/pdbqt/receptor/7LO7.pdbqt does not exist.
+
+Performing docking simulation...
+
+RECEPTOR: 7LO7 <---> LIGAND: 5281607
+
+no pdb files for  7LO7
+Error: file dataset/processed/pdbqt/receptor/7LO7.pdbqt does not exist.
+
+Performing docking simulation...                                                                                     | 0/2 [00:00<?, ?it/s]
+
+RECEPTOR: 7MHY <---> LIGAND: 11988279
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0009131          0          0
+   2    -0.0008453       35.3      36.68
+   3    -0.0003114      30.28      33.11
+   4    -0.0003075      51.09      54.05
+   5    -9.625e-05      65.51       67.1
+   6            0      21.98      23.47
+   7    2.693e-06      55.08      56.69
+   8     0.005186       21.3      22.86
+   9      0.00673      38.39      40.93
+  10     0.007206      19.43      20.96
+  11     0.007208      36.14      39.53
+  12     0.008019      30.58      31.94
+  13     0.008232      40.24       41.8
+  14     0.008803      21.58       23.3
+  15     0.008806      51.25      53.56
+  16     0.008919      56.11       57.6
+  17       0.0117      42.52      45.38
+  18       0.0121      31.51      33.51
+  19      0.01409      60.41      62.02
+  20       0.0143      30.81      35.47
+==============================================================
+
+Performing docking simulation...███████████████████████████████▌                                             | 1/2 [00:31<00:31, 31.59s/it]
+
+RECEPTOR: 7MHY <---> LIGAND: 119034
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0006633          0          0
+   2    -0.0006633      31.68      33.35
+   3    -0.0006633      28.31      30.77
+   4            0      40.28      43.28
+   5     0.002517       17.1      20.95
+   6     0.002517      31.71      32.74
+   7     0.002517      42.14       42.9
+   8     0.002517       14.5      15.71
+   9     0.002518       34.3      36.02
+  10     0.002518      23.68      25.14
+  11     0.002518      36.92      38.41
+  12     0.002518      15.29      17.82
+  13     0.002634      35.94      37.02
+  14     0.002634      21.77      25.04
+  15      0.00266      16.21      18.08
+  16      0.00266      23.86      25.21
+  17     0.002663      24.21      26.44
+  18     0.002663      40.34      41.85
+  19     0.007897      33.51      37.42
+  20      0.01108      21.31      22.95
+==============================================================
+receptor loop:  17%|██████████████▋                                                                         | 7/42 [06:20<30:58, 53.10s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7MPA <---> LIGAND: 10364
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 95.28 (kcal/mol)
+Performing local search ... done.
+Score after minimization : -2.26 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -4.833          0          0
+   2       -4.833      1.206      3.006
+   3       -4.793      1.608      3.173
+   4       -4.571      30.26      31.39
+   5       -4.486      1.498      3.064
+   6       -4.456      2.025       3.45
+   7       -4.437      1.422      2.345
+   8       -4.432      2.066      2.842
+   9       -4.329      30.22      31.64
+  10       -4.308       26.8      27.79
+  11       -4.262      26.53      27.94
+  12       -4.227      4.571      6.194
+  13       -4.222      1.919      2.667
+  14       -4.198      28.67      30.23
+  15       -4.146      16.02      17.79
+  16       -4.111      28.89      30.52
+  17       -4.105      4.638      5.868
+  18       -4.093      28.32      29.78
+  19       -4.084      1.687      2.285
+  20       -4.057      26.82      27.63
+==============================================================
+receptor loop:  19%|████████████████▊                                                                       | 8/42 [06:23<23:22, 41.25s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7MTA <---> LIGAND: 119034
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0006633          0          0
+   2    -0.0006633      31.68      33.35
+   3    -0.0006633      28.31      30.77
+   4            0      40.28      43.28
+   5     0.002517       17.1      20.95
+   6     0.002517      31.71      32.74
+   7     0.002517      42.14       42.9
+   8     0.002517       14.5      15.71
+   9     0.002518       34.3      36.02
+  10     0.002518      23.68      25.14
+  11     0.002518      36.92      38.41
+  12     0.002518      15.29      17.82
+  13     0.002634      35.94      37.02
+  14     0.002634      21.77      25.04
+  15      0.00266      16.21      18.08
+  16      0.00266      23.86      25.21
+  17     0.002663      24.21      26.44
+  18     0.002663      40.34      41.85
+  19     0.007897      33.51      37.42
+  20      0.01108      21.31      22.95
+==============================================================
+receptor loop:  21%|██████████████████▊                                                                     | 9/42 [07:13<23:54, 43.47s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7OBM <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -9.305          0          0
+   2       -9.285      2.412       3.21
+   3       -9.003      3.105      4.591
+   4       -8.941      2.596      3.562
+   5       -8.932      3.501      5.386
+   6       -8.497      21.02      22.75
+   7       -8.331      21.14      22.53
+   8       -8.222      2.857      4.788
+   9       -8.056      26.42      27.28
+  10       -7.979      2.571      4.628
+  11       -7.925       10.8      12.95
+  12       -7.919      21.13      22.57
+  13       -7.903      10.92      13.55
+  14       -7.892      25.96      28.01
+  15       -7.832      9.617      12.61
+  16       -7.819      10.15      12.19
+  17       -7.777      20.68      23.17
+  18        -7.71      21.21      22.64
+  19        -7.62       25.5      27.38
+  20       -7.561      22.69      23.33
+==============================================================
+receptor loop:  24%|████████████████████▋                                                                  | 10/42 [07:31<19:32, 36.64s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7OXQ <---> LIGAND: 689043
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -5.035          0          0
+   2       -4.825     0.9948      4.136
+   3       -4.707      27.51      27.95
+   4       -4.685      29.22      29.68
+   5       -4.308      9.768      10.57
+   6       -4.293      14.89      15.79
+   7       -4.261      15.18      16.13
+   8       -4.172      15.79      16.75
+   9       -4.066      14.95      16.14
+  10       -4.013      16.05      17.36
+  11       -3.874         13       14.2
+  12        -3.84      21.02      22.08
+  13       -3.771      21.46      22.61
+  14       -3.752      13.78      14.84
+  15       -3.739      7.324      8.746
+  16       -3.728      13.27      15.07
+  17       -3.668       9.45      9.847
+  18       -3.658      13.22      14.68
+  19       -3.599      9.159      10.41
+  20       -3.581      20.38      21.12
+==============================================================
+receptor loop:  26%|██████████████████████▊                                                                | 11/42 [07:46<15:57, 30.88s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7PED <---> LIGAND: 2519
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -6.805          0          0
+   2       -6.741      1.097      2.176
+   3       -6.711     0.6725      2.501
+   4       -6.699      1.286      2.942
+   5       -6.688      1.163      2.535
+   6       -5.843       2.06      2.322
+   7        -5.75      1.379      2.939
+   8       -5.376       2.01      3.681
+   9       -5.363      1.626      2.205
+  10       -5.333      10.78      12.12
+  11       -5.264       11.1      12.68
+  12       -5.254      13.22      14.54
+  13       -5.182      14.94      16.35
+  14       -5.149      12.99      14.28
+  15       -5.143      2.365      2.462
+  16       -5.072      13.65      15.25
+  17       -5.031      15.27      16.94
+  18       -5.021      12.23      12.62
+  19       -4.873      15.14      16.37
+  20       -4.846      16.53      17.19
+==============================================================
+receptor loop:  29%|████████████████████████▊                                                              | 12/42 [07:53<11:57, 23.92s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7PLS <---> LIGAND: 10207
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0001256          0          0
+   2    -0.0001256      42.55      43.33
+   3    -0.0001256      39.82      41.21
+   4    -0.0001256      58.96      60.22
+   5    -0.0001256       53.1      54.48
+   6            0      53.37       54.5
+   7            0      38.78      40.36
+   8            0      51.28      52.96
+   9            0      31.18      33.12
+  10            0      46.23      46.94
+  11            0       37.4       38.6
+  12            0      27.24      28.77
+  13            0      31.88      32.95
+  14            0      37.84      39.16
+  15            0      29.84      30.67
+  16            0      57.41      57.99
+  17            0      40.55      43.14
+  18            0      10.01      11.39
+  19            0      36.79      38.65
+  20    7.397e-05       34.7      35.49
+==============================================================
+receptor loop:  31%|██████████████████████████▉                                                            | 13/42 [08:08<10:24, 21.55s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7PPZ <---> LIGAND: 1990
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -4.316          0          0
+   2       -4.279      13.13      13.38
+   3       -4.221      1.806      2.112
+   4       -3.934      14.98       15.4
+   5       -3.878      18.29      18.37
+   6       -3.812      26.65      26.83
+   7       -3.791      20.52      20.99
+   8       -3.785      21.26      21.49
+   9       -3.723      25.58      25.87
+  10       -3.713      29.67      29.88
+  11       -3.692      18.93      19.01
+  12       -3.671      13.07      13.33
+  13       -3.637      32.94       33.2
+  14       -3.616      37.66      37.96
+  15       -3.591      11.58      11.68
+  16       -3.546      24.46      24.64
+  17       -3.492      15.52      15.64
+  18       -3.453      36.34      36.83
+  19       -3.395      35.37      35.59
+  20        -3.38      19.92      20.04
+==============================================================
+receptor loop:  33%|█████████████████████████████                                                          | 14/42 [08:20<08:40, 18.60s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7PQG <---> LIGAND: 11988279
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0009131          0          0
+   2    -0.0008453       35.3      36.68
+   3    -0.0003114      30.28      33.11
+   4    -0.0003075      51.09      54.05
+   5    -9.625e-05      65.51       67.1
+   6            0      21.98      23.47
+   7    2.693e-06      55.08      56.69
+   8     0.005186       21.3      22.86
+   9      0.00673      38.39      40.93
+  10     0.007206      19.43      20.96
+  11     0.007208      36.14      39.53
+  12     0.008019      30.58      31.94
+  13     0.008232      40.24       41.8
+  14     0.008803      21.58       23.3
+  15     0.008806      51.25      53.56
+  16     0.008919      56.11       57.6
+  17       0.0117      42.52      45.38
+  18       0.0121      31.51      33.51
+  19      0.01409      60.41      62.02
+  20       0.0143      30.81      35.47
+==============================================================
+receptor loop:  36%|███████████████████████████████                                                        | 15/42 [08:51<10:03, 22.37s/it]
+Performing docking simulation...                                                                                     | 0/2 [00:00<?, ?it/s]
+
+RECEPTOR: 7QK9 <---> LIGAND: 97214
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 10.138 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -9.255          0          0
+   2       -9.016      19.66       21.8
+   3       -8.916      19.36      21.64
+   4       -8.915      17.08      18.88
+   5       -8.885      31.51      33.41
+   6       -8.885      19.62      20.83
+   7        -8.84      18.92      21.07
+   8       -8.826      1.138      5.744
+   9       -8.824      19.36         21
+  10       -8.736      19.36      20.92
+  11       -8.702      14.06      15.77
+  12       -8.693      18.35      20.17
+  13       -8.683      15.13       17.2
+  14        -8.62      15.94       17.8
+  15        -8.58      14.71      16.44
+  16       -8.551      15.23      17.06
+  17        -8.53      33.61      35.57
+  18       -8.526      15.17         17
+  19        -8.48      14.26      16.36
+  20       -8.348       36.3      38.76
+==============================================================
+
+Performing docking simulation...███████████████████████████████▌                                             | 1/2 [00:45<00:45, 45.80s/it]
+
+RECEPTOR: 7QK9 <---> LIGAND: 2519
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: -0.316 (kcal/mol)
+Performing local search ... done.
+Score after minimization : -1.774 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -6.266          0          0
+   2       -6.248       1.17      2.683
+   3       -6.096      1.233      3.072
+   4       -6.072      1.334      1.959
+   5       -6.045      1.331      2.414
+   6       -5.958      12.97      14.28
+   7       -5.608      13.33      14.59
+   8       -5.496       20.1      21.64
+   9       -5.427       15.1      15.67
+  10       -5.419      15.02      15.61
+  11       -5.415      12.13      12.62
+  12       -5.404      15.09      15.79
+  13       -5.377      25.34      26.67
+  14       -5.374      15.28         16
+  15       -5.328      35.74      36.92
+  16       -5.326      15.06      16.02
+  17       -5.321      35.88      37.42
+  18       -5.306      15.14      15.83
+  19        -5.28       35.7      36.77
+  20       -5.277      23.06       24.3
+==============================================================
+receptor loop:  38%|█████████████████████████████████▏                                                     | 16/42 [09:51<14:30, 33.46s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7QNA <---> LIGAND: 5281600
+
+no pdb files for  7QNA
+Error: file dataset/processed/pdbqt/receptor/7QNA.pdbqt does not exist.
+
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7R0C <---> LIGAND: 5281600
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0003296          0          0
+   2    -0.0003256      40.72      44.94
+   3    -1.894e-06      46.31      48.24
+   4    -1.403e-06      60.38      63.85
+   5            0      35.79      38.47
+   6            0      57.03      61.15
+   7    3.354e-07      72.52      74.93
+   8    1.323e-06      62.64      65.85
+   9     8.14e-05      64.56       66.5
+  10    0.0001518       37.1      41.06
+  11     0.002508      50.47      53.67
+  12     0.002583      21.58      24.52
+  13      0.00259      53.75      59.03
+  14     0.002978      46.41      50.03
+  15     0.003021      21.93      25.49
+  16     0.003024      17.38      20.28
+  17     0.003024      45.61      48.51
+  18     0.003028      53.82      56.31
+  19     0.003029      14.41      17.44
+  20     0.003174      29.67      32.95
+==============================================================
+receptor loop:  43%|█████████████████████████████████████▎                                                 | 18/42 [15:02<35:43, 89.31s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7R8B <---> LIGAND: 2519
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0      25.91      27.42
+   3            0      66.67      67.37
+   4            0       67.2      67.88
+   5            0      66.89      67.52
+   6            0       65.2      65.84
+   7            0      66.54      67.22
+   8            0      65.09      65.73
+   9            0      66.23      66.92
+  10            0      4.816      6.339
+  11            0      64.17      64.86
+  12            0      1.622      2.004
+  13            0      5.044      5.921
+  14            0      2.614      3.466
+  15            0        3.2      4.162
+  16            0      2.318      2.886
+  17            0      25.89      27.09
+  18            0       28.6      30.22
+  19            0      67.84      68.56
+  20            0      27.55      29.06
+==============================================================
+receptor loop:  45%|███████████████████████████████████████▎                                               | 19/42 [15:05<26:03, 67.96s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7RB3 <---> LIGAND: 10207
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 213.585 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -8.602          0          0
+   2        -8.53     0.8508      2.291
+   3       -8.444      62.13      63.71
+   4       -8.327     0.9341       3.87
+   5       -8.322      62.12      63.81
+   6       -8.226      62.17      63.74
+   7       -8.058      62.23      63.85
+   8       -8.042      32.36      34.55
+   9       -7.882      62.24      63.98
+  10       -7.802      32.27      34.55
+  11       -7.766      26.17      27.09
+  12       -7.761       25.9      28.17
+  13       -7.721      27.04      29.59
+  14       -7.705      26.13      28.62
+  15       -7.681      50.86      52.35
+  16       -7.629      26.17      28.11
+  17       -7.606      26.09      28.86
+  18       -7.557      40.67      43.52
+  19       -7.459      25.61      27.26
+  20       -7.405       62.9      63.95
+==============================================================
+receptor loop:  48%|█████████████████████████████████████████▍                                             | 20/42 [15:25<20:21, 55.52s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7SIC <---> LIGAND: 2519
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0      25.91      27.42
+   3            0      66.67      67.37
+   4            0       67.2      67.88
+   5            0      66.89      67.52
+   6            0       65.2      65.84
+   7            0      66.54      67.22
+   8            0      65.09      65.73
+   9            0      66.23      66.92
+  10            0      4.816      6.339
+  11            0      64.17      64.86
+  12            0      1.622      2.004
+  13            0      5.044      5.921
+  14            0      2.614      3.466
+  15            0        3.2      4.162
+  16            0      2.318      2.886
+  17            0      25.89      27.09
+  18            0       28.6      30.22
+  19            0      67.84      68.56
+  20            0      27.55      29.06
+==============================================================
+receptor loop:  50%|███████████████████████████████████████████▌                                           | 21/42 [15:27<14:24, 41.18s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7SJT <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 88.799 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1        -8.45          0          0
+   2        -8.02      1.681      2.792
+   3       -7.901      1.769      4.601
+   4       -7.822      10.36      11.32
+   5       -7.409      2.936      4.688
+   6        -7.37      2.059       3.43
+   7        -7.36      10.07      10.49
+   8       -7.356      32.31      33.91
+   9       -7.332      18.54      19.74
+  10       -7.325      1.479       4.84
+  11       -7.231       29.6      30.87
+  12       -7.121      32.59       34.1
+  13        -7.09      18.48      19.79
+  14       -7.047      23.73      24.56
+  15       -7.008      10.82      11.22
+  16       -6.956      30.03       31.4
+  17       -6.949      18.01      19.48
+  18       -6.917      18.89      19.78
+  19       -6.846      17.48      18.93
+  20       -6.771      3.499      5.087
+==============================================================
+receptor loop:  52%|█████████████████████████████████████████████▌                                         | 22/42 [15:41<11:07, 33.38s/it]
+Performing docking simulation...                                                                                     | 0/3 [00:00<?, ?it/s]
+
+RECEPTOR: 7TPQ <---> LIGAND: 5316673
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0      54.67      56.73
+   3            0         66      68.32
+   4    0.0002481      34.49       37.8
+   5    0.0002542      91.61      94.72
+   6    0.0002542      70.11      71.79
+   7    0.0008798      7.127      10.43
+   8    0.0008798      60.34      63.07
+   9    0.0008798      56.57      58.97
+  10    0.0008798      34.25      36.91
+  11     0.001134      20.86      22.56
+  12     0.001733      50.69      53.64
+  13     0.001733      79.47      81.02
+  14     0.001733      36.83       39.2
+  15     0.001871      51.39      54.82
+  16     0.001871      97.87        101
+  17     0.001871      20.16      21.64
+  18     0.002126      74.07      76.38
+  19     0.002126       57.1      60.37
+  20     0.002126      61.72      65.07
+==============================================================
+
+Performing docking simulation...████████████████                                                            | 1/3 [02:25<04:50, 145.44s/it]
+
+RECEPTOR: 7TPQ <---> LIGAND: 157395
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.005214          0          0
+   2    -0.004967      47.35      50.41
+   3    -0.004749      25.08      27.67
+   4     -0.00467      38.66      42.83
+   5    -0.003158      22.68      25.93
+   6    -0.003116       67.3      70.62
+   7    -0.002668      40.26      44.65
+   8    -0.002592      42.28       45.3
+   9    -0.0009124      30.06      33.58
+  10            0      59.72      64.16
+  11    2.503e-06      72.03      74.56
+  12    0.0002297      40.59      45.16
+  13    0.0003151      28.51      31.41
+  14     0.000468      56.36      61.32
+  15    0.0004717      55.61      59.61
+  16    0.0005746      42.81      45.44
+  17    0.0007733      64.75      68.93
+  18    0.0007772      24.99      29.45
+  19    0.0008316      45.36       49.6
+  20    0.0009598      50.32      53.18
+==============================================================
+
+Performing docking simulation...█████████████████████████████████████████████▎                             | 2/3 [30:25<17:27, 1047.91s/it]
+
+RECEPTOR: 7TPQ <---> LIGAND: 1203
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0       57.9      59.87
+   3            0      50.37      51.63
+   4            0      60.03      62.04
+   5            0      57.28      59.08
+   6            0      54.49      56.67
+   7            0       75.5      77.32
+   8            0      73.85      76.35
+   9            0      55.17      57.52
+  10            0      34.56      35.69
+  11            0      78.97      81.49
+  12            0      22.71      24.18
+  13            0      63.39       65.4
+  14            0      62.22      63.78
+  15            0      57.74      58.98
+  16            0       13.7      16.81
+  17            0      31.21      32.76
+  18            0      50.46      53.58
+  19            0      64.76       66.1
+  20      0.01092      66.52      67.46
+==============================================================
+receptor loop:  55%|██████████████████████████████████████████████                                      | 23/42 [46:17<2:53:22, 547.48s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7TRO <---> LIGAND: 13250
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 92.987 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -5.281          0          0
+   2       -5.193      2.302      3.753
+   3       -5.175      25.34      27.26
+   4       -5.102      1.569       2.28
+   5        -4.91      47.82      48.58
+   6       -4.904      1.335      3.921
+   7       -4.902      1.699      3.837
+   8       -4.853      12.99      14.71
+   9       -4.848      24.66      25.67
+  10       -4.826      35.45      35.99
+  11       -4.821      24.53      25.97
+  12       -4.813       33.6      34.05
+  13       -4.788      47.93      49.32
+  14        -4.78      25.65      26.24
+  15       -4.768       20.2      20.98
+  16       -4.761         29       30.4
+  17        -4.75      24.51      25.69
+  18       -4.735      25.78      27.36
+  19       -4.702      8.842      10.78
+  20       -4.694      17.88         19
+==============================================================
+receptor loop:  57%|████████████████████████████████████████████████                                    | 24/42 [46:26<1:57:28, 391.56s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7TX6 <---> LIGAND: 11988279
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0009131          0          0
+   2    -0.0008453       35.3      36.68
+   3    -0.0003114      30.28      33.11
+   4    -0.0003075      51.09      54.05
+   5    -9.625e-05      65.51       67.1
+   6            0      21.98      23.47
+   7    2.693e-06      55.08      56.69
+   8     0.005186       21.3      22.86
+   9      0.00673      38.39      40.93
+  10     0.007206      19.43      20.96
+  11     0.007208      36.14      39.53
+  12     0.008019      30.58      31.94
+  13     0.008232      40.24       41.8
+  14     0.008803      21.58       23.3
+  15     0.008806      51.25      53.56
+  16     0.008919      56.11       57.6
+  17       0.0117      42.52      45.38
+  18       0.0121      31.51      33.51
+  19      0.01409      60.41      62.02
+  20       0.0143      30.81      35.47
+==============================================================
+receptor loop:  60%|██████████████████████████████████████████████████                                  | 25/42 [47:05<1:21:42, 288.36s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7UM4 <---> LIGAND: 5281600
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: -0.901 (kcal/mol)
+Performing local search ... done.
+Score after minimization : -0.901 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -10.87          0          0
+   2       -10.87     0.7303      1.571
+   3       -10.79      3.426      5.044
+   4       -10.65      2.847      5.265
+   5       -10.45      1.475      3.731
+   6       -10.39      3.177      7.239
+   7       -10.37      2.625      5.093
+   8       -10.37      2.858      4.649
+   9       -10.34      2.291      4.241
+  10       -10.34      1.607      3.678
+  11       -10.29      1.462      3.659
+  12       -10.26       4.09      7.841
+  13        -10.2      2.145      2.721
+  14       -10.18      23.67      26.03
+  15       -10.18      2.671       5.99
+  16        -10.1      11.72      14.49
+  17       -10.02      3.143      6.253
+  18          -10      2.764      7.005
+  19       -9.995      2.316      4.544
+  20       -9.982      2.802      6.616
+==============================================================
+receptor loop:  62%|████████████████████████████████████████████████████                                | 26/42 [49:18<1:04:41, 242.61s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7UW6 <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 146.148 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -7.541          0          0
+   2       -7.511      1.009      2.363
+   3       -7.379      18.98      20.11
+   4        -7.05       23.7      25.64
+   5       -7.043      19.03      20.15
+   6       -6.989      3.145      6.062
+   7       -6.984      10.32      12.98
+   8       -6.937      3.123      6.077
+   9       -6.724       17.5      19.05
+  10       -6.608      23.91      26.04
+  11       -6.563      26.26      27.05
+  12        -6.56      1.217      2.315
+  13       -6.537      10.25      12.36
+  14       -6.511      10.82      13.43
+  15       -6.483      23.98      26.12
+  16       -6.406      17.51      19.38
+  17       -6.386      25.77      26.68
+  18       -6.285      25.61      26.79
+  19       -6.271      25.77      26.53
+  20       -6.248      18.65      20.33
+==============================================================
+receptor loop:  64%|███████████████████████████████████████████████████████▎                              | 27/42 [49:30<43:36, 174.44s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7VLN <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -9.971          0          0
+   2       -9.302       2.37      4.999
+   3       -9.119      16.29      17.62
+   4       -9.033      18.75      20.44
+   5       -8.952      2.586       5.38
+   6        -8.93      21.19      22.86
+   7       -8.762       1.43      1.894
+   8       -8.567      16.36      18.19
+   9       -8.534         18      19.63
+  10       -8.463      21.77      22.71
+  11       -8.456      1.443      2.223
+  12       -8.415      2.372      4.769
+  13       -8.396      17.26      18.74
+  14       -8.105      21.99      22.66
+  15         -8.1      16.73      18.35
+  16       -7.838      2.799      3.532
+  17       -7.705      21.77      23.22
+  18       -7.644       21.7      22.82
+  19       -7.013      3.492      6.266
+  20       -6.966      24.06      24.61
+==============================================================
+receptor loop:  67%|█████████████████████████████████████████████████████████▎                            | 28/42 [49:44<29:34, 126.73s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7VOE <---> LIGAND: 34458
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0      50.21      52.46
+   3            0      66.66      67.46
+   4    0.0001705      35.75      37.62
+   5     0.002188      30.96       33.1
+   6     0.002188      29.82      31.98
+   7     0.002353       21.5      23.05
+   8     0.002353      59.14      59.93
+   9     0.002353      49.29      51.98
+  10     0.002353       34.8      37.33
+  11     0.002358      34.22      34.82
+  12     0.002358       37.5      41.05
+  13     0.002358      59.01      61.72
+  14     0.002358      51.51      53.14
+  15     0.002358      36.48      38.65
+  16     0.002358      28.55      31.14
+  17     0.002358      57.98      59.47
+  18     0.002358      42.82      43.45
+  19     0.002358      61.69      63.43
+  20     0.002358      29.17      31.07
+==============================================================
+receptor loop:  69%|████████████████████████████████████████████████████████████                           | 29/42 [49:51<19:41, 90.88s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7VRK <---> LIGAND: 2519
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -3.628          0          0
+   2       -3.444      1.294      3.501
+   3       -3.244      2.245      3.365
+   4       -3.227      1.907      3.766
+   5       -3.185      3.139       4.72
+   6       -3.111      2.624      3.516
+   7       -3.038      3.012       4.12
+   8       -3.003      3.325      5.171
+   9       -2.872      4.626      6.286
+  10        -2.73      3.377      4.815
+  11       -2.699      3.561      5.133
+  12       -2.563      10.12      11.26
+  13       -2.553      4.197      5.651
+  14        -2.55      9.834      11.42
+  15       -2.436      9.923      10.76
+  16       -2.333      10.47       11.4
+  17       -2.284      6.525      7.863
+  18       -2.177      6.323      7.474
+  19       -1.879      10.14      11.31
+  20       -1.733      3.001      4.761
+==============================================================
+receptor loop:  71%|██████████████████████████████████████████████████████████████▏                        | 30/42 [49:53<12:51, 64.30s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 7W6P <---> LIGAND: 5281600
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0003296          0          0
+   2    -0.0003256      40.72      44.94
+   3    -1.894e-06      46.31      48.24
+   4    -1.403e-06      60.38      63.85
+   5            0      35.79      38.47
+   6            0      57.03      61.15
+   7    3.354e-07      72.52      74.93
+   8    1.323e-06      62.64      65.85
+   9     8.14e-05      64.56       66.5
+  10    0.0001518       37.1      41.06
+  11     0.002508      50.47      53.67
+  12     0.002583      21.58      24.52
+  13      0.00259      53.75      59.03
+  14     0.002978      46.41      50.03
+  15     0.003021      21.93      25.49
+  16     0.003024      17.38      20.28
+  17     0.003024      45.61      48.51
+  18     0.003028      53.82      56.31
+  19     0.003029      14.41      17.44
+  20     0.003174      29.67      32.95
+==============================================================
+receptor loop:  74%|███████████████████████████████████████████████████████████████▍                      | 31/42 [55:09<25:37, 139.76s/it]
+Performing docking simulation...                                                                                     | 0/2 [00:00<?, ?it/s]
+
+RECEPTOR: 7WFC <---> LIGAND: 5280666
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: -0.126 (kcal/mol)
+Performing local search ... done.
+Score after minimization : -0.126 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -9.184          0          0
+   2       -8.912      1.723        5.4
+   3        -8.89      1.726      5.891
+   4       -8.831      1.283      2.265
+   5       -8.721      2.469      4.876
+   6       -8.662      1.287      5.424
+   7       -8.384      0.978      5.221
+   8       -8.153      19.29      20.78
+   9        -7.97      1.483      2.143
+  10       -7.951      17.49       18.7
+  11       -7.938      18.85      20.36
+  12       -7.895       2.81      4.212
+  13       -7.882      2.178      3.735
+  14       -7.788      3.289      7.497
+  15       -7.524      24.72      26.43
+  16       -7.515      3.833        5.9
+  17       -7.404      28.61      29.94
+  18       -7.353       4.51      6.971
+  19       -7.275      18.63      20.25
+  20       -7.246      3.235      7.073
+==============================================================
+
+Performing docking simulation...███████████████████████████████▌                                             | 1/2 [00:37<00:37, 37.34s/it]
+
+RECEPTOR: 7WFC <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: -0.189 (kcal/mol)
+Performing local search ... done.
+Score after minimization : -0.262 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -9.515          0          0
+   2       -9.334      24.25      26.11
+   3       -9.123      1.373      4.459
+   4       -9.059      23.06      24.77
+   5       -9.028      23.92      25.63
+   6       -8.943      23.02      24.41
+   7       -8.331      39.13       40.1
+   8       -8.284      38.86      39.92
+   9       -8.276      38.71      39.72
+  10       -8.157      44.98      46.33
+  11       -8.105      22.73      24.61
+  12       -7.982      24.32      25.67
+  13       -7.819      23.03      24.31
+  14       -7.576      21.69      23.13
+  15       -7.539      15.18      16.48
+  16       -7.387         22      23.25
+  17        -7.34      20.96      22.51
+  18       -7.266      19.19      20.44
+  19       -7.249      23.83      24.81
+  20       -7.216      21.54      22.92
+==============================================================
+receptor loop:  76%|█████████████████████████████████████████████████████████████████▌                    | 32/42 [56:03<19:01, 114.12s/it]
+Performing docking simulation...                                                                                     | 0/3 [00:00<?, ?it/s]
+
+RECEPTOR: 7WKZ <---> LIGAND: 34458
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 253.401 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1        -10.3          0          0
+   2       -9.957      13.21      16.68
+   3       -9.604      1.086      5.533
+   4       -9.586      1.103      5.853
+   5       -9.469      1.172       6.09
+   6       -9.364      11.28      13.45
+   7       -9.348      3.555      6.339
+   8       -9.324      39.16       40.4
+   9       -9.239      11.76      13.71
+  10       -9.215      61.52      62.01
+  11       -9.207      38.99      39.95
+  12       -9.203      40.84      42.18
+  13       -9.147      11.02      12.95
+  14        -9.14      11.26      12.94
+  15         -9.1      11.69      14.74
+  16        -9.02      62.48      62.88
+  17       -8.994      3.758      7.018
+  18       -8.989      35.87      38.22
+  19       -8.966      4.681       6.86
+  20       -8.965      1.728      6.065
+==============================================================
+
+Performing docking simulation...████████████████▎                                                            | 1/3 [00:23<00:47, 23.54s/it]
+
+RECEPTOR: 7WKZ <---> LIGAND: 5281600
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 292.679 (kcal/mol)
+Performing local search ... done.
+Score after minimization : -0.236 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -12.26          0          0
+   2       -12.22      27.06      29.76
+   3       -12.16      13.66      16.38
+   4       -12.14      13.83      17.02
+   5       -12.14      48.63      51.11
+   6       -12.13      48.79      50.58
+   7       -11.98      2.202      3.549
+   8       -11.96      27.16      30.09
+   9       -11.95      48.49      51.48
+  10       -11.88      1.387      2.266
+  11       -11.87       1.65      3.615
+  12        -11.8      48.55      51.99
+  13       -11.63      1.654      2.606
+  14       -11.62      27.11      29.54
+  15        -11.6      27.47      30.38
+  16       -11.56      48.84      50.18
+  17       -11.38      26.28      29.22
+  18       -11.33      15.23      17.79
+  19       -11.27      27.97      30.62
+  20       -11.02      27.71      29.94
+==============================================================
+
+Performing docking simulation...██████████████████████████████████████████████▋                              | 2/3 [02:03<01:08, 68.71s/it]
+
+RECEPTOR: 7WKZ <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 159.484 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -9.097          0          0
+   2       -8.987      17.42      18.16
+   3       -8.872      48.19      49.65
+   4       -8.869      63.79      65.59
+   5       -8.869      1.647      4.615
+   6       -8.849      49.25       50.5
+   7       -8.819      41.69      43.27
+   8       -8.797      60.92       62.1
+   9       -8.761      14.24      16.24
+  10        -8.76      41.02      44.08
+  11       -8.704      60.85      61.44
+  12       -8.664      40.26      43.14
+  13       -8.652      64.88       65.4
+  14       -8.632     0.9566      2.088
+  15       -8.597      61.14      61.65
+  16       -8.519      16.27      18.35
+  17       -8.487      56.38      58.33
+  18       -8.476         56      57.59
+  19       -8.476      64.24      65.16
+  20       -8.454      48.67      50.33
+==============================================================
+receptor loop:  79%|███████████████████████████████████████████████████████████████████▌                  | 33/42 [58:32<18:39, 124.41s/it]
+Performing docking simulation...                                                                                     | 0/2 [00:00<?, ?it/s]
+
+RECEPTOR: 7YXC <---> LIGAND: 97214
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 53.194 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -8.413          0          0
+   2       -7.786      1.557      2.391
+   3       -7.524       1.46      2.324
+   4       -7.365      2.604      5.915
+   5       -7.303      24.39      26.42
+   6        -7.14      23.64      25.64
+   7       -7.056      1.872      6.291
+   8       -7.033      23.35         27
+   9       -6.855      14.44      16.21
+  10        -6.83      21.62      23.54
+  11       -6.737      25.43      27.79
+  12       -6.711      14.41      16.05
+  13       -6.668      24.73      26.47
+  14       -6.667         24       27.3
+  15       -6.663      14.39      15.93
+  16        -6.65      16.31      17.56
+  17       -6.596       24.9      26.49
+  18       -6.582      25.58      26.61
+  19       -6.564      22.91      25.76
+  20        -6.52      9.847      10.92
+==============================================================
+
+Performing docking simulation...███████████████████████████████▌                                             | 1/2 [00:41<00:41, 41.42s/it]
+
+RECEPTOR: 7YXC <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 66.944 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -8.293          0          0
+   2       -8.251      1.284       2.47
+   3       -7.984      2.019      3.999
+   4       -7.923      2.363       4.71
+   5       -7.805      2.446      3.753
+   6        -7.73         24      25.94
+   7       -7.655      23.29      24.53
+   8       -7.606      23.54      24.88
+   9       -7.529      1.443      4.924
+  10       -7.473      23.63      24.68
+  11       -7.306       23.3      24.49
+  12       -7.053      22.46      23.81
+  13       -7.048       1.94      2.533
+  14       -7.002      13.78       15.4
+  15       -6.835      10.16      10.82
+  16       -6.832       2.12      4.387
+  17       -6.814      21.12      21.79
+  18       -6.812      23.74       25.4
+  19       -6.782      13.85      15.36
+  20       -6.764      1.961      4.729
+==============================================================
+receptor loop:  81%|█████████████████████████████████████████████████████████████████████▌                | 34/42 [59:27<13:49, 103.67s/it]
+Performing docking simulation...                                                                                     | 0/4 [00:00<?, ?it/s]
+
+RECEPTOR: 8BHT <---> LIGAND: 97214
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0       50.1      51.34
+   3            0      58.09      59.95
+   4            0      40.68      41.96
+   5            0      74.99      76.13
+   6            0      28.37      29.99
+   7            0      59.91      61.85
+   8            0      29.37      32.13
+   9            0      27.35      31.45
+  10            0      104.6      106.4
+  11            0      13.68      16.61
+  12            0      96.19      97.62
+  13            0      69.04      72.03
+  14            0      21.53      23.19
+  15            0      47.81      49.64
+  16            0      59.08      61.54
+  17            0      59.44      63.04
+  18            0      58.47      60.02
+  19            0      32.49      34.51
+  20            0      77.97      80.69
+==============================================================
+
+Performing docking simulation...████████▊                                                                    | 1/4 [01:03<03:09, 63.10s/it]
+
+RECEPTOR: 8BHT <---> LIGAND: 11988279
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0009131          0          0
+   2    -0.0008453       35.3      36.68
+   3    -0.0003114      30.28      33.11
+   4    -0.0003075      51.09      54.05
+   5    -9.625e-05      65.51       67.1
+   6            0      21.98      23.47
+   7    2.693e-06      55.08      56.69
+   8     0.005186       21.3      22.86
+   9      0.00673      38.39      40.93
+  10     0.007206      19.43      20.96
+  11     0.007208      36.14      39.53
+  12     0.008019      30.58      31.94
+  13     0.008232      40.24       41.8
+  14     0.008803      21.58       23.3
+  15     0.008806      51.25      53.56
+  16     0.008919      56.11       57.6
+  17       0.0117      42.52      45.38
+  18       0.0121      31.51      33.51
+  19      0.01409      60.41      62.02
+  20       0.0143      30.81      35.47
+==============================================================
+
+Performing docking simulation...███████████████████████████████▌                                             | 2/4 [01:39<01:35, 47.68s/it]
+
+RECEPTOR: 8BHT <---> LIGAND: 5280666
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -2.266e-06          0          0
+   2    -2.266e-06      18.77      20.54
+   3    -2.266e-06      35.79      37.69
+   4    -2.266e-06       53.2      54.84
+   5    -2.266e-06      30.01      31.57
+   6    -2.266e-06      29.63      32.15
+   7    -2.266e-06      64.33      65.53
+   8    -2.266e-06      61.61      62.82
+   9    -2.266e-06      2.083      2.359
+  10    -2.266e-06      53.76      55.33
+  11    -2.266e-06      48.23      49.68
+  12    -2.266e-06      50.08      52.25
+  13    -2.266e-06      38.39       39.9
+  14    -2.266e-06      48.93      50.11
+  15    -2.266e-06      37.63      40.92
+  16            0      42.92      46.49
+  17            0      32.48      33.85
+  18      0.01418      64.74      65.93
+  19      0.01437      43.36       45.3
+  20      0.01437      53.35      55.08
+==============================================================
+
+Performing docking simulation...██████████████████████████████████████████████████████▎                      | 3/4 [02:27<00:47, 47.80s/it]
+
+RECEPTOR: 8BHT <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0      49.53      50.34
+   3            0      51.17      51.96
+   4            0      51.25      51.99
+   5            0      10.73      12.11
+   6            0      52.17      52.95
+   7            0      67.21      69.16
+   8            0      34.71      36.01
+   9            0      33.82      35.43
+  10            0      2.291      2.988
+  11            0      63.87      65.89
+  12            0      1.702      2.167
+  13            0      26.83      28.95
+  14            0      38.87      40.02
+  15            0      43.38      44.29
+  16            0      40.17      41.44
+  17            0         51      51.66
+  18            0      22.98      24.08
+  19            0      23.58      24.71
+  20            0      43.02      44.06
+==============================================================
+receptor loop:  83%|██████████████████████████████████████████████████████████████████████              | 35/42 [1:02:09<14:07, 121.10s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 8C6I <---> LIGAND: 689043
+
+no pdb files for  8C6I
+Error: file dataset/processed/pdbqt/receptor/8C6I.pdbqt does not exist.
+
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 8D3F <---> LIGAND: 119034
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -11.41          0          0
+   2       -11.22      24.56      26.26
+   3       -11.04       32.6      34.68
+   4       -11.03      1.051      5.778
+   5       -10.99      25.02      26.79
+   6       -10.91      24.27      26.12
+   7       -10.71      13.65      16.74
+   8       -10.64      1.139      2.641
+   9       -10.58      30.82      32.87
+  10       -10.51      17.08      19.63
+  11        -10.5      1.239      6.281
+  12       -10.18      12.42      15.61
+  13       -10.16      25.48      27.24
+  14       -10.16      13.94         18
+  15       -9.997      24.51      25.55
+  16       -9.946      11.96      13.89
+  17       -9.935      29.23      31.35
+  18       -9.832      12.62      16.16
+  19       -9.828      15.79      19.24
+  20        -9.72      22.63      25.04
+==============================================================
+receptor loop:  88%|██████████████████████████████████████████████████████████████████████████▉          | 37/42 [1:02:49<06:12, 74.53s/it]
+Performing docking simulation...                                                                                     | 0/5 [00:00<?, ?it/s]
+
+RECEPTOR: 8D43 <---> LIGAND: 689043
+
+no pdb files for  8D43
+Error: file dataset/processed/pdbqt/receptor/8D43.pdbqt does not exist.
+
+Performing docking simulation...
+
+RECEPTOR: 8D43 <---> LIGAND: 5280666
+
+no pdb files for  8D43
+Error: file dataset/processed/pdbqt/receptor/8D43.pdbqt does not exist.
+
+Performing docking simulation...
+
+RECEPTOR: 8D43 <---> LIGAND: 1203
+
+no pdb files for  8D43
+Error: file dataset/processed/pdbqt/receptor/8D43.pdbqt does not exist.
+
+Performing docking simulation...
+
+RECEPTOR: 8D43 <---> LIGAND: 13250
+
+no pdb files for  8D43
+Error: file dataset/processed/pdbqt/receptor/8D43.pdbqt does not exist.
+
+Performing docking simulation...
+
+RECEPTOR: 8D43 <---> LIGAND: 5281607
+
+no pdb files for  8D43
+Error: file dataset/processed/pdbqt/receptor/8D43.pdbqt does not exist.
+
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 8EA0 <---> LIGAND: 5281600
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0003296          0          0
+   2    -0.0003256      40.72      44.94
+   3    -1.894e-06      46.31      48.24
+   4    -1.403e-06      60.38      63.85
+   5            0      35.79      38.47
+   6            0      57.03      61.15
+   7    3.354e-07      72.52      74.93
+   8    1.323e-06      62.64      65.85
+   9     8.14e-05      64.56       66.5
+  10    0.0001518       37.1      41.06
+  11     0.002508      50.47      53.67
+  12     0.002583      21.58      24.52
+  13      0.00259      53.75      59.03
+  14     0.002978      46.41      50.03
+  15     0.003021      21.93      25.49
+  16     0.003024      17.38      20.28
+  17     0.003024      45.61      48.51
+  18     0.003028      53.82      56.31
+  19     0.003029      14.41      17.44
+  20     0.003174      29.67      32.95
+==============================================================
+receptor loop:  93%|██████████████████████████████████████████████████████████████████████████████      | 39/42 [1:08:02<05:21, 107.11s/it]
+Performing docking simulation...                                                                                     | 0/3 [00:00<?, ?it/s]
+
+RECEPTOR: 8EF5 <---> LIGAND: 97214
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0       50.1      51.34
+   3            0      58.09      59.95
+   4            0      40.68      41.96
+   5            0      74.99      76.13
+   6            0      28.37      29.99
+   7            0      59.91      61.85
+   8            0      29.37      32.13
+   9            0      27.35      31.45
+  10            0      104.6      106.4
+  11            0      13.68      16.61
+  12            0      96.19      97.62
+  13            0      69.04      72.03
+  14            0      21.53      23.19
+  15            0      47.81      49.64
+  16            0      59.08      61.54
+  17            0      59.44      63.04
+  18            0      58.47      60.02
+  19            0      32.49      34.51
+  20            0      77.97      80.69
+==============================================================
+
+Performing docking simulation...████████████████▎                                                            | 1/3 [01:03<02:07, 63.79s/it]
+
+RECEPTOR: 8EF5 <---> LIGAND: 5280666
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -2.266e-06          0          0
+   2    -2.266e-06      18.77      20.54
+   3    -2.266e-06      35.79      37.69
+   4    -2.266e-06       53.2      54.84
+   5    -2.266e-06      30.01      31.57
+   6    -2.266e-06      29.63      32.15
+   7    -2.266e-06      64.33      65.53
+   8    -2.266e-06      61.61      62.82
+   9    -2.266e-06      2.083      2.359
+  10    -2.266e-06      53.76      55.33
+  11    -2.266e-06      48.23      49.68
+  12    -2.266e-06      50.08      52.25
+  13    -2.266e-06      38.39       39.9
+  14    -2.266e-06      48.93      50.11
+  15    -2.266e-06      37.63      40.92
+  16            0      42.92      46.49
+  17            0      32.48      33.85
+  18      0.01418      64.74      65.93
+  19      0.01437      43.36       45.3
+  20      0.01437      53.35      55.08
+==============================================================
+
+Performing docking simulation...██████████████████████████████████████████████▋                              | 2/3 [01:51<00:54, 54.36s/it]
+
+RECEPTOR: 8EF5 <---> LIGAND: 5281600
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1    -0.0003296          0          0
+   2    -0.0003256      40.72      44.94
+   3    -1.894e-06      46.31      48.24
+   4    -1.403e-06      60.38      63.85
+   5            0      35.79      38.47
+   6            0      57.03      61.15
+   7    3.354e-07      72.52      74.93
+   8    1.323e-06      62.64      65.85
+   9     8.14e-05      64.56       66.5
+  10    0.0001518       37.1      41.06
+  11     0.002508      50.47      53.67
+  12     0.002583      21.58      24.52
+  13      0.00259      53.75      59.03
+  14     0.002978      46.41      50.03
+  15     0.003021      21.93      25.49
+  16     0.003024      17.38      20.28
+  17     0.003024      45.61      48.51
+  18     0.003028      53.82      56.31
+  19     0.003029      14.41      17.44
+  20     0.003174      29.67      32.95
+==============================================================
+receptor loop:  95%|████████████████████████████████████████████████████████████████████████████████    | 40/42 [1:14:40<05:42, 171.40s/it]
+Performing docking simulation...                                                                                     | 0/1 [00:00<?, ?it/s]
+
+RECEPTOR: 8HDO <---> LIGAND: 2519
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1            0          0          0
+   2            0      25.91      27.42
+   3            0      66.67      67.37
+   4            0       67.2      67.88
+   5            0      66.89      67.52
+   6            0       65.2      65.84
+   7            0      66.54      67.22
+   8            0      65.09      65.73
+   9            0      66.23      66.92
+  10            0      4.816      6.339
+  11            0      64.17      64.86
+  12            0      1.622      2.004
+  13            0      5.044      5.921
+  14            0      2.614      3.466
+  15            0        3.2      4.162
+  16            0      2.318      2.886
+  17            0      25.89      27.09
+  18            0       28.6      30.22
+  19            0      67.84      68.56
+  20            0      27.55      29.06
+==============================================================
+receptor loop:  98%|██████████████████████████████████████████████████████████████████████████████████  | 41/42 [1:14:42<02:10, 130.79s/it]
+Performing docking simulation...                                                                                     | 0/2 [00:00<?, ?it/s]
+
+RECEPTOR: 966C <---> LIGAND: 5280666
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -7.986          0          0
+   2       -7.852      1.518      5.495
+   3       -7.815      1.055      5.136
+   4       -7.659      26.49      27.85
+   5       -7.509      1.729      2.123
+   6       -7.497      1.502      4.988
+   7       -7.235      1.741      3.291
+   8       -7.206      24.05      26.58
+   9       -7.182      27.22      28.28
+  10       -7.175       15.1      16.77
+  11        -7.15       24.1      26.64
+  12       -7.065      11.56      13.39
+  13       -7.032      23.67      25.98
+  14       -6.924      22.16      23.22
+  15       -6.868      23.78       26.2
+  16       -6.853      14.63      15.91
+  17       -6.774       22.8      24.25
+  18        -6.73      23.67      26.07
+  19       -6.704      23.55      24.66
+  20       -6.525      23.27      25.07
+==============================================================
+
+Performing docking simulation...███████████████████████████████▌                                             | 1/2 [00:33<00:33, 33.79s/it]
+
+RECEPTOR: 966C <---> LIGAND: 5281607
+
+WARNING: Search space volume is greater than 27000 Angstrom^3 (See FAQ)
+Computing Vina grid ... done.
+Score before minimization: 0.0 (kcal/mol)
+Performing local search ... done.
+Score after minimization : 0.0 (kcal/mol)
+Performing docking (random seed: 42) ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -7.725          0          0
+   2       -7.486      26.33      27.28
+   3       -7.446      1.384      4.397
+   4         -7.3      14.55      15.37
+   5        -7.29      1.051      2.192
+   6       -7.245      26.56      27.69
+   7       -7.224      1.446      2.043
+   8       -7.174      27.62      28.74
+   9       -7.104      11.89      12.82
+  10       -7.077      1.466      4.658
+  11       -7.067      23.73      25.74
+  12       -7.033      13.81      15.09
+  13       -6.905      23.83      25.73
+  14       -6.815      28.21       28.9
+  15       -6.779      2.071      3.007
+  16       -6.654      23.98      25.96
+  17       -6.636       23.6      25.25
+  18       -6.624      22.13      23.26
+  19       -6.568      23.65      25.59
+  20        -6.45      23.91      25.56
+==============================================================

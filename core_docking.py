@@ -101,7 +101,7 @@ if __name__=="__main__":
 
     # this code is to cut off the interaction map so it will start again
     # with the file after the error file
-    tmp = list(tmp.items())[295:]
+    tmp = list(tmp.items())[347:]
 
     # a = tmp[0][1].pop(0)
 
